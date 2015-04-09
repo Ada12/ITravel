@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Profiles">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Weather"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Weather">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="city"/>
+        <xs:element ref="status1"/>
+        <xs:element ref="status2"/>
+        <xs:element ref="figure1"/>
+        <xs:element ref="figure2"/>
+        <xs:element ref="direction1"/>
+        <xs:element ref="direction2"/>
+        <xs:element ref="power1"/>
+        <xs:element ref="power2"/>
+        <xs:element ref="temperature1"/>
+        <xs:element ref="temperature2"/>
+        <xs:element ref="ssd"/>
+        <xs:element ref="tgd1"/>
+        <xs:element ref="tgd2"/>
+        <xs:element ref="zwx"/>
+        <xs:element ref="ktk"/>
+        <xs:element ref="pollution"/>
+        <xs:element ref="xcz"/>
+        <xs:element ref="zho"/>
+        <xs:element ref="diy"/>
+        <xs:element ref="fas"/>
+        <xs:element ref="chy"/>
+        <xs:element ref="zho_shuoming"/>
+        <xs:element ref="diy_shuoming"/>
+        <xs:element ref="fas_shuoming"/>
+        <xs:element ref="chy_shuoming"/>
+        <xs:element ref="pollution_l"/>
+        <xs:element ref="zwx_l"/>
+        <xs:element ref="ssd_l"/>
+        <xs:element ref="fas_l"/>
+        <xs:element ref="zho_l"/>
+        <xs:element ref="chy_l"/>
+        <xs:element ref="ktk_l"/>
+        <xs:element ref="xcz_l"/>
+        <xs:element ref="diy_l"/>
+        <xs:element ref="pollution_s"/>
+        <xs:element ref="zwx_s"/>
+        <xs:element ref="ssd_s"/>
+        <xs:element ref="ktk_s"/>
+        <xs:element ref="xcz_s"/>
+        <xs:element ref="gm"/>
+        <xs:element ref="gm_l"/>
+        <xs:element ref="gm_s"/>
+        <xs:element ref="yd"/>
+        <xs:element ref="yd_l"/>
+        <xs:element ref="yd_s"/>
+        <xs:element ref="savedate_weather"/>
+        <xs:element ref="savedate_life"/>
+        <xs:element ref="savedate_zhishu"/>
+        <xs:element ref="udatetime"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="city" type="xs:NCName"/>
+  <xs:element name="status1" type="xs:NCName"/>
+  <xs:element name="status2" type="xs:NCName"/>
+  <xs:element name="figure1" type="xs:NCName"/>
+  <xs:element name="figure2" type="xs:NCName"/>
+  <xs:element name="direction1" type="xs:NCName"/>
+  <xs:element name="direction2" type="xs:NCName"/>
+  <xs:element name="power1" type="xs:string"/>
+  <xs:element name="power2" type="xs:string"/>
+  <xs:element name="temperature1" type="xs:integer"/>
+  <xs:element name="temperature2" type="xs:integer"/>
+  <xs:element name="ssd" type="xs:integer"/>
+  <xs:element name="tgd1" type="xs:integer"/>
+  <xs:element name="tgd2" type="xs:integer"/>
+  <xs:element name="zwx" type="xs:integer"/>
+  <xs:element name="ktk" type="xs:integer"/>
+  <xs:element name="pollution" type="xs:integer"/>
+  <xs:element name="xcz" type="xs:integer"/>
+  <xs:element name="zho">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="diy">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="fas">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="chy" type="xs:integer"/>
+  <xs:element name="zho_shuoming" type="xs:NCName"/>
+  <xs:element name="diy_shuoming" type="xs:NCName"/>
+  <xs:element name="fas_shuoming" type="xs:NCName"/>
+  <xs:element name="chy_shuoming" type="xs:string"/>
+  <xs:element name="pollution_l" type="xs:NCName"/>
+  <xs:element name="zwx_l" type="xs:NCName"/>
+  <xs:element name="ssd_l" type="xs:NCName"/>
+  <xs:element name="fas_l" type="xs:NCName"/>
+  <xs:element name="zho_l" type="xs:NCName"/>
+  <xs:element name="chy_l" type="xs:NCName"/>
+  <xs:element name="ktk_l" type="xs:string"/>
+  <xs:element name="xcz_l" type="xs:NCName"/>
+  <xs:element name="diy_l" type="xs:NCName"/>
+  <xs:element name="pollution_s" type="xs:NCName"/>
+  <xs:element name="zwx_s" type="xs:NCName"/>
+  <xs:element name="ssd_s" type="xs:string"/>
+  <xs:element name="ktk_s" type="xs:NCName"/>
+  <xs:element name="xcz_s" type="xs:string"/>
+  <xs:element name="gm" type="xs:integer"/>
+  <xs:element name="gm_l" type="xs:NCName"/>
+  <xs:element name="gm_s" type="xs:string"/>
+  <xs:element name="yd" type="xs:integer"/>
+  <xs:element name="yd_l" type="xs:NCName"/>
+  <xs:element name="yd_s" type="xs:string"/>
+  <xs:element name="savedate_weather" type="xs:NMTOKEN"/>
+  <xs:element name="savedate_life" type="xs:NMTOKEN"/>
+  <xs:element name="savedate_zhishu" type="xs:NMTOKEN"/>
+  <xs:element name="udatetime" type="xs:string"/>
+</xs:schema>
