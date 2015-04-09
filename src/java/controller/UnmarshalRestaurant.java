@@ -16,7 +16,6 @@ import java.io.StringReader;
 import beans.Result;
 import beans.PlaceSearchResponse;
 import beans.Results;
-import java.util.ArrayList;
 import java.util.List;
 
 
