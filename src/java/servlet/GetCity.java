@@ -32,6 +32,11 @@ import controller.UnmarshalRestaurant;
 import beans.Result;
 import beans.Weather;
 import controller.UnmarshalWeather;
+import beans.SceneryList;
+import controller.GetSceneryList;
+import java.util.ArrayList;
+import beans.Scenery;
+import controller.GetScenery;
 /**
  *
  * @author yangchen
@@ -134,10 +139,16 @@ public class GetCity extends HttpServlet {
 //            check = "true";
 //        }
         
-        UnmarshalWeather uw = new UnmarshalWeather();
-        String city = "北京";
-        Weather w = uw.getWeather(city);
-      
+//        UnmarshalWeather uw = new UnmarshalWeather();
+//        String city = "北京";
+//        Weather w = uw.getWeather(city);
+        
+//        GetSceneryList gsl = new GetSceneryList();
+//        List<SceneryList> lsl = gsl.getSceneryList("芜湖");
+            
+        GetScenery gs = new GetScenery();
+        List<Scenery> ls = gs.getScenery("5305");
+    
         response.setContentType("text/html;charset=UTF-8");
         try (PrintWriter out = response.getWriter()) {
             /* TODO output your page here. You may use following sample code. */
@@ -148,7 +159,7 @@ public class GetCity extends HttpServlet {
             out.println("<script></script>");
             out.println("</head>");
             out.println("<body>");
-            out.println("<h1>Servlet GetCity at "+ w.getChyShuoming() +" </h1>");
+            out.println("<h1>Servlet GetCity at "+ ls.get(0).getReferral() +" </h1>");
             out.println("</body>");
             out.println("</html>");
         }
