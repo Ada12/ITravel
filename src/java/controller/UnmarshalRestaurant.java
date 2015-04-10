@@ -36,12 +36,12 @@ public class UnmarshalRestaurant {
             JAXBContext jbc = JAXBContext.newInstance("beans");
             Unmarshaller um = jbc.createUnmarshaller();
 		   
-		   um.setEventHandler(new ValidationEventHandler(){
-			   public boolean handleEvent(ValidationEvent ve){
-				   System.err.println(ve);
-				   return true;
-			   }
-		   });
+            um.setEventHandler(new ValidationEventHandler(){
+                public boolean handleEvent(ValidationEvent ve){
+                System.err.println(ve);
+		return true;
+                }
+            });
             String location = "39.915,116.404";
             GetResource gr = new GetResource();
             String url = getURL(gr, location);

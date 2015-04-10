@@ -30,6 +30,8 @@ import org.json.JSONException;
 import org.json.JSONObject;
 import controller.UnmarshalRestaurant;
 import beans.Result;
+import beans.Weather;
+import controller.UnmarshalWeather;
 /**
  *
  * @author yangchen
@@ -122,22 +124,19 @@ public class GetCity extends HttpServlet {
     
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
-//        HashMap ci = new HashMap();
-//        String weather = getWeather();
-//        try {
-//            ci = getCity();
-//        } catch (JSONException ex) {
-//            Logger.getLogger(GetCity.class.getName()).log(Level.SEVERE, null, ex);
+        
+//        UnmarshalRestaurant ur = new UnmarshalRestaurant();
+//        List<Result> r = ur.getData();
+//        String check;
+//        if(r == null){
+//            check = "false";
+//        }else{
+//            check = "true";
 //        }
         
-        UnmarshalRestaurant ur = new UnmarshalRestaurant();
-        List<Result> r = ur.getData();
-        String check;
-        if(r == null){
-            check = "false";
-        }else{
-            check = "true";
-        }
+        UnmarshalWeather uw = new UnmarshalWeather();
+        String city = "北京";
+        Weather w = uw.getWeather(city);
       
         response.setContentType("text/html;charset=UTF-8");
         try (PrintWriter out = response.getWriter()) {
@@ -149,7 +148,7 @@ public class GetCity extends HttpServlet {
             out.println("<script></script>");
             out.println("</head>");
             out.println("<body>");
-            out.println("<h1>Servlet GetCity at "+ r.get(0).getAddress() +" </h1>");
+            out.println("<h1>Servlet GetCity at "+ w.getChyShuoming() +" </h1>");
             out.println("</body>");
             out.println("</html>");
         }
