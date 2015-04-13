@@ -12,7 +12,6 @@ import org.json.JSONException;
 import org.json.JSONObject;
 import beans.SceneryList;
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
 
 /**
@@ -21,33 +20,11 @@ import java.util.List;
  */
 public class GetSceneryList {
     
-    public HashMap getCity(){
-        String url = "http://apis.haoservice.com/lifeservice/travel/cityList?key=de8a238525314a99a55515983592374a";
-        GetResource gr = new GetResource();
-        String data = gr.getData(url);
-        JSONObject dataJson;
-        try {
-            dataJson = new JSONObject(data);
-            JSONArray result = dataJson.getJSONArray("result");
-        HashMap cityInfo = new HashMap();
-        for(int i = 0;i< result.length();i++){
-            JSONObject info = result.getJSONObject(i);
-            String cn = info.getString("cityName");
-            String ci = info.getString("cityId");
-            cityInfo.put(cn, ci);
-            System.out.println(cn);
-        }
-        return cityInfo;
-        } catch (JSONException ex) {
-            Logger.getLogger(GetSceneryList.class.getName()).log(Level.SEVERE, null, ex);
-            return null;
-        }  
-    }
-    
     public List<SceneryList> getSceneryList(String city){ 
         GetResource gr = new GetResource();
+        GetCity gc = new GetCity();
         HashMap cityInfo = new HashMap();
-        cityInfo = getCity();
+        cityInfo = gc.getCity();
         String cityID = (String)cityInfo.get(city);
         String sceneryUrl = "http://apis.haoservice.com/lifeservice/travel/scenery?key=de8a238525314a99a55515983592374a&cid="+ cityID +"&page=1";
         String data = gr.getData(sceneryUrl);

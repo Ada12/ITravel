@@ -5,6 +5,7 @@
  */
 package servlet;
 
+import beans.Hotel;
 import com.sun.xml.rpc.processor.modeler.j2ee.xml.string;
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -36,6 +37,7 @@ import beans.SceneryList;
 import controller.GetSceneryList;
 import java.util.ArrayList;
 import beans.Scenery;
+import controller.GetHotel;
 import controller.GetScenery;
 /**
  *
@@ -146,9 +148,11 @@ public class GetCity extends HttpServlet {
 //        GetSceneryList gsl = new GetSceneryList();
 //        List<SceneryList> lsl = gsl.getSceneryList("芜湖");
             
-        GetScenery gs = new GetScenery();
-        List<Scenery> ls = gs.getScenery("5305");
+//        GetScenery gs = new GetScenery();
+//        List<Scenery> ls = gs.getScenery("5305");
     
+        GetHotel gh = new GetHotel();
+        List<Hotel> lh = gh.getHotel("巢湖");      
         response.setContentType("text/html;charset=UTF-8");
         try (PrintWriter out = response.getWriter()) {
             /* TODO output your page here. You may use following sample code. */
@@ -159,7 +163,7 @@ public class GetCity extends HttpServlet {
             out.println("<script></script>");
             out.println("</head>");
             out.println("<body>");
-            out.println("<h1>Servlet GetCity at "+ ls.get(0).getReferral() +" </h1>");
+            out.println("<h1>Servlet GetCity at "+ lh.get(0).getIntro() +" </h1>");
             out.println("</body>");
             out.println("</html>");
         }
