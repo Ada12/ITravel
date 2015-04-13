@@ -12,6 +12,10 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <form action="SceneryListServlet" method="POST">
+            城市：<input name="cityName" type="text">
+            <br/>
+            <input type="submit" value="查询" name="submit"/>
+        </form>
     </body>
 </html>
