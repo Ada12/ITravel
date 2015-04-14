@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="SceneryObjectList">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="status"/>
+        <xs:element ref="message"/>
+        <xs:element ref="SceneryLists"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="status" type="xs:integer"/>
+  <xs:element name="message" type="xs:NCName"/>
+  <xs:element name="SceneryLists">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="SceneryList"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SceneryList">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="title"/>
+        <xs:element ref="grade"/>
+        <xs:element ref="price_min"/>
+        <xs:element ref="comm_cnt"/>
+        <xs:element ref="city_id"/>
+        <xs:element ref="address"/>
+        <xs:element ref="sid"/>
+        <xs:element ref="url"/>
+        <xs:element ref="imgurl"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="title" type="xs:NCName"/>
+  <xs:element name="grade" type="xs:NCName"/>
+  <xs:element name="price_min" type="xs:NCName"/>
+  <xs:element name="comm_cnt" type="xs:NCName"/>
+  <xs:element name="city_id" type="xs:NCName"/>
+  <xs:element name="address" type="xs:NCName"/>
+  <xs:element name="sid" type="xs:NCName"/>
+  <xs:element name="url" type="xs:anyURI"/>
+  <xs:element name="imgurl" type="xs:anyURI"/>
+</xs:schema>

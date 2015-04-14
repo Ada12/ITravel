@@ -83,7 +83,7 @@ public class ObjectFactory {
     private final static QName _Power1_QNAME = new QName("", "power1");
     private final static QName _Power2_QNAME = new QName("", "power2");
 	
-	private final static QName _Uid_QNAME = new QName("", "uid");
+    private final static QName _Uid_QNAME = new QName("", "uid");
     private final static QName _Address_QNAME = new QName("", "address");
     private final static QName _Lng_QNAME = new QName("", "lng");
     private final static QName _Name_QNAME = new QName("", "name");
@@ -92,7 +92,16 @@ public class ObjectFactory {
     private final static QName _Lat_QNAME = new QName("", "lat");
     private final static QName _Status_QNAME = new QName("", "status");
 	
+    private final static QName _Imgurl_QNAME = new QName("", "imgurl");
+    private final static QName _CommCnt_QNAME = new QName("", "comm_cnt");
+    private final static QName _Grade_QNAME = new QName("", "grade");
+    private final static QName _Title_QNAME = new QName("", "title");
+    private final static QName _PriceMin_QNAME = new QName("", "price_min");
+    private final static QName _Url_QNAME = new QName("", "url");
+    private final static QName _CityId_QNAME = new QName("", "city_id");
+    private final static QName _Sid_QNAME = new QName("", "sid");
 	
+    private final static QName _SceneryObjectList_QNAME = new QName("", "SceneryObjectList");
 
     /**
      * Create a new ObjectFactory that can be used to create new instances of schema derived classes for package: beans
@@ -697,5 +706,111 @@ public class ObjectFactory {
     public JAXBElement<BigInteger> createStatus(BigInteger value) {
         return new JAXBElement<BigInteger>(_Status_QNAME, BigInteger.class, null, value);
     }
+    
+     /**
+     * Create an instance of {@link SceneryLists }
+     * 
+     */
+    public SceneryLists createSceneryLists() {
+        return new SceneryLists();
+    }
 
+    /**
+     * Create an instance of {@link SceneryList }
+     * 
+     */
+    public SceneryList createSceneryList() {
+        return new SceneryList();
+    }
+
+    /**
+     * Create an instance of {@link SceneryObjectList }
+     * 
+     */
+    public SceneryObjectList createSceneryObjectList() {
+        return new SceneryObjectList();
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link String }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "", name = "imgurl")
+    public JAXBElement<String> createImgurl(String value) {
+        return new JAXBElement<String>(_Imgurl_QNAME, String.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link String }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "", name = "comm_cnt")
+    @XmlJavaTypeAdapter(CollapsedStringAdapter.class)
+    public JAXBElement<String> createCommCnt(String value) {
+        return new JAXBElement<String>(_CommCnt_QNAME, String.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link String }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "", name = "grade")
+    @XmlJavaTypeAdapter(CollapsedStringAdapter.class)
+    public JAXBElement<String> createGrade(String value) {
+        return new JAXBElement<String>(_Grade_QNAME, String.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link String }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "", name = "title")
+    @XmlJavaTypeAdapter(CollapsedStringAdapter.class)
+    public JAXBElement<String> createTitle(String value) {
+        return new JAXBElement<String>(_Title_QNAME, String.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link String }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "", name = "price_min")
+    @XmlJavaTypeAdapter(CollapsedStringAdapter.class)
+    public JAXBElement<String> createPriceMin(String value) {
+        return new JAXBElement<String>(_PriceMin_QNAME, String.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link String }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "", name = "url")
+    public JAXBElement<String> createUrl(String value) {
+        return new JAXBElement<String>(_Url_QNAME, String.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link String }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "", name = "city_id")
+    @XmlJavaTypeAdapter(CollapsedStringAdapter.class)
+    public JAXBElement<String> createCityId(String value) {
+        return new JAXBElement<String>(_CityId_QNAME, String.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link String }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "", name = "sid")
+    @XmlJavaTypeAdapter(CollapsedStringAdapter.class)
+    public JAXBElement<String> createSid(String value) {
+        return new JAXBElement<String>(_Sid_QNAME, String.class, null, value);
+    }
+    
+    @XmlElementDecl(namespace = "",name = "sceneryObjectList")
+    public JAXBElement<SceneryObjectList> createSceneryObjectList(SceneryObjectList sol){
+        return new JAXBElement<SceneryObjectList>(_SceneryObjectList_QNAME, SceneryObjectList.class, null, sol);
+    }
 }

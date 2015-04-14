@@ -20,7 +20,7 @@ import java.util.List;
  */
 public class GetSceneryList {
     
-    public List<SceneryList> getSceneryList(String city){ 
+    public List<SceneryList> getAllSceneryList(String city){ 
         GetResource gr = new GetResource();
         GetCity gc = new GetCity();
         HashMap cityInfo = new HashMap();
@@ -34,18 +34,19 @@ public class GetSceneryList {
             dataJson = new JSONObject(data);
             List<SceneryList> lsl = new ArrayList<SceneryList>();
             
-            JSONArray errorCode = dataJson.getJSONArray("error_code");
-            JSONObject errorInfo = errorCode.getJSONObject(0);
+//            JSONArray errorCode = dataJson.getJSONArray("error_code");
+//            JSONObject errorInfo = errorCode.getJSONObject(0);
             
             JSONArray result = dataJson.getJSONArray("result");
             for(int i= 0 ;i < result.length();i ++){
                 JSONObject info = result.getJSONObject(i);
                 SceneryList sl = new SceneryList();
                 sl.setAddress(info.getString("address"));
-                sl.setCityID(info.getString("cityId"));
+                sl.setCityId(info.getString("cityId"));
                 sl.setGrade(info.getString("grade"));
+                sl.setCommCnt(info.getString("comm_cnt"));
                 sl.setImgurl(info.getString("imgurl"));
-                sl.setPrice_min(info.getString("price_min"));
+                sl.setPriceMin(info.getString("price_min"));
                 sl.setSid(info.getString("sid"));
                 sl.setTitle(info.getString("title"));
                 sl.setUrl(info.getString("url"));

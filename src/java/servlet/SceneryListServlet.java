@@ -7,14 +7,13 @@ package servlet;
 
 import beans.SceneryList;
 import controller.GetSceneryList;
+import controller.MarshalSceneryList;
 import java.io.IOException;
-import java.io.PrintWriter;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import java.net.URLEncoder;
 import java.util.HashMap;
 import java.util.List;
 import java.util.logging.Level;
@@ -40,18 +39,12 @@ public class SceneryListServlet extends HttpServlet {
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException{
         String cityName = request.getParameter("cityName");
-        request.setAttribute("cityName", cityName);
-        GetCity gc = new GetCity();
-        HashMap cityInfo;
-        try {
-            cityInfo = gc.getCity();
-            String cityID = (String) cityInfo.get(cityName);
-            System.out.println(cityName);
+        //request.setAttribute("cityName", cityName);
             GetSceneryList gsl = new GetSceneryList();
-            List<SceneryList> lsl = gsl.getSceneryList(cityID);
-        } catch (JSONException ex) {
-            Logger.getLogger(SceneryListServlet.class.getName()).log(Level.SEVERE, null, ex);
-        }
+            List<SceneryList> lsl = gsl.getAllSceneryList(cityName);
+            MarshalSceneryList  msl = new MarshalSceneryList();
+            msl.getXml(lsl);
+
         
         
         request.getRequestDispatcher("output.jsp").forward(request, response);
