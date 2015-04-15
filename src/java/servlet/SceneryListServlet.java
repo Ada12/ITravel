@@ -6,19 +6,28 @@
 package servlet;
 
 import beans.SceneryList;
+import beans.SceneryObjectList;
 import controller.GetSceneryList;
 import controller.MarshalSceneryList;
+import java.io.File;
 import java.io.IOException;
+import java.io.PrintWriter;
+import java.net.URL;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import java.util.HashMap;
 import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import org.json.JSONException;
+import javax.xml.transform.Source;
+import javax.xml.transform.Transformer;
+import javax.xml.transform.TransformerConfigurationException;
+import javax.xml.transform.TransformerException;
+import javax.xml.transform.TransformerFactory;
+import javax.xml.transform.stream.StreamResult;
+import javax.xml.transform.stream.StreamSource;
 
 /**
  *
@@ -38,16 +47,26 @@ public class SceneryListServlet extends HttpServlet {
      */
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException{
-        String cityName = request.getParameter("cityName");
-        //request.setAttribute("cityName", cityName);
+        try {
+            String cityName = request.getParameter("cityName");
+            //request.setAttribute("cityName", cityName);
             GetSceneryList gsl = new GetSceneryList();
             List<SceneryList> lsl = gsl.getAllSceneryList(cityName);
             MarshalSceneryList  msl = new MarshalSceneryList();
-            msl.getXml(lsl);
-
-        
-        
-        request.getRequestDispatcher("output.jsp").forward(request, response);
+            PrintWriter out = response.getWriter();
+            TransformerFactory fac = TransformerFactory.newInstance();
+            Source xslt = new StreamSource(new File(getServletContext().getRealPath("/") + "WEB-INF/classes/xsl/scenerylist.xsl"));
+            Transformer transformer = fac.newTransformer(xslt);
+            msl.getXml(lsl, getServletContext().getRealPath("/"));
+            
+            URL url = new URL("http://localhost:8080/ITravel/scenerylist.xml");
+            Source xml = new StreamSource(url.openStream());
+            transformer.transform(xml, new StreamResult(out));
+        } catch (TransformerConfigurationException ex) {
+            Logger.getLogger(SceneryListServlet.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (TransformerException ex) {
+            Logger.getLogger(SceneryListServlet.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }
 
     // <editor-fold defaultstate="collapsed" desc="HttpServlet methods. Click on the + sign on the left to edit the code.">

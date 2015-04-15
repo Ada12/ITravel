@@ -23,7 +23,7 @@ import javax.xml.bind.Marshaller;
  */
 public class MarshalSceneryList {
     
-    public void getXml(List<SceneryList> lsl) throws FileNotFoundException {
+    public void getXml(List<SceneryList> lsl, String path) throws FileNotFoundException {
         SceneryObjectList sol = new SceneryObjectList();
         SceneryLists sls = new SceneryLists();
         sls.setSceneryList(lsl);
@@ -33,7 +33,8 @@ public class MarshalSceneryList {
             Marshaller marshaller = jaxbContext.createMarshaller();
             JAXBElement<SceneryObjectList> jsol = (new ObjectFactory()).createSceneryObjectList(sol);
             marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
-            marshaller.marshal(jsol, new FileOutputStream("D:/test.xml"));
+            marshaller.marshal(jsol, new FileOutputStream(path + "scenerylist.xml"));
+            System.out.println(MarshalSceneryList.class.getResource("/").getPath() + "scenerylist.xml");
         } catch (JAXBException ex) {
             Logger.getLogger(MarshalSceneryList.class.getName()).log(Level.SEVERE, null, ex);
         }
