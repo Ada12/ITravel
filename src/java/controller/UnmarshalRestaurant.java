@@ -25,7 +25,7 @@ import java.util.List;
  */
 public class UnmarshalRestaurant {
     
-    public List<Result> getData(){
+    public List<Result> getData(String location, String category){
 //        Result r = new Result();
 //        r.setAddress("1239号");
 //        r.setName("北京");
@@ -42,9 +42,8 @@ public class UnmarshalRestaurant {
 		return true;
                 }
             });
-            String location = "39.915,116.404";
             GetResource gr = new GetResource();
-            String url = getURL(gr, location);
+            String url = getURL(gr, location, category);
             String res = gr.getData(url);
             
             PlaceSearchResponse psr = (PlaceSearchResponse) um.unmarshal(new StringReader((res)));
@@ -58,8 +57,7 @@ public class UnmarshalRestaurant {
         }
     }
     
-    public String getURL(GetResource gr,String location){
-        String category = "饭店";
+    public String getURL(GetResource gr, String location, String category){
         category = gr.ChangeGB(category);
         String url = "http://api.map.baidu.com/place/v2/search?query="+ category +"&location="+ location +"&radius=2000&output=xml&ak=X2FGKdTqlfoXvwXhdz8UYEko";
         return url;

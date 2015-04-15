@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <p><%=request.getParameter("cityName")%></p>
+        <p><%=request.getParameter("sid")%></p>
     </body>
 </html>

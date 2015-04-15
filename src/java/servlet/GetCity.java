@@ -37,6 +37,7 @@ import beans.SceneryList;
 import controller.GetSceneryList;
 import java.util.ArrayList;
 import beans.Scenery;
+import controller.GetGeocoding;
 import controller.GetHotel;
 import controller.GetScenery;
 /**
@@ -151,8 +152,13 @@ public class GetCity extends HttpServlet {
 //        GetScenery gs = new GetScenery();
 //        List<Scenery> ls = gs.getScenery("5305");
     
-        GetHotel gh = new GetHotel();
-        List<Hotel> lh = gh.getHotel("巢湖");      
+//        GetHotel gh = new GetHotel();
+//        List<Hotel> lh = gh.getHotel("巢湖");
+        
+        GetGeocoding gg = new GetGeocoding();
+        double[] ge = new double[2];
+        ge = gg.getGeocoding("百度大厦");
+        
         response.setContentType("text/html;charset=UTF-8");
         try (PrintWriter out = response.getWriter()) {
             /* TODO output your page here. You may use following sample code. */
@@ -163,7 +169,7 @@ public class GetCity extends HttpServlet {
             out.println("<script></script>");
             out.println("</head>");
             out.println("<body>");
-            out.println("<h1>Servlet GetCity at "+ lh.get(0).getIntro() +" </h1>");
+            out.println("<h1>Servlet GetCity at "+ ge[0] + ","+ ge[1] + " </h1>");
             out.println("</body>");
             out.println("</html>");
         }

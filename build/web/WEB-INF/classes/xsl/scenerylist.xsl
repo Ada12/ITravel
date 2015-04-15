@@ -22,18 +22,23 @@
             <body>
                 <h2>景点列表</h2>
                 <xsl:for-each select="SceneryObjectList/SceneryLists/SceneryList">
-                        景点名称：<xsl:value-of select="title"></xsl:value-of>
+                    景点名称:
+                    <xsl:element name="a">
+                        <xsl:attribute name="href">TravelInfo?sid=<xsl:value-of select="sid"></xsl:value-of>
+                        </xsl:attribute>
+                        <xsl:value-of select="title"></xsl:value-of>
+                    </xsl:element>   
                         景点级别：<xsl:value-of select="grade"></xsl:value-of>
                         最低票价：<xsl:value-of select="price_min"></xsl:value-of>
                         点评数：<xsl:value-of select="comm_cnt"></xsl:value-of>
                         城市：<xsl:value-of select="city_id"></xsl:value-of>
                         地址：<xsl:value-of select="address"></xsl:value-of>
-                        景点id：<xsl:value-of select="sid"></xsl:value-of>
                         <xsl:element name="a">
                             <xsl:attribute name="href">
                                 <xsl:value-of select="url"></xsl:value-of>
                             </xsl:attribute>
-                            访问主页</xsl:element>
+                            访问主页
+                        </xsl:element>
                         景点图片：
                         <xsl:element name="img">
                             <xsl:attribute name="src">

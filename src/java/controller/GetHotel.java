@@ -6,7 +6,6 @@
 package controller;
 
 import beans.Hotel;
-import com.sun.xml.rpc.processor.modeler.j2ee.xml.string;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
