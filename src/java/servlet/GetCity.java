@@ -157,7 +157,9 @@ public class GetCity extends HttpServlet {
         
         GetGeocoding gg = new GetGeocoding();
         double[] ge = new double[2];
-        ge = gg.getGeocoding("百度大厦");
+        ge = gg.getGeocoding("安徽省蚌埠市五河县城关镇九和收藏馆");
+        GetHotel gh = new GetHotel();
+        List<Hotel> lh = gh.getHotel("蚌埠", ge);
         
         response.setContentType("text/html;charset=UTF-8");
         try (PrintWriter out = response.getWriter()) {
@@ -169,7 +171,7 @@ public class GetCity extends HttpServlet {
             out.println("<script></script>");
             out.println("</head>");
             out.println("<body>");
-            out.println("<h1>Servlet GetCity at "+ ge[0] + ","+ ge[1] + " </h1>");
+            out.println("<h1>Servlet GetCity at "+ lh.get(2).getHotelID() + "," + lh.size() + "," + ge[0] + ","+ ge[1] + " </h1>");
             out.println("</body>");
             out.println("</html>");
         }

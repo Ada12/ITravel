@@ -21,7 +21,7 @@ import org.json.JSONObject;
  */
 public class GetHotel {
     
-    public List<Hotel> getHotel(String cityName){
+    public List<Hotel> getHotel(String cityName, double[] geocoding){
         GetResource gr = new GetResource();
         GetCity gc = new GetCity();
         HashMap cityInfo = new HashMap();
@@ -52,9 +52,35 @@ public class GetHotel {
                 h.setCityID(info.getString("cityId"));
                 h.setUrl(info.getString("url"));
                 h.setSatisfaction(info.getString("manyidu"));
-                lh.add(h);
+                double lon = Double.valueOf(info.getString("Lon"));
+                double lat = Double.valueOf(info.getString("Lat"));
+                if((Math.abs(lon - geocoding[0]) < 0.11)&&(Math.abs(lat - geocoding[1]) < 0.11)){
+                    lh.add(h);
+                }
+            }       
+            List<Hotel> alh = new ArrayList<Hotel>();
+            for(int j = 0; j < result.length(); j ++){
+                JSONObject infoAll = result.getJSONObject(j);
+                Hotel ah = new Hotel();
+                ah.setHotelID(infoAll.getString("id"));
+                ah.setName(infoAll.getString("name"));
+                ah.setClassName(infoAll.getString("className"));
+                ah.setIntro(infoAll.getString("intro"));
+                ah.setDpNum(infoAll.getString("dpNum"));
+                ah.setLat(infoAll.getString("Lat"));
+                ah.setLon(infoAll.getString("Lon"));
+                ah.setAddress(infoAll.getString("address"));
+                ah.setLargePic(infoAll.getString("largePic"));
+                ah.setCityID(infoAll.getString("cityId"));
+                ah.setUrl(infoAll.getString("url"));
+                ah.setSatisfaction(infoAll.getString("manyidu"));
+                    alh.add(ah);            
             }
-            return lh;
+            if(lh.isEmpty()){
+                return alh;
+            }else{
+                return lh;
+            }    
         } catch (JSONException ex) {
             Logger.getLogger(GetHotel.class.getName()).log(Level.SEVERE, null, ex);
             return null;
