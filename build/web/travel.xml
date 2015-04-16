@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="gb2312" standalone="yes"?>
 <Travel>
-    <travelTitle>苏州乐园</travelTitle>
-    <travelCity>苏州</travelCity>
+    <travelTitle>5D星空视界乐园 3D体感游戏</travelTitle>
+    <travelCity>无锡</travelCity>
     <weather>
-        <city>苏州</city>
+        <city>无锡</city>
         <status1>多云</status1>
         <status2>多云</status2>
         <figure1>duoyun</figure1>
         <figure2>duoyun</figure2>
-        <direction1>北风</direction1>
-        <direction2>东南风</direction2>
-        <power1>3-4</power1>
-        <power2>3-4</power2>
+        <direction1>西风</direction1>
+        <direction2>东风</direction2>
+        <power1>≤3</power1>
+        <power2>≤3</power2>
         <temperature1>23</temperature1>
-        <temperature2>13</temperature2>
+        <temperature2>11</temperature2>
         <ssd>6</ssd>
         <tgd1>21</tgd1>
         <tgd2>21</tgd2>
         <zwx>1</zwx>
-        <ktk>4</ktk>
-        <pollution>1</pollution>
+        <ktk>5</ktk>
+        <pollution>3</pollution>
         <xcz>4</xcz>
         <zho/>
         <diy/>
@@ -29,19 +29,19 @@
         <diy_shuoming>暂无</diy_shuoming>
         <fas_shuoming>暂无</fas_shuoming>
         <chy_shuoming>单层薄衫、裤薄型棉衫、长裤、针织长袖衫、长袖T恤。薄型套装、牛仔衫裤、西服套装、薄型夹克</chy_shuoming>
-        <pollution_l>优</pollution_l>
+        <pollution_l>轻度</pollution_l>
         <zwx_l>最弱</zwx_l>
         <ssd_l>温暖舒适</ssd_l>
         <fas_l>暂无</fas_l>
         <zho_l>暂无</zho_l>
         <chy_l>单衣类</chy_l>
-        <ktk_l>不需要开启</ktk_l>
+        <ktk_l>比较适宜(制热)</ktk_l>
         <xcz_l>不太适宜</xcz_l>
         <diy_l>暂无</diy_l>
-        <pollution_s>非常有利于空气污染物扩散</pollution_s>
+        <pollution_s>对空气污染物扩散无明显影响</pollution_s>
         <zwx_s>紫外线最弱</zwx_s>
         <ssd_s>天气状况良好时，多到户外活动，并可适当增加户外活动时间。</ssd_s>
-        <ktk_s>不需要开启空调</ktk_s>
+        <ktk_s>比较适宜开启空调</ktk_s>
         <xcz_s>洗车后未来1-2天内有降水、大风或沙尘天气，不太适宜洗车</xcz_s>
         <gm>1</gm>
         <gm_l>低发期</gm_l>
@@ -55,474 +55,496 @@
         <udatetime>2015-04-16 08:01:00</udatetime>
     </weather>
     <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2015/01/15/2/201501151201436774641.jpg</imgurl>
-        <referral>【家庭亲子游】入口 &amp;rarr; 苏迪广场（转转杯、环园列车、观光游览车）&amp;rarr; 苏迪王国（桑巴气球、童话世界、碰碰车、旋转木马）&amp;rarr; 未来广场（宇宙大战、球幕影院、飞碟探险）&amp;rarr; 狮山奇观（丛林战车、天狮瀑布）&amp;rarr; 威尼斯水乡 &amp;rarr; 百狮广场 &amp;rarr; 加勒比广场 &amp;rarr; 欧美风情街区（4D影院、迷的洋馆）&amp;rarr;奇幻梦剧场（谷木飞艇、玩转瑜伽、Jellystone XD影院）&amp;rarr; 意大利广场（上山缆车）&amp;rarr; 鸽子广场 &amp;rarr; 狮泉花园 &amp;rarr; 出口</referral>
-        <title>苏州乐园欢乐世界游玩线路|理由1苏州乐园有着西方游乐场的活泼和欢快，在欧美城镇可以领略到缤纷绚烂的欧美风采，有国内首列从英国进口的仿古小火车苏迪环园列车，带您环绕乐园一周，沿途美景尽收眼底。理由2有悬挂式过山车，掠山过洞、行云踏水，乘坐时，两脚腾空，环周无挡，体验时速80公里自由飞翔。还有丛林战车，滑翔翼，跑马场等其他刺激项目。理由3苏州乐园还有奇幻梦剧场，XD影院带你进入一个刺激、欢乐、感动、温馨皆无处不在的神奇庄园，身临其境感受这远离尘世纷扰的净土，是时候开启一段奇幻旅程了。</title>
+        <imgurl>http://upload.17u.com/uploadfile/2015/04/07/2/201504071525383973697.jpg</imgurl>
+        <referral>3D魔幻艺术起源于60年代的幻视艺术运动，艺术家用手中画笔配合新技术，辅以灯光折射与创新构想，彻底打破二位视觉界限。每幅3D油画作品旁都有拍照说明与示意图，有几个推荐拍摄动作与表情供参观者参考，当然你也可以根据情境自己创作新动作 、新情节。</referral>
+        <title>游玩景点无锡3D错觉艺术馆+体感游戏节|理由1每幅3D油画作品旁都有拍照说明与示意图，有几个推荐拍摄动作与表情供参观者参考，当然你也可以根据情境自己创作新动作、新情节。理由2每幅作品前都有一个推荐拍摄位，因每台相机、手机的焦距不一样，故需根据推荐拍摄位，向前/向后调整，以拍正面完整画面，少拍画布外场景为准。理由3可以将不同作品串联起来、配以情节和故事，这将是你导演的一部微电影；也可以一副作品拍摄几个动作，然后做成动画、视频作品也是相当给力的。理由4在&amp;ldquo;艺术&amp;rdquo;创作时，灵感乍现，大家探讨情节其乐融融，配合逗趣的海都3D魔幻艺术油画更是欢声一片，给你带来一场特别的海都3D魔幻之旅，穿越在各个时代、各个场景!</title>
     </listScenery>
     <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2015/01/15/2/201501151152250467591.jpg</imgurl>
-        <referral>【惊险之旅】入口 &amp;rarr; 苏迪广场&amp;rarr; 奇幻梦剧场（玩转瑜伽、谷木飞艇）&amp;rarr; 加勒比广场（极速风车、龙卷风）&amp;rarr; 威尼斯水乡（空中飞人）&amp;rarr; 百狮广场（高空弹射）&amp;rarr; 狮山奇观（悬挂式过山车）&amp;rarr; 未来广场（飞碟探险、宇宙大战）&amp;rarr; 冒险岛（拼搏彩弹）&amp;rarr; 意大利广场（上山缆车、滑翔翼）&amp;rarr;欢乐嘉年华 &amp;rarr; 出口</referral>
-        <title>苏州乐园欢乐世界欧美城镇</title>
+        <imgurl>http://upload.17u.com/uploadfile/2015/04/07/2/201504071527294221949.jpg</imgurl>
+        <referral>不仅有单纯的3D立体画、还有十多项独家研发的错觉艺术以及风靡大江南北的体感游戏节。已先后在几座城市成功举办大型3D艺术展，在每个地区举办的基本是当地规模较大的3D魔幻艺术展示、内容丰富，好评率高，众多市民慕名而来。 独家发明正反房间、爱的剪影、无底洞、无限星空、魔镜室、错觉房间、前世今生镜、疯子实验室、科学怪人、错觉椅子、飞岩走壁房、向45度致敬、恐怖红沙发、食人族桌、恶搞大变身、3D体感游戏、感应热舞室、水果忍者、魔幻体感飞车等作品，独家奉献千万别错过!</referral>
+        <title>游玩景点无锡3D错觉艺术馆+体感游戏节</title>
     </listScenery>
     <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2015/01/15/2/201501151200185059140.jpg</imgurl>
-        <referral>【苏迪环园列车】是国内首列从英国进口的仿古小火车，总站设在苏迪总站，途经未来广场站、苏格兰站。全长2公里，运行时间大约二十分钟，列车将带您环绕乐园一周，沿途美景尽收眼底。</referral>
-        <title>苏州乐园欢乐世界苏迪王国</title>
+        <imgurl>http://upload.17u.com/uploadfile/2015/04/07/2/201504071525412832680.jpg</imgurl>
+        <referral>可以将不同作品串联起来、配以情节和 故事，这将是你导演的一部微电影；也可以一副作品拍摄几个动作，然后做成动画、视频作品也是相当给力的。注意要三到位：姿势要到位、表情要到位、眼神也要到位。观展完3D魔幻之旅还没结束，可以通过美图秀秀、在线GIF制作、PhotoShop等工具处理照片，创作出完全属于自己的3D魔幻作品。</referral>
+        <title>游玩景点无锡3D错觉艺术馆+体感游戏节</title>
     </listScenery>
     <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2015/01/15/2/201501151209111029904.jpg</imgurl>
-        <referral>【欢乐嘉年华】这里是一个缤纷的游艺世界，欢乐的游乐天地。跳跃、碰击、旋转、竞技，置身其中体验童年的欢乐、青春的激昂，是大朋友、小朋友、老朋友共同的欢乐嘉年华。</referral>
-        <title>苏州乐园欢乐世界未来广场</title>
+        <imgurl>http://upload.17u.com/uploadfile/2015/04/07/2/201504071525402844186.jpg</imgurl>
+        <referral>让观者视觉与平衡产生错觉，生成视觉认知盲点，随着观看角度不同，心上作品的心理感知也随之起伏变化。美妙绝伦的3D艺术馆，极富魅力的错觉空间艺术，3D电影，3D幻影成像，3D体感互动游戏！旨在为您提供一场奇幻的视觉饕餮盛宴与独特的互动娱乐空间。</referral>
+        <title>游玩景点无锡3D错觉艺术馆+体感游戏节</title>
     </listScenery>
     <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2015/01/15/2/201501151159047071279.jpg</imgurl>
-        <referral>【上山缆车】连接狮子山和乐园中心景区的意大利广场。索道全长400米，上下站高差65米，共有12个吊箱，分成4组，每组3个吊箱，每个吊箱定员6人。最大运行速度3米/秒，为方便游客上下，吊箱组进站时索道减慢为0.4米/秒的时速运行，非常安全与舒适。</referral>
-        <title>苏州乐园欢乐世界加勒比风暴区</title>
+        <imgurl>http://upload.17u.com/uploadfile/2015/04/07/2/201504071525393178196.jpg</imgurl>
+        <referral>3D魔幻艺术画是固定的,而你的想法、创意是无限的。在艺术创作时，灵感乍现，大家探讨情节其乐融融，配合逗趣的海都3D魔幻艺术油画更是欢声一片，给你带来一场特别的海都3D魔幻之旅，穿越在各个时代、各个场景。</referral>
+        <title>游玩景点无锡3D错觉艺术馆+体感游戏节</title>
     </listScenery>
     <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2015/01/15/2/201501151151169753255.jpg</imgurl>
-        <referral>【桑巴气球】乘上美丽的热气球，伴随着音乐的节奏，仿佛跳起热情奔放的桑巴舞。</referral>
-        <title>苏州乐园欢乐世界奇幻梦剧场</title>
+        <imgurl>http://upload.17u.com/uploadfile/2015/04/07/2/201504071525373985203.jpg</imgurl>
+        <referral>3D魔幻艺术画专业大气，艺术氛围浓厚，整体规划合理，配套设施人性化，灯光讲究，画布凭证。我们拥有自己研发的多间魔幻艺术室、体感游戏、全息投影，不可错过！</referral>
+        <title>游玩景点无锡3D错觉艺术馆+体感游戏节</title>
     </listScenery>
     <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2015/01/15/2/201501151142314881142.jpg</imgurl>
-        <referral>【碰碰车】只有在碰碰车的世界里，你真实驾驭的车辆才可以横冲直撞，随心所欲。车辆与车辆间的撞击让你兴奋无比。不过，我们慎重提醒游客行车途中切勿随便下车。</referral>
-        <title>苏州乐园欢乐世界狮山奇观</title>
-    </listScenery>
-    <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2015/01/15/2/201501151151179644761.jpg</imgurl>
-        <referral>【旋转木马】是由意大利引进的传统经典游乐项目，是国内最大的单层旋转木马，可同时乘坐72人，乘上旋转的木马，伴随着欢快的音乐节奏，会给您带来全身心的愉悦与欢乐。</referral>
-        <title>苏州乐园欢乐世界水果部落</title>
-    </listScenery>
-    <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2015/01/15/2/201501151151189598407.jpg</imgurl>
-        <referral>【冲天大回旋】最多可同时接受24位挑战者，最快时速高达80公里/小时，最高高度达45米，呼啸而下，往返其中，回来时仍可听见尖叫余声，刹那间，恍如时光倒流，幸福和激动在此刻交汇，妙不可言。</referral>
-        <title>苏州乐园欢乐世界乐园美食</title>
-    </listScenery>
-    <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2015/01/15/2/20150115114226790136.jpg</imgurl>
-        <referral>【飞碟探索】是世界上第一套将360度环幕电影与动感模拟技术相结合的动感环幕影院系统。在此您将随环法自行车赛的健儿们一起踏上遨游法兰西的征途，香榭丽舍大街上喧嚣的人群，拥挤的车流，雄伟的凯旋门，巍峨的阿尔卑斯山脉，让您身临其境，留恋往返。</referral>
-        <title>&amp;mdash; &amp;mdash; black</title>
-    </listScenery>
-    <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2015/01/15/2/201501151211482542151.jpg</imgurl>
-        <referral>【球幕影院】千百企鹅卖萌起舞，摇摆南极，萌翻眼球！《快乐的大脚》以南极大陆为背景、帝王企鹅为主角的CG巨制，影片风格明快，老少皆宜，加入球幕环绕播放特效及多维互动，让你犹如身临南极冰川，跟随电影主角们一起舞动！</referral>
-        <title>&amp;mdash; &amp;mdash; Fei</title>
-    </listScenery>
-    <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2015/01/15/2/201501151210046081235.jpg</imgurl>
-        <referral>【宇宙大战】可自己操纵升降旋转的小飞机，相互间通过电脑显示屏在茫茫宇宙中进行一场真正的电子大战，被击中者的飞机将会坠落，每次战斗后都将产生一位最终的胜利者。</referral>
-        <title>&amp;mdash; &amp;mdash; 18662gxcjpz</title>
-    </listScenery>
-    <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2015/01/15/2/201501151142286412495.jpg</imgurl>
-        <referral>【极速风车】飓风呼啸在耳边，天空俯冲到地面。加勒比的飓风湾在翻腾倒海，此时的你，身体不再属于自己。这就是加勒比极速风车的神奇魅力。海盗船长杰克斯派洛和美貌的伊莉莎白，他们会告诉你：上来吧！你是一位勇敢的朋友，加勒比海盗欢迎你。</referral>
-        <title></title>
-    </listScenery>
-    <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2015/01/15/2/201501151142305126118.jpg</imgurl>
-        <referral>【龙卷风】这里是我们加勒比飓风湾上的罗亚尔港(Port Royal)小镇，海盗船长杰克斯派洛和他的朋友就在这儿生活过。看，屋顶上那个被称作龙卷风的大铁架就是铁匠威尔特纳为他心爱的伊莉莎白小姐打造的，也是当年杰克他们娱乐表演的场所。</referral>
-        <title></title>
-    </listScenery>
-    <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2015/01/15/2/201501151207445244265.jpg</imgurl>
-        <referral>【冰雕王国】室内展示区，面积800多平方米，20余组冰雕作品。魅力独特的冰雕艺术，可爱的小狗拉雪橇，美轮美奂的彩灯装饰，让冰雪王国整体呈现变幻莫测的奇幻效果，让人恍入仙境。</referral>
-        <title></title>
-    </listScenery>
-    <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2015/01/15/2/201501151155124567940.jpg</imgurl>
-        <referral>【玩转瑜伽】四维立体旋转乘坐平台，玩转变幻无穷的惊险刺激，与瑜伽熊一同身临地动山摇、天旋地转的逼真情境，沉浸在无穷快乐之时，成就真正的无敌勇者。</referral>
-        <title></title>
-    </listScenery>
-    <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2015/01/15/2/201501151153274726547.jpg</imgurl>
-        <referral>【Jellystone&amp;mdash;XD影院】Jellystone风景秀丽、生态安居，全方位XD影院带你进入一个刺激、欢乐、感动、温馨皆无处不在的神奇庄园，身临其境感受这远离尘世纷扰的净土，是时候开启一段奇幻旅程了！</referral>
-        <title></title>
-    </listScenery>
-    <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2015/01/15/2/201501151155486879194.jpg</imgurl>
-        <referral>【滑翔翼】又称滑索飞渡，长480米，落差80米，每次可乘坐两人。乘坐该项目由狮子山顶起飞，降落在加勒比飓风湾的黑珍珠号海盗船上，在快速滑行中，俯瞰全园美景，让您心旷神怡。</referral>
-        <title></title>
-    </listScenery>
-    <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2015/01/15/2/201501151206082854321.jpg</imgurl>
-        <referral>【悬挂式过山车】一个建于1803年的老金矿山，当年的古旧矿车经过200年的演变，已发展成现代科技文明的结晶，这就是悬挂式过山车。本项目由荷兰引进，全长787米，落差38米，掠山过洞、行云踏水，游客乘坐时，两脚腾空，环周无挡，体验时速80公里自由飞翔。</referral>
-        <title></title>
-    </listScenery>
-    <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2015/01/15/2/201501151204396156512.jpg</imgurl>
-        <referral>【青蛙跳】专门让孩子们体验直升云霄的快感，上下跳跃的刺激，在尖叫声中释放自己。也让自己与水果精灵们一起做一次真正的小宇航员。</referral>
-        <title></title>
-    </listScenery>
-    <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2015/01/15/2/201501151203014982944.jpg</imgurl>
-        <referral>【疯狂巴士】保护家园的旅途从踏上巴士开始，环绕的巴士，腾空的快感，它们都在告诉着你，你正在开始你的勇士之旅，和水果精灵们一起为了保护家园而战斗。</referral>
-        <title></title>
-    </listScenery>
-    <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2015/01/15/2/201501151203538057718.jpg</imgurl>
-        <referral>【水果飞弹区】保护家园的战斗已经打响，快坐上水果飞弹与水果精灵们一起战斗。各式各样的水果船舱带着你腾空而起让你感受飞翔的喜悦，展开一次刺激精彩的旅程。</referral>
-        <title></title>
-    </listScenery>
-    <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2015/01/15/2/201501151221162163066.jpg</imgurl>
-        <referral>苏迪儿童餐厅：盖浇饭为主，香浓醇美的牛排饭，清新可口的蔬菜，营养美味的蛋羹，鲜香爽口的海鲜汤，为你一一提供；水上餐厅：种类丰富，选择多样，自助形式。游客们可以根据自己喜好任意挑选。苏迪汉堡王：大块嫩滑牛肉+爽口生菜，超凡美味的苏迪双层汉堡王等你来！</referral>
-        <title></title>
+        <imgurl>http://upload.17u.com/uploadfile/2015/04/07/2/201504071525363532484.jpg</imgurl>
+        <referral>3D魔幻艺术画是固定的,而你的想法、创意是无限的。每个月不定期更新3D画作，创作新画，让你随时都有新惊喜。3D魔幻艺术画作品题材丰富，互动形式多样，各种错觉形式让观众觉得不可思议。趣味性强，参与度高。</referral>
+        <title>游玩景点无锡3D错觉艺术馆+体感游戏节</title>
     </listScenery>
     <listRestaurant>
-        <name>香雪海饭店中餐厅(馨泰店)</name>
+        <name>无锡日航饭店</name>
         <location>
-            <lat>31.293789</lat>
-            <lng>120.560978</lng>
+            <lat>31.568962</lat>
+            <lng>120.318894</lng>
         </location>
-        <address>苏州高新区玉山路69号(近馨泰花园北门)</address>
-        <telephone>(0512)68088878,(0512)68088898</telephone>
-        <uid>dffd46425a7249ab3d9a5e83</uid>
+        <address>南长区永乐东路9号(向阳路与永乐东路交叉口)</address>
+        <telephone>0510-85088888</telephone>
+        <uid>6835e3a70a02e557e21103ea</uid>
     </listRestaurant>
     <listRestaurant>
-        <name>99旅馆连锁</name>
+        <name>王裕兴肉庄</name>
         <location>
-            <lat>31.293805</lat>
-            <lng>120.556095</lng>
+            <lat>31.571138</lat>
+            <lng>120.31515</lng>
         </location>
-        <address>苏州新区长江路318号御花园广场</address>
-        <telephone>(0512)80988999</telephone>
-        <uid>22722573a0b5500afa42b26f</uid>
+        <address>南禅寺A区112号(南禅寺美食一条街)</address>
+        <telephone>13338749765,13921528309</telephone>
+        <uid>803708f116348d600189723a</uid>
     </listRestaurant>
     <listRestaurant>
-        <name>香雪海饭店</name>
+        <name>君来梁溪饭店</name>
         <location>
-            <lat>31.293789</lat>
-            <lng>120.560979</lng>
+            <lat>31.574838</lat>
+            <lng>120.310262</lng>
         </location>
-        <address>玉山路100号</address>
-        <telephone>(0512)68088878</telephone>
-        <uid>21454ddf7c5e5a06dc1e5277</uid>
+        <address>中山路177号（八佰伴斜对面）</address>
+        <telephone>(0510)88683888</telephone>
+        <uid>b292b3aa8236474fbe48424c</uid>
     </listRestaurant>
     <listRestaurant>
-        <name>北疆饭店(塔园路店)</name>
+        <name>肯德基向阳餐厅-洗手间</name>
         <location>
-            <lat>31.301735</lat>
-            <lng>120.564183</lng>
+            <lat>31.571731</lat>
+            <lng>120.315586</lng>
         </location>
-        <address>高新区塔园路160号(近巴蜀传香)</address>
-        <telephone>(0512)68078333,(0512)68059193</telephone>
-        <uid>31f9101b63c7e8a026e0a0dc</uid>
+        <address>南长区向阳路38号南禅寺110-1号(近解放东路)</address>
+        <uid>cc30f716f67b7d38d5b74ef7</uid>
     </listRestaurant>
     <listRestaurant>
-        <name>泰派泰国休闲餐厅</name>
+        <name>小峰饭店 南长街店</name>
         <location>
-            <lat>31.289747</lat>
-            <lng>120.555824</lng>
+            <lat>31.568208</lat>
+            <lng>120.317531</lng>
         </location>
-        <address>长江路211号美罗百货3楼（近苏州乐园），地铁玉山路站出口处</address>
-        <telephone>(0512)68181658</telephone>
-        <uid>c8876ccccaaaa979a8f0cdee</uid>
+        <address>南长区南长街167号(跨塘桥北面)</address>
+        <telephone>(0510)85057576</telephone>
+        <uid>c61bd30579180571c37da2f1</uid>
     </listRestaurant>
     <listRestaurant>
-        <name>肯德基(苏州乐园餐厅)-洗手间</name>
+        <name>凯宾斯基饭店</name>
         <location>
-            <lat>31.299652</lat>
-            <lng>120.554976</lng>
+            <lat>31.556962</lat>
+            <lng>120.306586</lng>
         </location>
-        <address>狮山路326号</address>
-        <uid>0599b96803735b362fb17eab</uid>
+        <address>无锡南长区永和路18号凯宾斯基内近太湖大道</address>
+        <telephone>(0510)81088888</telephone>
+        <uid>8fde79cc103433a694ca07f5</uid>
     </listRestaurant>
     <listRestaurant>
-        <name>&#38642;上创意云南菜</name>
+        <name>无锡日航饭店酒吧</name>
         <location>
-            <lat>31.298618</lat>
-            <lng>120.565591</lng>
+            <lat>31.569054</lat>
+            <lng>120.31897</lng>
         </location>
-        <address>苏州高新区塔园路168号阳光百货</address>
-        <telephone>(0512)68558568,(0512)68558569</telephone>
-        <uid>4a3cc1411f8a6e37f4eafcc8</uid>
+        <address>永乐东路9号无锡日航饭店17楼</address>
+        <telephone>(0510)85088888</telephone>
+        <uid>063422bc97195a83adcb6600</uid>
     </listRestaurant>
     <listRestaurant>
-        <name>巴蜀饭店</name>
+        <name>无锡日航饭店-阳春巷地下停车场</name>
         <location>
-            <lat>31.293882</lat>
-            <lng>120.554513</lng>
+            <lat>31.568946</lat>
+            <lng>120.31859</lng>
         </location>
-        <address>江苏省苏州市虎丘区</address>
-        <uid>02e40b7f2a9db45f6b49f339</uid>
+        <address>永乐东路5</address>
+        <uid>d27614ba8aa72318b4265596</uid>
     </listRestaurant>
     <listRestaurant>
-        <name>乐迪茶饮</name>
+        <name>豪未来西餐厅(南禅寺店)</name>
         <location>
-            <lat>31.290773</lat>
-            <lng>120.550284</lng>
+            <lat>31.570961</lat>
+            <lng>120.317167</lng>
         </location>
-        <address>高新区高新区玉山路162号(糖果乐园食其乐美食广场内（水上乐园边）)</address>
-        <telephone>15862335149</telephone>
-        <uid>790626d29da8d5b27dc876b2</uid>
+        <address>南长区南禅寺妙光苑7号(穆桂英大酒店隔壁)</address>
+        <telephone>(0510)85028788</telephone>
+        <uid>93f939f7791df10221f017f1</uid>
     </listRestaurant>
     <listRestaurant>
-        <name>藏书羊肉(雅韵花园北)</name>
+        <name>西新饭店城中店</name>
         <location>
-            <lat>31.290002</lat>
-            <lng>120.560962</lng>
+            <lat>31.580314</lat>
+            <lng>120.308028</lng>
         </location>
-        <address>高新区高新区竹园路99号馨泰花园内(近长江路)(雅韵花园北)</address>
-        <uid>1cb174c18a13ca453517dcad</uid>
+        <address>崇宁路文渊坊27号D座</address>
+        <telephone>(0510)82798777,(0510)82798999</telephone>
+        <uid>7e3f574c5b5da6dc42d63e76</uid>
     </listRestaurant>
     <listBank>
-        <name>中国工商银行ATM</name>
+        <name>交通银行24小时自助银行(妙光苑西南)</name>
         <location>
-            <lat>31.290086</lat>
-            <lng>120.550393</lng>
+            <lat>31.571108</lat>
+            <lng>120.316785</lng>
         </location>
-        <address>苏州市虎丘区</address>
-        <uid>cac77d5a7e36c7fe6e20b96e</uid>
+        <address>向阳路34号附近</address>
+        <uid>6fe1e9eb9355bbfbe8f853a3</uid>
     </listBank>
     <listBank>
-        <name>中国银行ATM</name>
+        <name>江苏银行(无锡南禅寺支行)</name>
         <location>
-            <lat>31.29868</lat>
-            <lng>120.554342</lng>
+            <lat>31.5712</lat>
+            <lng>120.316723</lng>
         </location>
-        <address>苏州市虎丘区长江路397号苏州乐园内</address>
-        <uid>438937f882646ecf97ec8423</uid>
+        <address>南长区向阳路111号</address>
+        <uid>e193c423b57f1c39ee74f87e</uid>
     </listBank>
     <listBank>
-        <name>中国工商银行ATM</name>
+        <name>江苏银行24小时自助银行(向阳路)</name>
         <location>
-            <lat>31.298549</lat>
-            <lng>120.554612</lng>
+            <lat>31.571</lat>
+            <lng>120.316228</lng>
         </location>
-        <address>苏州市虎丘区长江路397号苏州乐园内</address>
-        <uid>71778d703ddbfc9686420ee4</uid>
+        <address>南禅寺购物广场(槐古路)附近</address>
+        <uid>220cb954d52f233572455bc9</uid>
     </listBank>
     <listBank>
-        <name>中国工商银行24小时自助银行(金山路)</name>
+        <name>交通银行(离行式南禅寺商城店)</name>
         <location>
-            <lat>31.300616</lat>
-            <lng>120.544055</lng>
+            <lat>31.571415</lat>
+            <lng>120.316463</lng>
         </location>
-        <address>李闸路珠江路16号楼</address>
-        <uid>3be122e1f66f442c1ef74d76</uid>
+        <address>南长区南禅寺商城111号(近离行式南禅寺商城)</address>
+        <uid>416f85cc4d781a36581093f5</uid>
     </listBank>
     <listBank>
-        <name>中国银行</name>
+        <name>广发银行ATM(无锡南禅寺离行)</name>
         <location>
-            <lat>31.287402</lat>
-            <lng>120.545923</lng>
+            <lat>31.572407</lat>
+            <lng>120.316638</lng>
         </location>
-        <address>新升新苑</address>
-        <uid>39f67f930197eebd0f0a700d</uid>
+        <address>无锡市南长区南禅寺31-3号</address>
+        <telephone>4008308003</telephone>
+        <uid>1d87863dc1f6e324e8e582d3</uid>
     </listBank>
     <listBank>
-        <name>中国银行ATM(新升新苑东)</name>
+        <name>江苏银行(南禅寺支行)</name>
         <location>
-            <lat>31.287409</lat>
-            <lng>120.545856</lng>
+            <lat>31.570738</lat>
+            <lng>120.314931</lng>
         </location>
-        <address>苏州高新区珠江路新升新苑</address>
-        <uid>ede61e9cabf3370130169b36</uid>
+        <address>南长街11、19</address>
+        <telephone>(0510)85030697</telephone>
+        <uid>dffd631c2d3cdebc38221c75</uid>
     </listBank>
     <listBank>
-        <name>中国工商银行(新升储蓄所)</name>
+        <name>江苏银行24小时自助银行(无锡南长街支行)</name>
         <location>
-            <lat>31.287263</lat>
-            <lng>120.545413</lng>
+            <lat>31.570677</lat>
+            <lng>120.314856</lng>
         </location>
-        <address>高新区新升小区农贸市场口</address>
-        <telephone>0512-68245848</telephone>
-        <uid>49a02a7a4d8887402b201a7c</uid>
+        <address>南长街11、19</address>
+        <uid>3a36a40d259e58d4a11de9fb</uid>
     </listBank>
     <listBank>
-        <name>中国工商银行ATM</name>
+        <name>中国邮政储蓄银行ATM(解放东路支行)</name>
         <location>
-            <lat>31.287209</lat>
-            <lng>120.545436</lng>
+            <lat>31.572638</lat>
+            <lng>120.314654</lng>
         </location>
-        <address>新升新苑</address>
-        <uid>91ffe66d4b3db4df72210beb</uid>
+        <address>解放南路708</address>
+        <uid>23116913d44851fd734b8775</uid>
     </listBank>
     <listBank>
-        <name>交通银行ATM</name>
+        <name>中国邮政储蓄银行(无锡市解放东路支行)</name>
         <location>
-            <lat>31.289639</lat>
-            <lng>120.556192</lng>
+            <lat>31.572661</lat>
+            <lng>120.314653</lng>
         </location>
-        <address>江苏省苏州市高新区长江路211号苏州泉屋百货有限公司1层</address>
-        <uid>3f942fd6e5cdb71ff7eafcad</uid>
+        <address>解放南路708</address>
+        <telephone>0510-82824467</telephone>
+        <uid>05dd7d5f63618801ad080f75</uid>
     </listBank>
     <listBank>
-        <name>中国民生银行ATM</name>
+        <name>中国建设银行(无锡朝阳广场支行)</name>
         <location>
-            <lat>31.289639</lat>
-            <lng>120.556192</lng>
+            <lat>31.57283</lat>
+            <lng>120.314655</lng>
         </location>
-        <address>江苏省苏州市高新区长江路211号苏州泉屋百货有限公司1层</address>
-        <uid>b769302ed22ee4db1f389480</uid>
+        <address>无锡市中山路10号</address>
+        <telephone>0510-82820772</telephone>
+        <uid>aca9dacba56230faa8175a8d</uid>
     </listBank>
     <listHotel>
-        <address>三香路333号(近地铁2号线三香广场站1号口步行50米)</address>
-        <cityID>226</cityID>
-        <className>四星级</className>
-        <dpNum>83</dpNum>
-        <hotelID>115960</hotelID>
-        <intro>苏州胥城大厦是一家涉外商务型会议酒店，位于市区主干道三香路上。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/8/aaaccb5255b2438e854601a8a3206995_400x300_01.jpg</largePic>
-        <lat>31.30496</lat>
-        <lon>120.605013</lon>
-        <name>苏州胥城大厦</name>
-        <satisfaction>95%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-115960.html</url>
-    </listHotel>
-    <listHotel>
-        <address>干将东路535号(地铁相门站1号出口,平江路正对面)</address>
-        <cityID>226</cityID>
-        <className>四星级</className>
-        <dpNum>230</dpNum>
-        <hotelID>10143</hotelID>
-        <intro>苏州凯莱酒店位于苏州市中心，临近观前街、网师园、沧浪亭，离平江历史街区，仅几步之遥，距离新加坡工业园区约10分钟车程，距离高新技术开发区20分钟车程。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/10/7fafa7282cce42f9afc93c9b6c3a22e0_400x300_01.jpg</largePic>
-        <lat>31.314403</lat>
-        <lon>120.642523</lon>
-        <name>苏州凯莱酒店</name>
-        <satisfaction>88%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-10143.html</url>
-    </listHotel>
-    <listHotel>
-        <address>观前街宫巷63号(地铁1号线乐桥站6号出口)</address>
-        <cityID>226</cityID>
-        <className>四星级</className>
-        <dpNum>291</dpNum>
-        <hotelID>135</hotelID>
-        <intro>苏州雅戈尔富宫大酒店地处市中心观前街，“出门皆美食，百步逛观前”是该酒店优越地理位置的真实写照。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/4/e4e820c5286d42db84e369e976805136_400x300_01.jpg</largePic>
-        <lat>31.31522</lat>
-        <lon>120.632941</lon>
-        <name>苏州雅戈尔富宫大酒店</name>
-        <satisfaction>93%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-135.html</url>
-    </listHotel>
-    <listHotel>
-        <address>十全街滚绣坊20号</address>
-        <cityID>226</cityID>
+        <address>运河西路288号</address>
+        <cityID>229</cityID>
         <className>高档型</className>
-        <dpNum>381</dpNum>
-        <hotelID>4156</hotelID>
-        <intro>苏州南林饭店位于著名的娱乐酒吧一条街&#8212;&#8212;十全街，地处古城中心，毗邻繁华商业区，位置优越，交通便利。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/10/c5d5df90e70949349add037837000ea3_400x300_01.jpg</largePic>
-        <lat>31.305797</lat>
-        <lon>120.637563</lon>
-        <name>苏州南林饭店</name>
-        <satisfaction>98%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-4156.html</url>
-    </listHotel>
-    <listHotel>
-        <address>东吴北路130号(位于吴中CBD与姑苏区结合部,近南门商业区及汽车南站,距观前街仅15分钟车程)</address>
-        <cityID>226</cityID>
-        <className>豪华型</className>
-        <dpNum>164</dpNum>
-        <hotelID>6648</hotelID>
-        <intro>苏州苏苑饭店位于苏州东吴北路，临近宁沪高速、苏嘉杭高速的城区出入口，门口是苏州市南北主干道人民路，有多路公交直达观前商业圈、石路商业圈、苏州市火车站、汽车南站、汽车北站，到市内各大...</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/10/7a8003ec8df049a78e83eff147f3c57b_400x300_01.jpg</largePic>
-        <lat>31.279872</lat>
-        <lon>120.634493</lon>
-        <name>苏州苏苑饭店</name>
-        <satisfaction>91%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-6648.html</url>
-    </listHotel>
-    <listHotel>
-        <address>干将西路236号</address>
-        <cityID>226</cityID>
-        <className>舒适型</className>
-        <dpNum>252</dpNum>
-        <hotelID>62473</hotelID>
-        <intro>苏州星耀国际酒店位于苏州市姑苏区，紧邻繁华的观前街和四大园林旅游区，距离苏州工业园区以及苏州新区仅需10分钟车程。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/9/a618228e725744158a8f5e577ab12e9c_400x300_01.jpg</largePic>
-        <lat>31.311801</lat>
-        <lon>120.621431</lon>
-        <name>苏州星耀国际酒店</name>
+        <dpNum>151</dpNum>
+        <hotelID>1826</hotelID>
+        <intro>无锡木棉花酒店隶属于华润集团，由澳大利亚设计师精心打造，依山伴水居闹市独幽；背依康熙乾隆下江南之锡惠山巅-龙光宝塔，湖光塔影古寺钟鸣；前邻京杭运河，小涛拍岸星辰波光；客房落地飘窗，....</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/10/45c954963540448ab9e41d2f0a494593_400x300_01.jpg</largePic>
+        <lat>31.578814</lat>
+        <lon>120.284241</lon>
+        <name>无锡木棉花酒店</name>
         <satisfaction>95%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-62473.html</url>
+        <url>http://www.ly.com/HotelInfo-1826.html</url>
     </listHotel>
     <listHotel>
-        <address>苏州市姑苏区富仁坊16号(宫巷交叉口)</address>
-        <cityID>226</cityID>
-        <className>舒适型</className>
-        <dpNum>174</dpNum>
-        <hotelID>81057</hotelID>
-        <intro>苏州绿谷明珠精品酒店位于苏州古城素有“姑苏第一街”之称的观前街，区域内商业繁华、名店云集，银行、商场、购物中心、休闲会所应有尽有。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/9/3c3fddf5310a4df4b26c2f370a6ed82c_400x300_01.jpg</largePic>
-        <lat>31.314949</lat>
-        <lon>120.632566</lon>
-        <name>苏州绿谷明珠精品酒店</name>
+        <address>县前东街88号(近保利广场、距市中心、崇安寺步行街300M、无锡市级党政机关会议定点饭店)</address>
+        <cityID>229</cityID>
+        <className>四星级</className>
+        <dpNum>423</dpNum>
+        <hotelID>1878</hotelID>
+        <intro>无锡国际饭店位于无锡市中心繁华商业区，紧邻火车站，旅游、购物均极为便利。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2015/2/3/16/16/V/9d894129b6bc4db1b857dd6c0badff4f_400x300_01.jpg</largePic>
+        <lat>31.587499</lat>
+        <lon>120.310809</lon>
+        <name>无锡国际饭店</name>
+        <satisfaction>94%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-1878.html</url>
+    </listHotel>
+    <listHotel>
+        <address>山水西路158号</address>
+        <cityID>229</cityID>
+        <className>其他</className>
+        <dpNum>196</dpNum>
+        <hotelID>27420</hotelID>
+        <intro>交银无锡会议中心位于无锡市风景秀丽的太湖之滨，坐落于“太湖绿宝石”美誉之称的无锡太湖山水旅游区内，闻名遐迩的太湖美景鼋头渚、蠡园、三国城、水浒城、唐城、三山仙岛近在咫尺，让您置身山...</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/11/30/3/12/J/2d601c9ff9e64263bcb00cf681040947_400x300_01.jpg</largePic>
+        <lat>31.475276</lat>
+        <lon>120.236706</lon>
+        <name>交银无锡会议中心（原无锡鑫湖度假村）</name>
         <satisfaction>95%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-81057.html</url>
+        <url>http://www.ly.com/HotelInfo-27420.html</url>
     </listHotel>
     <listHotel>
-        <address>干将西路380号(地铁1号线养育巷3号出口)</address>
-        <cityID>226</cityID>
-        <className>舒适型</className>
-        <dpNum>107</dpNum>
-        <hotelID>63326</hotelID>
-        <intro>苏州汉傧精品酒店地处苏州古城中心学士街与干将西路交叉口，“干将桥头，运城河畔”；东邻观前步行街，西靠石路商业街，南接盘门景区，北连吴趋“阊门”，交通便利；距地铁一号线仅一步之遥。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/9/fdd90759e9f44026bc7a82eacb395244_400x300_01.jpg</largePic>
-        <lat>31.31136</lat>
-        <lon>120.617637</lon>
-        <name>苏州汉傧精品酒店</name>
-        <satisfaction>98%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-63326.html</url>
+        <address>金城东路8号</address>
+        <cityID>229</cityID>
+        <className>五星级</className>
+        <dpNum>146</dpNum>
+        <hotelID>9599</hotelID>
+        <intro>无锡雷迪森广场酒店由无锡市盛业房地产开发有限公司投资兴建，携手雷迪森酒店管理公司，联手打造的商务型酒店。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/5/71920ae9e2a246dfb25f26546b613beb_400x300_01.jpg</largePic>
+        <lat>31.566138</lat>
+        <lon>120.35346</lon>
+        <name>无锡雷迪森广场酒店</name>
+        <satisfaction>93%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-9599.html</url>
     </listHotel>
     <listHotel>
-        <address>太监弄31号人民商场对面珍珠弄)。停车可至玄妙广场地下停车场,酒店每日提供一张免费停车券。出口处向北100米可至酒店</address>
-        <cityID>226</cityID>
+        <address>广南路288号</address>
+        <cityID>229</cityID>
         <className>舒适型</className>
-        <dpNum>50</dpNum>
-        <hotelID>295488</hotelID>
-        <intro>苏州天逅主题酒店地处观前步行街中心位置，毗邻多家大型商场、影城、美食一条街。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/10/17/2/23/T/6fa15d0cad654b97b4b5b20316356df0_400x300_01.jpg</largePic>
-        <lat>31.316143</lat>
-        <lon>120.631542</lon>
-        <name>苏州天逅主题酒店</name>
+        <dpNum>24</dpNum>
+        <hotelID>167985</hotelID>
+        <intro>无锡广南路和颐酒店位于广南路与锡沪路交汇处，地处麦德龙、国际轻纺城、华东商贸装饰城等大型建材市场中心位置，紧靠无锡哥伦布购物广场。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/5/bb5456a007384b11aaf0c2dfbec13dd5_400x300_01.jpg</largePic>
+        <lat>31.592154</lat>
+        <lon>120.343209</lon>
+        <name>无锡广南路和颐酒店</name>
         <satisfaction>100%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-295488.html</url>
+        <url>http://www.ly.com/HotelInfo-167985.html</url>
     </listHotel>
     <listHotel>
-        <address>狮山路288号</address>
-        <cityID>226</cityID>
-        <className>三星级</className>
-        <dpNum>780</dpNum>
-        <hotelID>3253</hotelID>
-        <intro>苏州乐园度假酒店地处苏州新区中心狮山商业广场，紧邻苏州乐园，门前是新区主干道狮山路，可直通沪宁高速公路和312国道，并与苏福公路相连，交通便利。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/10/4c744010d83f43e3a6de2c4bc6a56779_400x300_01.jpg</largePic>
-        <lat>31.299436</lat>
-        <lon>120.558825</lon>
-        <name>苏州乐园度假酒店</name>
+        <address>方庙路50号显云街内</address>
+        <cityID>229</cityID>
+        <className>经济型</className>
+        <dpNum>12</dpNum>
+        <hotelID>352670</hotelID>
+        <intro>栈美精品酒店（无锡海岸城店）是一家时尚、简约、展现品质的主题酒店，酒店项目主要以客房为主体，有商务大床房、豪华大床房、商务标准房、商务套房、棋牌房等；配有现代时尚的茶餐厅（7：00-22...</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/12/20/0/5/U/a37c7380db8646e4b7a07b7bfa4a31d7_400x300_01.jpg</largePic>
+        <lat>31.492673</lat>
+        <lon>120.302241</lon>
+        <name>栈美精品酒店（无锡海岸城店）</name>
+        <satisfaction>100%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-352670.html</url>
+    </listHotel>
+    <listHotel>
+        <address>中山路531号(地铁一号线胜利门站4号出口)</address>
+        <cityID>229</cityID>
+        <className>高档型</className>
+        <dpNum>169</dpNum>
+        <hotelID>52413</hotelID>
+        <intro>无锡红豆柏雅居全套房公寓地处三阳广场商业区，位于道长巷与中山路交汇处，地理位置优越，周边配套设施齐全，环境宜人，邻近无锡火车站和中央汽车站，地铁1号线胜利门站四号出口，交通出行十分....</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/10/6267520a70904875892cb2f4bf4125a4_400x300_01.jpg</largePic>
+        <lat>31.587024</lat>
+        <lon>120.304609</lon>
+        <name>无锡红豆柏雅居全套房酒店公寓</name>
         <satisfaction>96%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-3253.html</url>
+        <url>http://www.ly.com/HotelInfo-52413.html</url>
     </listHotel>
     <listHotel>
-        <address>阊胥路和上塘街交叉口,山塘景区大门斜对面 农行边上</address>
-        <cityID>226</cityID>
-        <className>舒适型</className>
-        <dpNum>84</dpNum>
-        <hotelID>295492</hotelID>
-        <intro>天逅主题酒店（苏州石路店）是由国外知名设计大师精心打造而成，荣获2012年全国设计大奖。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/10/17/2/25/F/279bb576f8b34e69bffccb4a6b122e00_400x300_01.jpg</largePic>
-        <lat>31.32075</lat>
-        <lon>120.609567</lon>
-        <name>天逅主题酒店（苏州石路店）</name>
-        <satisfaction>96%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-295492.html</url>
+        <address>长江北路282号新区哥伦布1号楼</address>
+        <cityID>229</cityID>
+        <className>豪华型</className>
+        <dpNum>53</dpNum>
+        <hotelID>90542</hotelID>
+        <intro>舒隅酒店坐落在无锡新区哥伦布亚广场，共有客房118间，以“原木风格”打造自然舒心的休憩空间，结合当代表现手法传达一种禅意自然的文化理念。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/11/1956575e2e4b4025a349249141c30b7a_400x300_01.jpg</largePic>
+        <lat>31.573355</lat>
+        <lon>120.343469</lon>
+        <name>无锡舒隅酒店</name>
+        <satisfaction>94%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-90542.html</url>
     </listHotel>
     <listHotel>
-        <address>旧学前88号</address>
-        <cityID>226</cityID>
+        <address>中山路401号,距离三阳广场地铁站200米</address>
+        <cityID>229</cityID>
+        <className>豪华型</className>
+        <dpNum>122</dpNum>
+        <hotelID>12224</hotelID>
+        <intro>无锡君乐酒店位于无锡市最繁华的核心商业区中心，距无锡机场40分钟车程，距火车站仅10分钟。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/10/e8f1e659a869453a8c6693ea481c41d9_400x300_01.jpg</largePic>
+        <lat>31.585635</lat>
+        <lon>120.305172</lon>
+        <name>无锡君乐酒店</name>
+        <satisfaction>92%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-12224.html</url>
+    </listHotel>
+    <listHotel>
+        <address>长江北路1号</address>
+        <cityID>229</cityID>
+        <className>高档型</className>
+        <dpNum>57</dpNum>
+        <hotelID>325947</hotelID>
+        <intro>无锡中益国际商务酒店位于无锡新区长江北路1号，地处无锡新区中心，为新区标志型建筑，地理位置优越。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/11/14/8/27/E/a94bc4b657c64c7d9edd0dfdb521f044_400x300_01.jpg</largePic>
+        <lat>31.54888</lat>
+        <lon>120.362864</lon>
+        <name>无锡中益国际商务酒店</name>
+        <satisfaction>100%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-325947.html</url>
+    </listHotel>
+    <listHotel>
+        <address>滨湖区震泽路899号(江南大学南门对面),近博览中心,地铁一号线首末站长广溪出口步行30米即达。</address>
+        <cityID>229</cityID>
+        <className>高档型</className>
+        <dpNum>110</dpNum>
+        <hotelID>55934</hotelID>
+        <intro> 2012年开业 2011年装修 158间房 电话0510-85175000 传真0510-85578800 无锡书香世家酒店是书香酒店投资管理集团在无锡太湖度假区附近投资的第....</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/9/2a88fdda934c498d9e8ad1edf4ab395d_400x300_01.jpg</largePic>
+        <lat>31.479707</lat>
+        <lon>120.281328</lon>
+        <name>无锡书香世家酒店</name>
+        <satisfaction>98%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-55934.html</url>
+    </listHotel>
+    <listHotel>
+        <address>后张巷8号(中山路与凤宾路交叉口,吴桥堍)</address>
+        <cityID>229</cityID>
         <className>舒适型</className>
-        <dpNum>79</dpNum>
-        <hotelID>364791</hotelID>
-        <intro>苏州缀美主题酒店是以时尚水床为亮点的主题酒店，与国际著名水床制造商MO-SAR合作打造了多间风格各异的水床房。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/12/5/17/18/Z/50e2d07b41d04f95ba75b3621f52ba64_400x300_01.jpg</largePic>
-        <lat>31.31996</lat>
-        <lon>120.631792</lon>
-        <name>苏州缀美主题酒店</name>
+        <dpNum>43</dpNum>
+        <hotelID>191770</hotelID>
+        <intro>维也纳大酒店（无锡欧风街店）位于无锡市中心、京杭大运河畔的吴桥北堍中山北路，地处金太湖商业圈，毗邻无锡著名餐饮娱乐一条街－－欧风街。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/5/465af57b2e914bda8bbaa4ff5ad4db63_400x300_01.jpg</largePic>
+        <lat>31.59991</lat>
+        <lon>120.291012</lon>
+        <name>维也纳酒店（无锡欧风街店）</name>
+        <satisfaction>98%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-191770.html</url>
+    </listHotel>
+    <listHotel>
+        <address>周新苑158号</address>
+        <cityID>229</cityID>
+        <className>高档型</className>
+        <dpNum>21</dpNum>
+        <hotelID>185231</hotelID>
+        <intro>无锡途家斯维登度假公寓（嘉汇广场）位于无锡市滨湖区的太湖新城中心地带，距离蠡湖风景区，三国城及鼋头渚风景区仅需15分钟车程，紧邻无锡市政府、江南大学城、国船舶科学研究中心，周边超市、...</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/5/9f5e311aa67444fea6b68f6da7aba325_400x300_01.jpg</largePic>
+        <lat>31.510041</lat>
+        <lon>120.309645</lon>
+        <name>无锡途家斯维登度假公寓（嘉汇广场）</name>
+        <satisfaction>100%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-185231.html</url>
+    </listHotel>
+    <listHotel>
+        <address>锡澄路190号</address>
+        <cityID>229</cityID>
+        <className>高档型</className>
+        <dpNum>35</dpNum>
+        <hotelID>29446</hotelID>
+        <intro>无锡华美达梨庄大酒店距离无锡车站仅三分钟车程，10分钟车程即可上沪宁高速公路，经沪宁高速公路往上海浦东国际机场只2小时车程，交通十分方便。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/10/593b854af7b74499b2e304bb1f5b2232_400x300_01.jpg</largePic>
+        <lat>31.601676</lat>
+        <lon>120.306794</lon>
+        <name>无锡华美达梨庄大酒店</name>
+        <satisfaction>94%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-29446.html</url>
+    </listHotel>
+    <listHotel>
+        <address>隐秀路909号(近万达广场 近蠡湖之光)</address>
+        <cityID>229</cityID>
+        <className>豪华型</className>
+        <dpNum>119</dpNum>
+        <hotelID>78483</hotelID>
+        <intro>无锡瑞雅大酒店致力于将瑞士酒店管理的专业和亚洲的热忱及服务相融合，为您提供最为优质的酒店服务。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/9/706ea1a111ce4d0b9b7f6f5e1b8b49d1_400x300_01.jpg</largePic>
+        <lat>31.552908</lat>
+        <lon>120.262951</lon>
+        <name>无锡瑞雅大酒店</name>
+        <satisfaction>95%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-78483.html</url>
+    </listHotel>
+    <listHotel>
+        <address>惠河路27号</address>
+        <cityID>229</cityID>
+        <className>舒适型</className>
+        <dpNum>44</dpNum>
+        <hotelID>321362</hotelID>
+        <intro>宜必思酒店（无锡锡惠公园店）位于无锡万达广场核心商业圈地段，毗邻锡惠公园，周边交通便利。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/11/17/5/10/G/0b9ac0c4c9144d30be8de9e941da2aeb_400x300_01.jpg</largePic>
+        <lat>31.578557</lat>
+        <lon>120.279138</lon>
+        <name>宜必思酒店（无锡锡惠公园店）</name>
+        <satisfaction>100%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-321362.html</url>
+    </listHotel>
+    <listHotel>
+        <address>双虹路蠡湖中央公园内</address>
+        <cityID>229</cityID>
+        <className>高档型</className>
+        <dpNum>134</dpNum>
+        <hotelID>57273</hotelID>
+        <intro>天逅主题酒店位于太湖的蠡湖中央公园内，环境优美，景色怡人。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/9/f644d7058a0449c3a2c4b67739441837_400x300_01.jpg</largePic>
+        <lat>31.527681</lat>
+        <lon>120.254939</lon>
+        <name>无锡天逅主题酒店</name>
+        <satisfaction>93%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-57273.html</url>
+    </listHotel>
+    <listHotel>
+        <address>高浪路19号</address>
+        <cityID>229</cityID>
+        <className>豪华型</className>
+        <dpNum>49</dpNum>
+        <hotelID>26030</hotelID>
+        <intro>无锡希尔顿逸林酒店（新区）位于新区高浪路19号，靠近锡士路，畅享便捷交通。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/10/28c767ebe9fb477a9b4b1abef633d7e9_400x300_01.jpg</largePic>
+        <lat>31.535253</lat>
+        <lon>120.393279</lon>
+        <name>无锡希尔顿逸林酒店（新区）</name>
+        <satisfaction>88%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-26030.html</url>
+    </listHotel>
+    <listHotel>
+        <address>无锡市崇安区解放南路727号(无锡市妇幼保健院旁)</address>
+        <cityID>229</cityID>
+        <className>舒适型</className>
+        <dpNum>147</dpNum>
+        <hotelID>169759</hotelID>
+        <intro>桔子水晶酒店（无锡南禅寺店）位于无锡市中心，步行5分钟即可到达南禅寺步行街，向北毗邻八百伴、百盛、商业大厦、新世界百货，交通十分方便。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/5/d2e392a8bfea466bae3ba6074b500c62_400x300_01.jpg</largePic>
+        <lat>31.575637</lat>
+        <lon>120.314823</lon>
+        <name>桔子水晶酒店（无锡南禅寺店）</name>
         <satisfaction>99%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-364791.html</url>
+        <url>http://www.ly.com/HotelInfo-169759.html</url>
     </listHotel>
 </Travel>

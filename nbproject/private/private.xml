@@ -5,8 +5,8 @@
         <group>
             <file>file:/C:/Users/yangchen/Documents/NetBeansProjects/ITravel/src/java/servlet/TravelInfo.java</file>
             <file>file:/C:/Users/yangchen/Documents/NetBeansProjects/ITravel/src/java/servlet/SceneryListServlet.java</file>
-            <file>file:/C:/Users/yangchen/Documents/NetBeansProjects/ITravel/src/java/controller/MarshalSceneryList.java</file>
-            <file>file:/C:/Users/yangchen/Documents/NetBeansProjects/ITravel/src/java/controller/MarshalTravelInfo.java</file>
+            <file>file:/C:/Users/yangchen/Documents/NetBeansProjects/ITravel/src/java/xsl/travel.xsl</file>
+            <file>file:/C:/Users/yangchen/Documents/NetBeansProjects/ITravel/src/java/xsl/scenerylist.xsl</file>
         </group>
     </open-files>
 </project-private>
