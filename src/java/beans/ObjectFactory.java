@@ -103,6 +103,7 @@ public class ObjectFactory {
 	
     private final static QName _SceneryObjectList_QNAME = new QName("", "SceneryObjectList");
 
+    private final static QName _Travel_QNAME = new QName("", "Travel");
     /**
      * Create a new ObjectFactory that can be used to create new instances of schema derived classes for package: beans
      * 
@@ -607,6 +608,14 @@ public class ObjectFactory {
         return new Result();
     }
 
+    	/**
+     * Create an instance of {@link Hotel }
+     * 
+     */
+    public Hotel createHotel() {
+        return new Hotel();
+    }
+    
     /**
      * Create an instance of {@link Location }
      * 
@@ -714,6 +723,14 @@ public class ObjectFactory {
     public SceneryLists createSceneryLists() {
         return new SceneryLists();
     }
+    
+     /**
+     * Create an instance of {@link SceneryLists }
+     * 
+     */
+    public Scenery createScenery() {
+        return new Scenery();
+    }
 
     /**
      * Create an instance of {@link SceneryList }
@@ -812,5 +829,10 @@ public class ObjectFactory {
     @XmlElementDecl(namespace = "",name = "sceneryObjectList")
     public JAXBElement<SceneryObjectList> createSceneryObjectList(SceneryObjectList sol){
         return new JAXBElement<SceneryObjectList>(_SceneryObjectList_QNAME, SceneryObjectList.class, null, sol);
+    }
+    
+    @XmlElementDecl(namespace = "", name = "travel")
+    public JAXBElement<Travel> createTravel(Travel t){
+        return new JAXBElement<Travel>(_Travel_QNAME, Travel.class, null, t);
     }
 }

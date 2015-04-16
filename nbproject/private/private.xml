@@ -3,7 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/yangchen/Documents/NetBeansProjects/ITravel/src/java/servlet/GetCity.java</file>
+            <file>file:/C:/Users/yangchen/Documents/NetBeansProjects/ITravel/src/java/servlet/TravelInfo.java</file>
+            <file>file:/C:/Users/yangchen/Documents/NetBeansProjects/ITravel/src/java/servlet/SceneryListServlet.java</file>
+            <file>file:/C:/Users/yangchen/Documents/NetBeansProjects/ITravel/src/java/controller/MarshalSceneryList.java</file>
+            <file>file:/C:/Users/yangchen/Documents/NetBeansProjects/ITravel/src/java/controller/MarshalTravelInfo.java</file>
         </group>
     </open-files>
 </project-private>

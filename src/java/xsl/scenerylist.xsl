@@ -24,7 +24,7 @@
                 <xsl:for-each select="SceneryObjectList/SceneryLists/SceneryList">
                     景点名称:
                     <xsl:element name="a">
-                        <xsl:attribute name="href">TravelInfo?sid=<xsl:value-of select="sid"></xsl:value-of>
+                        <xsl:attribute name="href">TravelInfo?sid=<xsl:value-of select="sid"/>_<xsl:value-of select="title"/>_<xsl:value-of select="address"/>
                         </xsl:attribute>
                         <xsl:value-of select="title"></xsl:value-of>
                     </xsl:element>   

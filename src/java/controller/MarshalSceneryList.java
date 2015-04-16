@@ -32,6 +32,7 @@ public class MarshalSceneryList {
             JAXBContext jaxbContext = JAXBContext.newInstance("beans");
             Marshaller marshaller = jaxbContext.createMarshaller();
             JAXBElement<SceneryObjectList> jsol = (new ObjectFactory()).createSceneryObjectList(sol);
+            marshaller.setProperty(Marshaller.JAXB_ENCODING,"gb2312");
             marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
             marshaller.marshal(jsol, new FileOutputStream(path + "scenerylist.xml"));
             System.out.println(MarshalSceneryList.class.getResource("/").getPath() + "scenerylist.xml");

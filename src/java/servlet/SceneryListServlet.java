@@ -21,6 +21,8 @@ import javax.servlet.http.HttpServletResponse;
 import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import javax.mail.Session;
+import javax.servlet.http.HttpSession;
 import javax.xml.transform.Source;
 import javax.xml.transform.Transformer;
 import javax.xml.transform.TransformerConfigurationException;
@@ -49,10 +51,13 @@ public class SceneryListServlet extends HttpServlet {
             throws ServletException, IOException{
         try {
             String cityName = request.getParameter("cityName");
+            HttpSession session = request.getSession();
+            session.setAttribute("cityName", cityName); 
             //request.setAttribute("cityName", cityName);
             GetSceneryList gsl = new GetSceneryList();
             List<SceneryList> lsl = gsl.getAllSceneryList(cityName);
             MarshalSceneryList  msl = new MarshalSceneryList();
+            
             PrintWriter out = response.getWriter();
             TransformerFactory fac = TransformerFactory.newInstance();
             Source xslt = new StreamSource(new File(getServletContext().getRealPath("/") + "WEB-INF/classes/xsl/scenerylist.xsl"));
