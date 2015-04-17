@@ -50,12 +50,27 @@ public class SceneryListServlet extends HttpServlet {
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException{
         try {
+            String cityNameS = "";
             String cityName = request.getParameter("cityName");
+            String changePage = request.getParameter("page");
+            System.out.println(changePage);
             HttpSession session = request.getSession();
-            session.setAttribute("cityName", cityName); 
-            //request.setAttribute("cityName", cityName);
+            String test = "1";
+            if(session.getAttribute("flag") == null){
+                session.setAttribute("flag", test);
+                session.setAttribute("cityName", cityName);
+            }else{
+                cityNameS = (String) session.getAttribute("cityName");
+            }
             GetSceneryList gsl = new GetSceneryList();
-            List<SceneryList> lsl = gsl.getAllSceneryList(cityName);
+            String page = "1";
+            if(changePage != null){
+                page = changePage;
+            }    
+            if(cityNameS == ""){
+               cityNameS  = cityName;             
+            }
+            List<SceneryList> lsl = gsl.getAllSceneryList(cityNameS,page);
             MarshalSceneryList  msl = new MarshalSceneryList();
             
             PrintWriter out = response.getWriter();

@@ -20,13 +20,13 @@ import java.util.List;
  */
 public class GetSceneryList {
     
-    public List<SceneryList> getAllSceneryList(String city){ 
+    public List<SceneryList> getAllSceneryList(String city, String page){ 
         GetResource gr = new GetResource();
         GetCity gc = new GetCity();
         HashMap cityInfo = new HashMap();
         cityInfo = gc.getCity();
         String cityID = (String)cityInfo.get(city);
-        String sceneryUrl = "http://apis.haoservice.com/lifeservice/travel/scenery?key=de8a238525314a99a55515983592374a&cid="+ cityID +"&page=1";
+        String sceneryUrl = "http://apis.haoservice.com/lifeservice/travel/scenery?key=de8a238525314a99a55515983592374a&cid="+ cityID +"&page=" + page;
         String data = gr.getData(sceneryUrl);
 
         try {

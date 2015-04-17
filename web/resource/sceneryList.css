@@ -1,0 +1,73 @@
+@CHARSET "UTF-8";
+body {
+  padding-top: 0px;
+}
+
+.name1{
+	font-size:18px;
+}
+
+.name2{
+	font-size:20px;
+	font-weight: bold;
+	color: #0066CC;
+}
+
+.top{
+  margin-top: 0px;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  padding-left: 0;
+  padding-right: 0;
+  background-image: url(top.jpg);
+}
+
+.text{
+	color:#006699;
+	font-size:50px;
+	margin-left:120px;
+}
+
+.form-signin {
+  max-width: 500px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+.form-signin .checkbox {
+  font-weight: normal;
+}
+.form-signin .form-control {
+  position: relative;
+  font-size: 16px;
+  height: auto;
+  padding: 10px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="text"] {
+  margin-bottom: 10px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.footer {
+  margin-top:180px;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  padding-left: 0;
+  padding-right: 0;
+  background-image: url(bottom.jpg);
+}

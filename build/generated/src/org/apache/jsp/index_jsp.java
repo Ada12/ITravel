@@ -48,14 +48,21 @@ public final class index_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("<html>\n");
       out.write("    <head>\n");
       out.write("        <meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\n");
-      out.write("        <title>JSP Page</title>\n");
+      out.write("        <link href=\"resource/search.css\" rel=\"stylesheet\">\n");
+      out.write("        <link href=\"resource/bootstrap.css\" rel=\"stylesheet\">\n");
+      out.write("\n");
+      out.write("        <title>ITravel</title>\n");
       out.write("    </head>\n");
       out.write("    <body>\n");
-      out.write("        <form action=\"SceneryListServlet\" method=\"POST\">\n");
-      out.write("            城市：<input name=\"cityName\" type=\"text\">\n");
+      out.write("        <div class=\"container\">\n");
+      out.write("            \n");
+      out.write("            <form class=\"form-signin\" action=\"SceneryListServlet\" method=\"POST\">\n");
+      out.write("            <h2 class=\"form-signin-heading\">请搜索：</h2>\n");
+      out.write("                <input class=\"form-control\" placeholder=\"城市\" name=\"cityName\" type=\"text\">\n");
       out.write("            <br/>\n");
-      out.write("            <input type=\"submit\" value=\"查询\" name=\"submit\"/>\n");
+      out.write("            <input class=\"btn btn-lg btn-primary btn-block\" type=\"submit\" value=\"查询\" name=\"submit\"/>\n");
       out.write("        </form>\n");
+      out.write("        </div>\n");
       out.write("    </body>\n");
       out.write("</html>\n");
     } catch (Throwable t) {
