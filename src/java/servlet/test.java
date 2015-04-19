@@ -5,36 +5,20 @@
  */
 package servlet;
 
-import beans.SceneryList;
-import controller.GetSceneryList;
-import controller.MarshalSceneryList;
-import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.net.URL;
-import java.util.List;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import javax.servlet.http.HttpSession;
-import javax.xml.transform.Source;
-import javax.xml.transform.Transformer;
-import javax.xml.transform.TransformerConfigurationException;
-import javax.xml.transform.TransformerException;
-import javax.xml.transform.TransformerFactory;
-import javax.xml.transform.stream.StreamResult;
-import javax.xml.transform.stream.StreamSource;
 
 /**
  *
  * @author yangchen
  */
-@WebServlet(name = "SearchSecnery", urlPatterns = {"/SearchScenery"})
-public class SearchScenery extends HttpServlet {
+@WebServlet(name = "test", urlPatterns = {"/test"})
+public class test extends HttpServlet {
 
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
@@ -45,9 +29,11 @@ public class SearchScenery extends HttpServlet {
      * @throws ServletException if a servlet-specific error occurs
      * @throws IOException if an I/O error occurs
      */
-    
-    public String changeCoding(String scenery){
-        String t = scenery.substring(2, scenery.length()-1);
+    protected void processRequest(HttpServletRequest request, HttpServletResponse response)
+            throws ServletException, IOException {
+        response.setContentType("text/html;charset=UTF-8");
+        String test = request.getParameter("sceneryName");
+        String t = test.substring(2, test.length()-1);
         String[] t1 = t.split(";&#");
         String[] rr = new String[t1.length];
         for(int i = 0;i < t1.length; i ++){
@@ -56,7 +42,7 @@ public class SearchScenery extends HttpServlet {
            rr[i] = x;
         }
         String result = "";
-        System.out.println("---------------------"+scenery);
+        System.out.println("---------------------"+test);
         for(int j = 0; j < rr.length; j ++){
             result = result + "\\u" + rr[j];
         }
@@ -72,35 +58,7 @@ public class SearchScenery extends HttpServlet {
                 }
             }
         System.out.println("---------------------"+sb);
-        return sb.toString();
-    }
-    
-    protected void processRequest(HttpServletRequest request, HttpServletResponse response)
-            throws ServletException, IOException {
-        response.setContentType("text/html;charset=UTF-8");
-        String scenery = request.getParameter("sceneryName");
-        String sceneryName = changeCoding(scenery);
-        HttpSession session = request.getSession();
-        String cityName = (String) session.getAttribute("cityName");
-        try {
-            GetSceneryList gsl = new GetSceneryList();
-            List<SceneryList> lsl = gsl.getSelectScenery(cityName, sceneryName);
-            MarshalSceneryList msl = new MarshalSceneryList();
-
-            PrintWriter out = response.getWriter();
-            TransformerFactory fac = TransformerFactory.newInstance();
-            Source xslt = new StreamSource(new File(getServletContext().getRealPath("/") + "WEB-INF/classes/xsl/scenerylist.xsl"));
-            Transformer transformer = fac.newTransformer(xslt);
-            msl.getXml(lsl, getServletContext().getRealPath("/"));
-
-            URL url = new URL("http://localhost:8080/ITravel/scenerylist.xml");
-            Source xml = new StreamSource(url.openStream());
-            transformer.transform(xml, new StreamResult(out));
-        } catch (TransformerConfigurationException ex) {
-            Logger.getLogger(SceneryListServlet.class.getName()).log(Level.SEVERE, null, ex);
-        } catch (TransformerException ex) {
-            Logger.getLogger(SceneryListServlet.class.getName()).log(Level.SEVERE, null, ex);
-        }
+        
     }
 
     // <editor-fold defaultstate="collapsed" desc="HttpServlet methods. Click on the + sign on the left to edit the code.">

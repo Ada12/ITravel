@@ -1,0 +1,102 @@
+/* 每个checked，只有一个内容块被设置为显示*/
+#label01:checked ~ #content li:nth-child(1) {
+  display:block;
+}
+
+#label02:checked ~ #content li:nth-child(2) {
+  display:block;
+}
+
+#label03:checked ~ #content li:nth-child(3) {
+  display:block;
+}
+
+#label04:checked ~ #content li:nth-child(4) {
+  display:block;
+}
+
+/* 其他则设置为隐藏*/
+
+#label01:checked ~ #content li:nth-child(n+3) {
+  display:none;
+}
+
+#label02:checked ~ #content li:nth-child(1),
+#label02:checked ~ #content li:nth-child(3),
+#label02:checked ~ #content li:nth-child(4) {
+  display:none;
+}
+
+#label03:checked ~ #content li:nth-child(1),
+#label03:checked ~ #content li:nth-child(2),
+#label03:checked ~ #content li:nth-child(4)
+{
+  display:none;
+}
+
+#label04:checked ~ #content li:nth-child(1),
+#label04:checked ~ #content li:nth-child(2),
+#label04:checked ~ #content li:nth-child(3)
+{
+  display:none;
+}
+
+/* 隐藏Input按钮，它只是跳板嘛*/
+#label01, #label02, #label03, #label04{
+  display:none;
+}
+
+
+
+
+.bg1 {
+  background:#a3b1dc;
+}
+
+.bg2 {
+  background:#9cc4dc;
+}
+
+.bg3 {
+  background:#CC99FF;
+}
+
+.bg4 {
+  background:#FFCC00;
+}
+
+#tab {
+  width:1203px;//总宽度
+  height:340px;
+  margin:30px auto;
+  border:1px solid #b5bfdc;
+  overflow:hidden;
+}
+
+#opt {
+  width:100%;
+  height:40px;
+}
+
+#opt label {
+  float:left;
+  width:300px;//单个tab的宽度
+  height:100%;
+  text-align:center;
+  font:18px/40px MicroSoft YaiHei;
+  color:#fff;
+  cursor:pointer;
+}
+
+#content {
+  width:100%;
+  height:300px;
+}
+
+#content li {
+  float:left;
+  width:1200px;//与总宽度保持一致
+  height:100%;
+}
+
+

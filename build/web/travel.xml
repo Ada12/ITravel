@@ -1,454 +1,546 @@
 <?xml version="1.0" encoding="gb2312" standalone="yes"?>
 <Travel>
-    <travelTitle>苏州奥兰德海洋村圆融店</travelTitle>
-    <travelCity>苏州</travelCity>
+    <travelTitle>开封府</travelTitle>
+    <travelCity>开封</travelCity>
     <weather>
-        <city>苏州</city>
-        <status1>多云</status1>
-        <status2>多云</status2>
-        <figure1>duoyun</figure1>
-        <figure2>duoyun</figure2>
-        <direction1>东南风</direction1>
-        <direction2>东南风</direction2>
-        <power1>3-4</power1>
-        <power2>3-4</power2>
-        <temperature1>22</temperature1>
-        <temperature2>15</temperature2>
+        <city>开封</city>
+        <status1>晴</status1>
+        <status2>晴</status2>
+        <figure1>qing</figure1>
+        <figure2>qing</figure2>
+        <direction1>无持续风向</direction1>
+        <direction2>无持续风向</direction2>
+        <power1>≤3</power1>
+        <power2>≤3</power2>
+        <temperature1>19</temperature1>
+        <temperature2>10</temperature2>
         <ssd>6</ssd>
-        <tgd1>21</tgd1>
-        <tgd2>21</tgd2>
-        <zwx>1</zwx>
-        <ktk>4</ktk>
-        <pollution>1</pollution>
-        <xcz>5</xcz>
+        <tgd1>19</tgd1>
+        <tgd2>19</tgd2>
+        <zwx>3</zwx>
+        <ktk>6</ktk>
+        <pollution>3</pollution>
         <zho/>
         <diy/>
         <fas/>
-        <chy>3</chy>
+        <chy>4</chy>
         <zho_shuoming>暂无</zho_shuoming>
         <diy_shuoming>暂无</diy_shuoming>
         <fas_shuoming>暂无</fas_shuoming>
-        <chy_shuoming>单层薄衫、裤薄型棉衫、长裤、针织长袖衫、长袖T恤。薄型套装、牛仔衫裤、西服套装、薄型夹克</chy_shuoming>
-        <pollution_l>优</pollution_l>
-        <zwx_l>最弱</zwx_l>
+        <chy_shuoming>套装、夹衣、风衣、夹克衫、西服套装、马甲衬衫配长裤</chy_shuoming>
+        <pollution_l>轻度</pollution_l>
+        <zwx_l>中等</zwx_l>
         <ssd_l>温暖舒适</ssd_l>
         <fas_l>暂无</fas_l>
         <zho_l>暂无</zho_l>
-        <chy_l>单衣类</chy_l>
-        <ktk_l>不需要开启</ktk_l>
-        <xcz_l>不适宜</xcz_l>
+        <chy_l>夹衣类</chy_l>
+        <ktk_l>适宜开启(制热)</ktk_l>
+        <xcz_l>暂无</xcz_l>
         <diy_l>暂无</diy_l>
-        <pollution_s>非常有利于空气污染物扩散</pollution_s>
-        <zwx_s>紫外线最弱</zwx_s>
+        <pollution_s>对空气污染物扩散无明显影响</pollution_s>
+        <zwx_s>紫外线中等</zwx_s>
         <ssd_s>天气状况良好时，多到户外活动，并可适当增加户外活动时间。</ssd_s>
-        <ktk_s>不需要开启空调</ktk_s>
-        <xcz_s>洗车后当日有降水、大风或沙尘天气，不适宜洗车</xcz_s>
+        <ktk_s>适宜开启空调</ktk_s>
+        <xcz_s>暂无</xcz_s>
         <gm>1</gm>
         <gm_l>低发期</gm_l>
         <gm_s>天气舒适，不易发生感冒；</gm_s>
         <yd>1</yd>
         <yd_l>非常适宜</yd_l>
-        <yd_s>非常适宜户外运动；</yd_s>
-        <savedate_weather>2015-04-17</savedate_weather>
-        <savedate_life>2015-04-17</savedate_life>
-        <savedate_zhishu>2015-04-17</savedate_zhishu>
-        <udatetime>2015-04-17 07:25:00</udatetime>
+        <yd_s>人们感觉舒适，非常适宜户外运动；</yd_s>
+        <savedate_weather>2015-04-20</savedate_weather>
+        <savedate_life>2015-04-20</savedate_life>
+        <savedate_zhishu>2015-04-20</savedate_zhishu>
+        <udatetime>2015-04-19 08:16:00</udatetime>
     </weather>
     <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2015/02/15/2/201502151555332634787.jpg</imgurl>
-        <referral>专为孩子设计的一个安全、好玩、刺激的区域，让充满冒险精神的孩子们在挑战自我的同时享受冒险带来的刺激与快乐，另外潜水体验，近距离观察海洋生物，接触海洋生物，海底永远是神秘的，深不可测的，让人遐想，令人神往，就像人的一生，没有尽头，却有无限的绚烂景色！</referral>
-        <title>游玩景点苏州奥兰德海洋村圆融店|理由1全国第一家以海洋为主题的大型亲子乐园。理由2还有海洋的东西&amp;rsquo;鲨鱼，海象，鳄鱼，食人鱼，亲亲鱼，帝王三间。理由3这里是一个整洁的、有序的、具有童真闲趣的田园牧场。</title>
+        <imgurl>http://upload.17u.com/uploadfile/2013/05/31/6/201353110211795233.jpg</imgurl>
+        <referral>开封府，为北宋时期天下首府，距今已有一千多年的历史，威名驰誉天下。它位于七朝古都开封市碧波荡漾的包公湖畔，占地60余亩、建筑面积1.4万平方米。曾有三位皇帝担任开封府尹，先后有寇准、包拯、欧阳修、范仲淹、苏轼、司马光、沈括等都在此任职。</referral>
+        <title>游玩景点开封府|理由1开封府为北宋时期天下首府，威名驰誉天下，包龙图扶正祛邪、刚直不阿、美名传于古今。理由2开封府气势恢弘，巍峨壮观，与位于包公西湖的包公祠相互呼应，同碧波荡漾的三池湖水相映衬，形成了&amp;ldquo;东府西祠&amp;rdquo;，楼阁碧水的壮丽景观。理由3开封府除了能够看到大批珍贵史料，轶事和陈展外，还能够看到&amp;ldquo;开衙仪式&amp;rdquo;、&amp;ldquo;包公断案&amp;rdquo;、&amp;ldquo;演武场迎宾表演&amp;rdquo;、&amp;ldquo;喷火变脸&amp;rdquo;等丰富多彩的表演活动，真切地体会到&amp;ldquo;游开封府，品味大宋文化；拜包龙图，领略人间正气&amp;rdquo;。</title>
     </listScenery>
     <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2015/02/12/2/20150212113111791962.jpg</imgurl>
-        <referral>这里是一个整洁的、有序的、具有童真闲趣的田园牧场。饲养有萌态可掬的奶牛、绵羊、小鸡、小鸭、钓鱼，这里可以种植天然健康的绿色蔬菜，做一个真正的村民！直接的接触自认，回归质朴，体验到劳动和收获。农田山野，是一个孩子们极其渴望探索，充满诱惑的乐趣天堂！</referral>
-        <title>游玩景点苏州奥兰德海洋村圆融店</title>
+        <imgurl>http://upload.17u.com/uploadfile/2013/05/31/6/201353110211655792.jpg</imgurl>
+        <referral>他们执法严明，清正廉洁，不畏权贵，行政有方。呈现了公生明,清慎勤的道德正气，形成了以廉正刚毅、除暴安良、为官一任造福一方为鲜明特色的开封府衙文化。开封府也因此而深入民心，名垂青史，成为四海闻名的中国古代官衙。</referral>
+        <title>游玩景点开封府</title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://upload.17u.com/uploadfile/2013/05/31/6/201353110211776245.jpg</imgurl>
+        <referral>在开封府，您不仅能看到丰富的文史资料、脍炙人口的故事传奇，还能欣赏到《开衙迎宾》、《铡美案》、《铡赵王》、《榜前捉婿》精彩的大型实景剧目。来吧朋友！来开封府您会体会到游开封府品位大宋文化，拜包龙图领略人间正气的真切含义。</referral>
+        <title>游玩景点开封府</title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://upload.17u.com/uploadfile/2013/05/31/6/201353113011063643.jpg</imgurl>
+        <referral>开封的饮食文化历史悠久,是中国十大菜系中豫菜的发祥地。开封菜也以独特的汴京风味成为豫菜的代表之一。开封的诸多特色风味令全国各地的美食爱好者趋之若鹜,其中最吸引人的有鲤鱼焙面、桶子鸡、套四宝等。</referral>
+        <title>游玩景点开封美食</title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://upload.17u.com/uploadfile/2013/05/31/6/201353113011037544.jpg</imgurl>
+        <referral>到了晚上，著名的鼓楼夜市更是游人如织、食客满座。如今，开封为了发扬这一民间饮食文化，又在鼓楼新天地打造了更具宋文化品位、环境更加优雅的鼓楼食坊。每到华灯初上，沸腾的开封夜市香飘夜空，叫卖声、欢笑声交织成一幅美丽的夜市图画。</referral>
+        <title></title>
     </listScenery>
     <listRestaurant>
-        <name>湖东一号婚礼喜宴会所</name>
+        <name>汴京饭店</name>
         <location>
-            <lat>31.323377</lat>
-            <lng>120.717673</lng>
+            <lat>34.806157</lat>
+            <lng>114.366411</lng>
         </location>
-        <address>苏州市吴中区苏州工业园区右岸街现代休闲广场1层</address>
-        <telephone>(0512)62810005</telephone>
-        <uid>fbe3f25d5a947babbfa8221c</uid>
+        <address>东大街109号（与解放路右司关口段交汇处）</address>
+        <telephone>(0371)2882222</telephone>
+        <uid>d6c5d9917531fff131169b91</uid>
     </listRestaurant>
     <listRestaurant>
-        <name>老北门饭店月光码头店</name>
+        <name>晓宇火锅旗舰店</name>
         <location>
-            <lat>31.327649</lat>
-            <lng>120.711445</lng>
+            <lat>34.80057</lat>
+            <lng>114.356241</lng>
         </location>
-        <address>苏州工业园区月光码头A1号(近科文博览中心)</address>
-        <telephone>(0512)69367738,(0512)69367728</telephone>
-        <uid>39d43f82ceea339fa9059d83</uid>
+        <address>中山路与省府前街交叉口向西100路南</address>
+        <telephone>18237852020</telephone>
+        <uid>a7d709e83723bc47da2f28c6</uid>
     </listRestaurant>
     <listRestaurant>
-        <name>日式寿喜烧火锅</name>
+        <name>锦江之星</name>
         <location>
-            <lat>31.327271</lat>
-            <lng>120.719264</lng>
+            <lat>34.806542</lat>
+            <lng>114.35963</lng>
         </location>
-        <address>苏州工业园区旺墩路268号圆融时代广场10栋103室(华池街口)</address>
-        <telephone>(0512)66966200</telephone>
-        <uid>a5097bfaa508da7af03cbac4</uid>
+        <address>开封市大商千盛百货邻距龙亭景区大门150米，西大街99号</address>
+        <uid>e3d2c0f25527f85ef503b8d0</uid>
     </listRestaurant>
     <listRestaurant>
-        <name>金鸡湖名致精品酒店公寓-中餐厅</name>
+        <name>开封市鸿宾巴蜀石锅鱼饭店</name>
         <location>
-            <lat>31.331119</lat>
-            <lng>120.726011</lng>
+            <lat>34.801852</lat>
+            <lng>114.351641</lng>
         </location>
-        <address>嘉瑞巷8号乐嘉大厦4层</address>
-        <telephone>(0512)62622288</telephone>
-        <uid>20b593a6129f4641ad31e528</uid>
+        <address>新河大小西门对面金明大道与金耀路交叉口金明广场以北天马广场以南</address>
+        <telephone>(0371)2378886,18303858585</telephone>
+        <uid>e073688e5c9e1634b45f1e6e</uid>
     </listRestaurant>
     <listRestaurant>
-        <name>东吴面馆星湖街店</name>
+        <name>新天地温泉宾馆</name>
         <location>
-            <lat>31.327896</lat>
-            <lng>120.725092</lng>
+            <lat>34.798932</lat>
+            <lng>114.360297</lng>
         </location>
-        <address>工业园区星湖街金鸡湖商业广场F城109室</address>
-        <uid>4f55ff9057053ed1f942b2bb</uid>
+        <address>鼓楼区鼓楼新天地15号楼3楼</address>
+        <uid>56f2f696b9057d990aa8d431</uid>
     </listRestaurant>
     <listRestaurant>
-        <name>松鹤楼(圆融星座店)</name>
+        <name>又一新饭店</name>
         <location>
-            <lat>31.325151</lat>
-            <lng>120.721755</lng>
+            <lat>34.80074</lat>
+            <lng>114.359556</lng>
         </location>
-        <address>苏州工业园区旺敦路269号-1F园区圆融星座店</address>
-        <telephone>(0512)62607768</telephone>
-        <uid>74b892a00f8b70862fb90864</uid>
+        <address>鼓楼区寺后街23号（毗邻鼓楼新天地）</address>
+        <telephone>(0371)5956677</telephone>
+        <uid>2c69ee53f22507f5990050cd</uid>
     </listRestaurant>
     <listRestaurant>
-        <name>松鹤楼园区店</name>
+        <name>黄家包子(解放路店)</name>
         <location>
-            <lat>31.326338</lat>
-            <lng>120.708796</lng>
+            <lat>34.804037</lat>
+            <lng>114.367467</lng>
         </location>
-        <address>苏州市吴中区</address>
-        <uid>5a3dca7d7232cb7afea77852</uid>
+        <address>开封鼓楼区解放路北土街段99号(近刘少奇纪念馆)</address>
+        <uid>1c06bba29c25d8ee306212ae</uid>
     </listRestaurant>
     <listRestaurant>
-        <name>肯德基时代广场餐厅-洗手间</name>
+        <name>马豫兴</name>
         <location>
-            <lat>31.326346</lat>
-            <lng>120.719173</lng>
+            <lat>34.80646</lat>
+            <lng>114.351246</lng>
         </location>
-        <address>圆融时代广场n6区12幢103室</address>
-        <uid>d15d05ce768c1187afee7ac1</uid>
+        <address>省府西街(近眼病医院)</address>
+        <uid>0bfce6163d0eaf1232870a3c</uid>
     </listRestaurant>
     <listRestaurant>
-        <name>金海华.玲珑国际.赫本餐厅</name>
+        <name>肯德基(龙亭餐厅)-洗手间</name>
         <location>
-            <lat>31.329731</lat>
-            <lng>120.706693</lng>
+            <lat>34.806335</lat>
+            <lng>114.358993</lng>
         </location>
-        <address>江苏省苏州市吴中区翠园路</address>
-        <uid>4472a74d55bf579d9a005019</uid>
+        <address>开封市开封市市辖区</address>
+        <uid>712198f3693838c22d4733ae</uid>
     </listRestaurant>
     <listRestaurant>
-        <name>柏宜酒店（苏州金鸡湖博览中心店）</name>
+        <name>开封贝&#26962;柏亚商务酒店</name>
         <location>
-            <lat>31.32903</lat>
-            <lng>120.725095</lng>
+            <lat>34.796175</lat>
+            <lng>114.362085</lng>
         </location>
-        <address>苏州金鸡湖商业广场8幢108室（苏州大道东（原翠园路）与星湖街交接口地铁1号线星湖街站1号出口处）</address>
-        <telephone>(0512)62953688</telephone>
-        <uid>2921a04562baf9d9f503b892</uid>
+        <address>开封市自由路55号（马道街与自由路交叉口向东200米路北）</address>
+        <uid>1f95d4487356a1dc21026217</uid>
     </listRestaurant>
     <listBank>
-        <name>台北富邦银行苏州代表处</name>
+        <name>河南汴京农村商业银行大南门储蓄所</name>
         <location>
-            <lat>31.328135</lat>
-            <lng>120.721131</lng>
+            <lat>34.800955</lat>
+            <lng>114.351521</lng>
         </location>
-        <address>时代广场23栋广运金融大楼611</address>
-        <uid>1cc525f6b74af76314c8f6ba</uid>
+        <address>开封市开封市市辖区</address>
+        <uid>8061efffcbb7e93a8f55ecbb</uid>
     </listBank>
     <listBank>
-        <name>上海银行24小时自助银行(苏州分行)</name>
+        <name>河南汴京农村商业银行atm</name>
         <location>
-            <lat>31.328629</lat>
-            <lng>120.721342</lng>
+            <lat>34.80097</lat>
+            <lng>114.351112</lng>
         </location>
-        <address>苏州工业园区时代广场23栋B座</address>
-        <telephone>(0512)66960660</telephone>
-        <uid>525cf8c43be151d39cec2bae</uid>
+        <address>开封市市辖区</address>
+        <uid>365d7a1e183b04ee15a1908a</uid>
     </listBank>
     <listBank>
-        <name>中国民生银行24小时自助银行(苏州分行营业部)</name>
+        <name>中国信合ATM(大南门分社)</name>
         <location>
-            <lat>31.328528</lat>
-            <lng>120.719764</lng>
+            <lat>34.80097</lat>
+            <lng>114.351109</lng>
         </location>
-        <address>时代广场23幢</address>
-        <uid>0c2ca67db8cb40472e4733c9</uid>
+        <address>省府西街82号 附近</address>
+        <uid>210365043fc8b8836849f3fa</uid>
     </listBank>
     <listBank>
-        <name>中国民生银行(分行营业部)</name>
+        <name>农村信用合作联社大南门分社</name>
         <location>
-            <lat>31.328297</lat>
-            <lng>120.719783</lng>
+            <lat>34.800933</lat>
+            <lng>114.351093</lng>
         </location>
-        <address>苏州工业园区旺墩路268号圆融时代广场1层</address>
-        <telephone>(0512)67900003</telephone>
-        <uid>1cccb5c0172dbda748fc8d69</uid>
+        <address>开封市市辖区</address>
+        <uid>606ab0d022d0d4540f3ddab9</uid>
     </listBank>
     <listBank>
-        <name>中国民生银行(苏州分行营业部)</name>
+        <name>中国建设银行(开封迎宾路支行)</name>
         <location>
-            <lat>31.32812</lat>
-            <lng>120.719783</lng>
+            <lat>34.800733</lat>
+            <lng>114.350385</lng>
         </location>
-        <address>工业园区星海街200号星海国际广场(苏绣路口)</address>
-        <uid>a3a57b75a375e8dc29fc484c</uid>
+        <address>开封市市辖区</address>
+        <uid>f5930022c315763a047ce855</uid>
     </listBank>
     <listBank>
-        <name>上海银行(苏州分行)</name>
+        <name>中国银行ATM</name>
         <location>
-            <lat>31.328497</lat>
-            <lng>120.72171</lng>
+            <lat>34.800696</lat>
+            <lng>114.350365</lng>
         </location>
-        <address>苏州工业园区旺墩路268号圆融时代广场1层</address>
-        <telephone>(0512)66960660</telephone>
-        <uid>1e16c74a6fb14e43c9c3db75</uid>
+        <address>开封市市辖区</address>
+        <uid>8eb48fa1ec010cd8f32d83d9</uid>
     </listBank>
     <listBank>
-        <name>中国民生银行(苏州分行营业部)</name>
+        <name>中国农业银行(淮河支行)</name>
         <location>
-            <lat>31.327981</lat>
-            <lng>120.719813</lng>
+            <lat>34.801333</lat>
+            <lng>114.349817</lng>
         </location>
-        <address>苏州市吴中区苏州工业园区时代广场23幢</address>
-        <uid>f105a32909d0e92682a12eda</uid>
+        <address>河南省开封市鼓楼区西司门街22号</address>
+        <telephone>(0371)5662837</telephone>
+        <uid>09185c567a3d965df11937f5</uid>
     </listBank>
     <listBank>
-        <name>南洋商业银行ATM</name>
+        <name>中国农业银行ATM</name>
         <location>
-            <lat>31.329392</lat>
-            <lng>120.720353</lng>
+            <lat>34.801355</lat>
+            <lng>114.349768</lng>
         </location>
-        <address>华池街88号</address>
-        <uid>2870f34cfa100c66e8e582dd</uid>
+        <address>开封市市辖区</address>
+        <uid>0525414fbc9588819ee321f1</uid>
     </listBank>
     <listBank>
-        <name>合作金库银行苏州分行</name>
+        <name>中国银行(省府西街支行)</name>
         <location>
-            <lat>31.327942</lat>
-            <lng>120.719205</lng>
+            <lat>34.801748</lat>
+            <lng>114.34942</lng>
         </location>
-        <address>圆融时代广场附近苏州国际金融中心</address>
-        <telephone>(0512)62958895</telephone>
-        <uid>0bd7c3c26661e25b42d63e85</uid>
+        <address>河南省开封市鼓楼区西司门街22号</address>
+        <uid>a7c56ee0bacbdcb3a3acc4f5</uid>
     </listBank>
     <listBank>
-        <name>韩国国民银行(苏州分行)</name>
+        <name>中国银行atm</name>
         <location>
-            <lat>31.327942</lat>
-            <lng>120.719205</lng>
+            <lat>34.80174</lat>
+            <lng>114.34934</lng>
         </location>
-        <address>圆融时代广场附近苏州国际金融中心</address>
-        <telephone>(0512)62967505</telephone>
-        <uid>8546077902e2d9fb14b54b78</uid>
+        <address>开封市市辖区</address>
+        <uid>97384f71fa92ef1979b55cb3</uid>
     </listBank>
     <listHotel>
-        <address>金鸡湖大道1355号</address>
-        <cityID>226</cityID>
-        <className>豪华型</className>
-        <dpNum>479</dpNum>
-        <hotelID>13329</hotelID>
-        <intro>苏州维景国际大酒店位于苏州工业园区和市区交界处，交通便利，环境优美，酒店于2012年10月进行局部装修。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2015/1/26/17/34/J/1028adc2c06b4310836710725877e2a9_400x300_01.jpg</largePic>
-        <lat>31.301568</lat>
-        <lon>120.673399</lon>
-        <name>苏州维景国际大酒店</name>
-        <satisfaction>95%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-13329.html</url>
-    </listHotel>
-    <listHotel>
-        <address>干将东路535号(地铁相门站1号出口,平江路正对面)</address>
-        <cityID>226</cityID>
-        <className>四星级</className>
-        <dpNum>231</dpNum>
-        <hotelID>10143</hotelID>
-        <intro>苏州凯莱酒店位于苏州市中心，临近观前街、网师园、沧浪亭，离平江历史街区，仅几步之遥，距离新加坡工业园区约10分钟车程，距离高新技术开发区20分钟车程。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/10/7fafa7282cce42f9afc93c9b6c3a22e0_400x300_01.jpg</largePic>
-        <lat>31.314403</lat>
-        <lon>120.642523</lon>
-        <name>苏州凯莱酒店</name>
-        <satisfaction>88%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-10143.html</url>
-    </listHotel>
-    <listHotel>
-        <address>观前街宫巷63号(地铁1号线乐桥站6号出口)</address>
-        <cityID>226</cityID>
-        <className>四星级</className>
-        <dpNum>291</dpNum>
-        <hotelID>135</hotelID>
-        <intro>苏州雅戈尔富宫大酒店地处市中心观前街，“出门皆美食，百步逛观前”是该酒店优越地理位置的真实写照。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/4/e4e820c5286d42db84e369e976805136_400x300_01.jpg</largePic>
-        <lat>31.31522</lat>
-        <lon>120.632941</lon>
-        <name>苏州雅戈尔富宫大酒店</name>
-        <satisfaction>93%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-135.html</url>
-    </listHotel>
-    <listHotel>
-        <address>十全街滚绣坊20号</address>
-        <cityID>226</cityID>
-        <className>高档型</className>
-        <dpNum>381</dpNum>
-        <hotelID>4156</hotelID>
-        <intro>苏州南林饭店位于著名的娱乐酒吧一条街&#8212;&#8212;十全街，地处古城中心，毗邻繁华商业区，位置优越，交通便利。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/10/c5d5df90e70949349add037837000ea3_400x300_01.jpg</largePic>
-        <lat>31.305797</lat>
-        <lon>120.637563</lon>
-        <name>苏州南林饭店</name>
-        <satisfaction>98%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-4156.html</url>
-    </listHotel>
-    <listHotel>
-        <address>东吴北路130号(位于吴中CBD与姑苏区结合部,近南门商业区及汽车南站,距观前街仅15分钟车程)</address>
-        <cityID>226</cityID>
-        <className>豪华型</className>
-        <dpNum>164</dpNum>
-        <hotelID>6648</hotelID>
-        <intro>苏州苏苑饭店位于苏州东吴北路，临近宁沪高速、苏嘉杭高速的城区出入口，门口是苏州市南北主干道人民路，有多路公交直达观前商业圈、石路商业圈、苏州市火车站、汽车南站、汽车北站，到市内各大...</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/10/7a8003ec8df049a78e83eff147f3c57b_400x300_01.jpg</largePic>
-        <lat>31.279872</lat>
-        <lon>120.634493</lon>
-        <name>苏州苏苑饭店</name>
-        <satisfaction>91%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-6648.html</url>
-    </listHotel>
-    <listHotel>
-        <address>干将西路236号</address>
-        <cityID>226</cityID>
-        <className>舒适型</className>
-        <dpNum>252</dpNum>
-        <hotelID>62473</hotelID>
-        <intro>苏州星耀国际酒店位于苏州市姑苏区，紧邻繁华的观前街和四大园林旅游区，距离苏州工业园区以及苏州新区仅需10分钟车程。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/9/a618228e725744158a8f5e577ab12e9c_400x300_01.jpg</largePic>
-        <lat>31.311801</lat>
-        <lon>120.621431</lon>
-        <name>苏州星耀国际酒店</name>
-        <satisfaction>95%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-62473.html</url>
-    </listHotel>
-    <listHotel>
-        <address>平泷路158号(万达广场)</address>
-        <cityID>226</cityID>
-        <className>高档型</className>
-        <dpNum>237</dpNum>
-        <hotelID>63021</hotelID>
-        <intro>苏州江南四季酒店位于苏州万达广场平泷路，临近观前街，坐拥黄金地段，往来交通便捷。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/9/496828c146e94cccbc37da5ae2c7142a_400x300_01.jpg</largePic>
-        <lat>31.351447</lat>
-        <lon>120.622973</lon>
-        <name>苏州江南四季酒店</name>
+        <address>开封新区郑开大道东1号</address>
+        <cityID>154</cityID>
+        <className>五星级</className>
+        <dpNum>151</dpNum>
+        <hotelID>6479</hotelID>
+        <intro>开封开元名都大酒店位于郑开大道东段，至省会郑州仅需半小时车程，距新郑机场50分钟路程，驱车前往开封市内各旅游景点均不超过15分钟，地段优越，交通便利。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/10/a6fa5dc570ed498f9145d21ee04a6d18_400x300_01.jpg</largePic>
+        <lat>34.806852</lat>
+        <lon>114.304901</lon>
+        <name>开封开元名都大酒店</name>
         <satisfaction>99%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-63021.html</url>
+        <url>http://www.ly.com/HotelInfo-6479.html</url>
     </listHotel>
     <listHotel>
-        <address>干将西路380号(地铁1号线养育巷3号出口)</address>
-        <cityID>226</cityID>
-        <className>舒适型</className>
-        <dpNum>107</dpNum>
-        <hotelID>63326</hotelID>
-        <intro>苏州汉傧精品酒店地处苏州古城中心学士街与干将西路交叉口，“干将桥头，运城河畔”；东邻观前步行街，西靠石路商业街，南接盘门景区，北连吴趋“阊门”，交通便利；距地铁一号线仅一步之遥。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/9/fdd90759e9f44026bc7a82eacb395244_400x300_01.jpg</largePic>
-        <lat>31.31136</lat>
-        <lon>120.617637</lon>
-        <name>苏州汉傧精品酒店</name>
-        <satisfaction>98%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-63326.html</url>
-    </listHotel>
-    <listHotel>
-        <address>太监弄31号人民商场对面珍珠弄)。停车可至玄妙广场地下停车场,酒店每日提供一张免费停车券。出口处向北100米可至酒店</address>
-        <cityID>226</cityID>
-        <className>舒适型</className>
-        <dpNum>50</dpNum>
-        <hotelID>295488</hotelID>
-        <intro>苏州天逅主题酒店地处观前步行街中心位置，毗邻多家大型商场、影城、美食一条街。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/10/17/2/23/T/6fa15d0cad654b97b4b5b20316356df0_400x300_01.jpg</largePic>
-        <lat>31.316143</lat>
-        <lon>120.631542</lon>
-        <name>苏州天逅主题酒店</name>
-        <satisfaction>100%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-295488.html</url>
-    </listHotel>
-    <listHotel>
-        <address>启月街299号</address>
-        <cityID>226</cityID>
-        <className>豪华型</className>
-        <dpNum>101</dpNum>
-        <hotelID>13396</hotelID>
-        <intro>苏州独墅湖世尊酒店位于苏州工业园区月亮湾北，是园区首家五星级标准的休闲度假特色酒店。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/10/6211f7a3f51b47c990253d09af7e89d6_400x300_01.jpg</largePic>
-        <lat>31.272278</lat>
-        <lon>120.727797</lon>
-        <name>苏州独墅湖世尊酒店</name>
-        <satisfaction>97%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-13396.html</url>
-    </listHotel>
-    <listHotel>
-        <address>独墅湖月亮湾路8号</address>
-        <cityID>226</cityID>
-        <className>豪华型</className>
-        <dpNum>117</dpNum>
-        <hotelID>58455</hotelID>
-        <intro>苏州福朋喜来登酒店作为喜来登的姐妹品牌，将以诚信、简约、舒适的核心价值为客人提供全套酒店服务。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/9/2366b1d67f2b47a0b624aa5aa860280f_400x300_01.jpg</largePic>
-        <lat>31.267012</lat>
-        <lon>120.727527</lon>
-        <name>苏州福朋喜来登酒店</name>
-        <satisfaction>93%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-58455.html</url>
-    </listHotel>
-    <listHotel>
-        <address>独墅湖高教区林泉街文荟广场366号</address>
-        <cityID>226</cityID>
+        <address>自由路西段25号</address>
+        <cityID>154</cityID>
         <className>经济型</className>
-        <dpNum>339</dpNum>
-        <hotelID>84105</hotelID>
-        <intro>苏州绿地商务酒店建立于2009年，是一家位于苏州市工业园区独墅湖高教区内的商务型酒店。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/9/f48917ec13c64dea9f4ea86ef0d3fae2_400x300_01.jpg</largePic>
-        <lat>31.275345</lat>
-        <lon>120.754898</lon>
-        <name>苏州绿地商务酒店</name>
-        <satisfaction>95%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-84105.html</url>
+        <dpNum>225</dpNum>
+        <hotelID>65655</hotelID>
+        <intro>昆仑乐居连锁酒店（开封鼓楼店）是一家以客房为主，兼具中小型会议功能的快捷宾馆，拥有各类普通、豪华客房和古朴典雅的中小会议室。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/9/010d3161ecc447689554f1a7ceada326_400x300_01.jpg</largePic>
+        <lat>34.796509</lat>
+        <lon>114.360958</lon>
+        <name>昆仑乐居连锁酒店（开封鼓楼店）</name>
+        <satisfaction>96%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-65655.html</url>
     </listHotel>
     <listHotel>
-        <address>思安街36号</address>
-        <cityID>226</cityID>
-        <className>四星级</className>
-        <dpNum>218</dpNum>
-        <hotelID>1752</hotelID>
-        <intro>苏州建屋国际酒店地处苏州工业园区星湖街金鸡湖商业广场，紧邻国际博览中心、园区行政中心、圆融时代广场、久光百货；周围有金鸡湖畔、科技文化中心及李公堤商业街；酒店往来沪宁高速、苏嘉杭高...</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/10/47704ab1d4634cd49943e2681cdb8420_400x300_01.jpg</largePic>
-        <lat>31.323456</lat>
-        <lon>120.725187</lon>
-        <name>苏州建屋国际酒店</name>
-        <satisfaction>97%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-1752.html</url>
+        <address>黄河路与大梁路交叉口往北两公里路东</address>
+        <cityID>154</cityID>
+        <className>舒适型</className>
+        <dpNum>42</dpNum>
+        <hotelID>294522</hotelID>
+        <intro>开封中州雅致酒店位于黄河路中段城市花园，毗邻大梁路、东京大道，周边围绕清明上河园、龙亭、中国翰园碑林、万岁山森林公园、小宋城等旅游胜地，方便前往开封火车站、连霍高速入口，地理位置优...</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/10/16/6/9/X/fec2283a3080425da5db6a4eddad0946_400x300_01.jpg</largePic>
+        <lat>34.822798</lat>
+        <lon>114.330278</lon>
+        <name>开封中州雅致酒店</name>
+        <satisfaction>90%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-294522.html</url>
     </listHotel>
     <listHotel>
-        <address>葑亭大道渔泾路9号</address>
-        <cityID>226</cityID>
+        <address>寺后街23号</address>
+        <cityID>154</cityID>
+        <className>经济型</className>
+        <dpNum>53</dpNum>
+        <hotelID>130384</hotelID>
+        <intro>汉庭酒店（开封鼓楼店）地理位置优越，交通便利，紧挨着开封著名小吃街“鼓楼夜市”，西邻开封第一楼，距马道街步行街、书店街仅200米路程，距鼓楼地下商业街仅一步之遥，距开封著名景点大相国....</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/8/aed895ac0e8042cda765af91c7b0f5b2_400x300_01.jpg</largePic>
+        <lat>34.800385</lat>
+        <lon>114.359482</lon>
+        <name>汉庭酒店（开封鼓楼店）</name>
+        <satisfaction>92%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-130384.html</url>
+    </listHotel>
+    <listHotel>
+        <address>大梁路9号</address>
+        <cityID>154</cityID>
+        <className>五星级</className>
+        <dpNum>76</dpNum>
+        <hotelID>6735</hotelID>
+        <intro>开封中州国际饭店位于开封市金明区主干道大梁路中段路南，毗临市政府，离开封各大旅游景点车程均在10分钟的车程，交通十分便利。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/10/0ad62d0f10734f50bee47027f5df90bd_400x300_01.jpg</largePic>
+        <lat>34.806802</lat>
+        <lon>114.317019</lon>
+        <name>开封中州国际饭店</name>
+        <satisfaction>93%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-6735.html</url>
+    </listHotel>
+    <listHotel>
+        <address>大庆路2号</address>
+        <cityID>154</cityID>
         <className>四星级</className>
-        <dpNum>89</dpNum>
-        <hotelID>45356</hotelID>
-        <intro> 苏州戴斯酒店位于苏州工业园区葑亭大道渔泾路口，按照五星标准建造，由美国戴斯酒店集团(中国)全权经营管理。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/14/6/37/S/d577ec33235b4d38a242548c18c68d95_400x300_01.jpg</largePic>
-        <lat>31.351453</lat>
-        <lon>120.704432</lon>
-        <name>苏州戴斯酒店</name>
+        <dpNum>17</dpNum>
+        <hotelID>280967</hotelID>
+        <intro>酒店建于2005年，2006年开始试营业，2009年金源酒店荣膺“国家四星级旅游酒店”称号。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/9/27/6/9/O/1b920382d3484638a39621c62be833e9_400x300_01.jpg</largePic>
+        <lat>34.786112</lat>
+        <lon>114.336377</lon>
+        <name>河南金源大酒店</name>
         <satisfaction>94%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-45356.html</url>
+        <url>http://www.ly.com/HotelInfo-280967.html</url>
+    </listHotel>
+    <listHotel>
+        <address>解放大道中段(学院门向南100米路东)</address>
+        <cityID>154</cityID>
+        <className>舒适型</className>
+        <dpNum>19</dpNum>
+        <hotelID>400396</hotelID>
+        <intro> 开封最佳西方财富大酒店是全球最大的酒店连锁集团&#8212;美国最佳西方国际集团在开封的首家国际品牌温泉酒店，按四星级标准建造，座落于开封市解放大道中段，地处开封市商业...</intro>
+        <largePic>http://pic2.40017.cn/hotel/2015/1/9/8/17/B/fdddf4df045d462a8ba887f0eb5ba72a_400x300_01.jpg</largePic>
+        <lat>34.797803</lat>
+        <lon>114.366724</lon>
+        <name>开封最佳西方财富大酒店</name>
+        <satisfaction>95%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-400396.html</url>
+    </listHotel>
+    <listHotel>
+        <address>大梁路与黄河路交叉口向南200米路西</address>
+        <cityID>154</cityID>
+        <className>经济型</className>
+        <dpNum>52</dpNum>
+        <hotelID>130416</hotelID>
+        <intro>开封元景假日酒店是客房按四星级标准建造的一家设计型生活时尚精品酒店，酒店位于市中心新旧城区结合处，地处黄金地带，地理位置优越，交通便利。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/6/e59624e3e3c84967b68974c2d8e0196c_400x300_01.jpg</largePic>
+        <lat>34.805262</lat>
+        <lon>114.328287</lon>
+        <name>开封元景假日酒店</name>
+        <satisfaction>92%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-130416.html</url>
+    </listHotel>
+    <listHotel>
+        <address>金明大道与宋城路交叉口向北200米路西</address>
+        <cityID>154</cityID>
+        <className>舒适型</className>
+        <dpNum>1</dpNum>
+        <hotelID>437943</hotelID>
+        <intro>开封亿百合主题酒店位于金明大道与宋城路交叉口，出行、交通便利。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2015/2/13/14/24/H/676af050584a4eafaf7de6009e0b0fcf_400x300_01.jpg</largePic>
+        <lat>34.794456</lat>
+        <lon>114.308421</lon>
+        <name>开封亿百合主题酒店</name>
+        <satisfaction>100%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-437943.html</url>
+    </listHotel>
+    <listHotel>
+        <address>龙亭西路7号七盛角1号楼</address>
+        <cityID>154</cityID>
+        <className>经济型</className>
+        <dpNum>5</dpNum>
+        <hotelID>276618</hotelID>
+        <intro>开封红梅苑主题酒店位于七盛角的繁华黄金地带，邻近清明上河园、中国翰园，地理位置优越，旅游交通十分便利。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/10/2/12/0/S/ef9566f295474992a422069d17defb6f_400x300_01.jpg</largePic>
+        <lat>34.811977</lat>
+        <lon>114.348691</lon>
+        <name>开封红梅苑主题酒店</name>
+        <satisfaction>100%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-276618.html</url>
+    </listHotel>
+    <listHotel>
+        <address>寺后街鼓楼新天地17号</address>
+        <cityID>154</cityID>
+        <className>经济型</className>
+        <dpNum>120</dpNum>
+        <hotelID>43791</hotelID>
+        <intro>99快捷宾馆（开封鼓楼店）座落在素有‘七朝古都，北方水城’之称的开封市；市内六家直属连锁宾馆，地理位置优越，交通便利，各店在10分钟内均可到至今保存最为完整建筑宏伟明清古建筑群陕山甘会...</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/11/a5914b56b3f74b19a6399386d102a25f_400x300_01.jpg</largePic>
+        <lat>34.800622</lat>
+        <lon>114.359764</lon>
+        <name>99快捷宾馆（开封鼓楼店）</name>
+        <satisfaction>81%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-43791.html</url>
+    </listHotel>
+    <listHotel>
+        <address>板桥街88号(大梁门向东500米西门教堂后50米)</address>
+        <cityID>154</cityID>
+        <className>高档型</className>
+        <dpNum>17</dpNum>
+        <hotelID>272320</hotelID>
+        <intro>速8酒店开封清明上河园西门大街店位于开封东西主干道西门大街中段，地理位置优越，周边景点众多。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2015/3/9/18/6/G/429d84f9ab594d38a85c9a77a5c295fe_400x300_01.jpg</largePic>
+        <lat>34.805246</lat>
+        <lon>114.345123</lon>
+        <name>速8酒店（开封清明上河园店）</name>
+        <satisfaction>100%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-272320.html</url>
+    </listHotel>
+    <listHotel>
+        <address>龙庭西路七盛角商业街5号楼</address>
+        <cityID>154</cityID>
+        <className>其他</className>
+        <dpNum>5</dpNum>
+        <hotelID>421033</hotelID>
+        <intro>开封阳光纳里客栈位于开封龙亭区龙庭西路七盛角商业街，近清明上河园，紧邻龙亭公园，周边环境优美，地段优越。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2015/1/23/22/53/A/2d1c2e9d50a243b8af7fdc8f1f9d49fb_400x300_01.jpg</largePic>
+        <lat>34.81255</lat>
+        <lon>114.350616</lon>
+        <name>开封阳光纳里客栈</name>
+        <satisfaction>100%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-421033.html</url>
+    </listHotel>
+    <listHotel>
+        <address>黄河路北段(电视塔对面)清明上河园附近</address>
+        <cityID>154</cityID>
+        <className>经济型</className>
+        <dpNum>22</dpNum>
+        <hotelID>90158</hotelID>
+        <intro>速8酒店（开封黄河路店）位于开封市金明区黄河大街与大梁路交叉口向北500米路东，西邻电视塔、距开封市老城墙大梁门不足1000米，毗邻开封市两大夜市，距一日穿越千年的著名景点＂清明上河园”开...</intro>
+        <largePic>http://pic2.40017.cn/hotel/2015/1/23/16/50/I/531edeaa6c9e4c8aac8e7fed52d61575_400x300_01.jpg</largePic>
+        <lat>34.813934</lat>
+        <lon>114.329221</lon>
+        <name>速8酒店（开封黄河路店）</name>
+        <satisfaction>95%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-90158.html</url>
+    </listHotel>
+    <listHotel>
+        <address>内环东路与曹门南街交叉口</address>
+        <cityID>154</cityID>
+        <className>经济型</className>
+        <dpNum>52</dpNum>
+        <hotelID>130229</hotelID>
+        <intro>7天连锁酒店（开封石桥口店）位于河南古城开封市顺河区东大街奥德赛大厦（石桥口十字路口），为开封东郊地标性建筑，毗邻汴京公园、铁塔公园、清明上河园、龙亭公园、禹王台、宋都御街、翰园碑....</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/8/47d4e700a0734e08bf846e053c22d828_400x300_01.jpg</largePic>
+        <lat>34.805584</lat>
+        <lon>114.374354</lon>
+        <name>7天连锁酒店（开封石桥口店）</name>
+        <satisfaction>96%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-130229.html</url>
+    </listHotel>
+    <listHotel>
+        <address>郑开大道</address>
+        <cityID>154</cityID>
+        <className>经济型</className>
+        <dpNum>6</dpNum>
+        <hotelID>454759</hotelID>
+        <intro>开封星程锦庭酒店是中国领先的中档酒店品牌&#8212;&#8212;星程酒店成员，围绕“更多服务、更多空间” 两项服务承诺，星程倾力打造“宽敞高雅空间、优质床品卫浴、完备设施服务、i-hotel聪明酒店”四....</intro>
+        <largePic>http://pic2.40017.cn/hotel/2015/2/15/17/33/R/d62566b225b74e6ebbeb60c7a96c99c7_400x300_01.jpg</largePic>
+        <lat>34.808426</lat>
+        <lon>114.296409</lon>
+        <name>开封星程锦庭酒店</name>
+        <satisfaction>100%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-454759.html</url>
+    </listHotel>
+    <listHotel>
+        <address>开封晋安路开元华庭南门向西50米</address>
+        <cityID>154</cityID>
+        <className>经济型</className>
+        <dpNum>14</dpNum>
+        <hotelID>209588</hotelID>
+        <intro>开封旺角春天酒店是一家以星级标准建造的精品风格酒店，酒店聘请香港知名设计师精心设计，装饰风格精美典雅，温馨时尚。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/5/d4203b2708824a8cb0cb99dd45f8e2fa_400x300_01.jpg</largePic>
+        <lat>34.802699</lat>
+        <lon>114.293029</lon>
+        <name>开封旺角春天酒店</name>
+        <satisfaction>100%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-209588.html</url>
+    </listHotel>
+    <listHotel>
+        <address>大梁路99号(西邻小宋城,十四中学、建行干校、二十五中)</address>
+        <cityID>154</cityID>
+        <className>三星级</className>
+        <dpNum>19</dpNum>
+        <hotelID>304573</hotelID>
+        <intro>航天大酒店地理位置优越，东连八朝古城大梁门，西接小宋城、金明广场，南邻市委市政府行政区，北倚电视塔文化园区。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/10/23/21/19/X/e862ea6d43ec427795e2c1cc3eb4e64d_400x300_01.jpg</largePic>
+        <lat>34.808156</lat>
+        <lon>114.325102</lon>
+        <name>开封航天大酒店</name>
+        <satisfaction>79%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-304573.html</url>
+    </listHotel>
+    <listHotel>
+        <address>汴京大道89号八层楼</address>
+        <cityID>154</cityID>
+        <className>经济型</className>
+        <dpNum>29</dpNum>
+        <hotelID>180477</hotelID>
+        <intro>7天连锁酒店（开封鼓楼广场学院门店）毗邻汴京公园、古城墙、禹王台、宋都御街、清明上河园、翰园碑林、铁塔、龙亭、相国寺、开封府等诸多名胜景点，让您轻松享受宋都历史文化。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/5/e38e9e2177cd47e589c1eb342652a457_400x300_01.jpg</largePic>
+        <lat>34.799572</lat>
+        <lon>114.376233</lon>
+        <name>7天连锁酒店（开封鼓楼广场学院门店）</name>
+        <satisfaction>97%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-180477.html</url>
+    </listHotel>
+    <listHotel>
+        <address>大梁路201号</address>
+        <cityID>154</cityID>
+        <className>舒适型</className>
+        <dpNum>24</dpNum>
+        <hotelID>307717</hotelID>
+        <intro>开封东京国贸商务酒店是一家装修时尚、经典雅致，融合古典风韵与现代风格的时尚商务酒店。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/10/27/15/13/D/faa858574bef4b60828eb0a5af0613f6_400x300_01.jpg</largePic>
+        <lat>34.8081</lat>
+        <lon>114.315119</lon>
+        <name>开封东京国贸商务酒店</name>
+        <satisfaction>83%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-307717.html</url>
     </listHotel>
 </Travel>
