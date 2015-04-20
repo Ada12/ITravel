@@ -36,69 +36,72 @@
                     </div>
                     <ul id="content" style="padding-left: 0px">
                         <li class="bg1">
-                            <h2>景点详情</h2>
-                            城市：<xsl:value-of select="Travel/travelCity"></xsl:value-of>
-                            景点名称：<xsl:value-of select="Travel/travelTitle"></xsl:value-of>
+                            <h2>城市:<strong><xsl:value-of select="Travel/travelCity"></xsl:value-of></strong></h2>
+                            <br/>
+                            <h3>景点名称：<xsl:value-of select="Travel/travelTitle"></xsl:value-of></h3><br/>
                             <xsl:for-each select="Travel/listScenery">
-                                主题： <xsl:value-of select="title"></xsl:value-of>
+                                <h4>
+                                    <strong>主题： <xsl:value-of select="title"></xsl:value-of></strong>
+                                    <br/>
+                                简介：<xsl:value-of select="referral"></xsl:value-of><br/><br/>
                                 <xsl:element name="img">
                                     <xsl:attribute name="src">
                                         <xsl:value-of select="imgurl"></xsl:value-of>
                                     </xsl:attribute>
-                                </xsl:element>
-                                简介：<xsl:value-of select="referral"></xsl:value-of>
+                                </xsl:element></h4><br/>  
                             </xsl:for-each>
                         </li>
                         <li class="bg2">
                             <h2>天气</h2>
-                            状况：<xsl:value-of select="Travel/weather/status1"></xsl:value-of>
-                            风向：<xsl:value-of select="Travel/weather/direction"></xsl:value-of>
-                            风力：<xsl:value-of select="Travel/weather/power1"></xsl:value-of>
-                            最高温度：<xsl:value-of select="Travel/weather/temperature1"></xsl:value-of>
-                            最低温度：<xsl:value-of select="Travel/weather/temperature2"></xsl:value-of>
-                            体感指数：<xsl:value-of select="Travel/weather/ssd"></xsl:value-of>,<xsl:value-of select="Travel/weather/ssd_s"></xsl:value-of>
-                            紫外线指数：<xsl:value-of select="Travel/weather/zwx"></xsl:value-of>,<xsl:value-of select="Travel/weather/zwx_1"></xsl:value-of>
-                            空调指数：<xsl:value-of select="Travel/weather/ktk"></xsl:value-of>,<xsl:value-of select="Travel/weather/ktk_s"></xsl:value-of>
-                            污染指数：<xsl:value-of select="Travel/weather/pollution"></xsl:value-of>,<xsl:value-of select="Travel/weather/pollution_s"></xsl:value-of>
-                            洗车指数：<xsl:value-of select="Travel/weather/xcz"></xsl:value-of>,<xsl:value-of select="Travel/weather/xcz_s"></xsl:value-of>
-                            穿衣指数：<xsl:value-of select="Travel/weather/chy"></xsl:value-of>,<xsl:value-of select="Travel/weather/chy_shuoming"></xsl:value-of>
-                            感冒指数：<xsl:value-of select="Travel/weather/gm"></xsl:value-of>,<xsl:value-of select="Travel/weather/gm_s"></xsl:value-of>
-                            运动指数：<xsl:value-of select="Travel/weather/yd"></xsl:value-of>，<xsl:value-of select="Travel/weather/yd_1"></xsl:value-of>
+                            <h4>
+                            状况：<xsl:value-of select="Travel/weather/status1"></xsl:value-of><br/>
+                            风向：<xsl:value-of select="Travel/weather/direction"></xsl:value-of><br/>
+                            风力：<xsl:value-of select="Travel/weather/power1"></xsl:value-of><br/>
+                            最高温度：<xsl:value-of select="Travel/weather/temperature1"></xsl:value-of><br/>
+                            最低温度：<xsl:value-of select="Travel/weather/temperature2"></xsl:value-of><br/>
+                            体感指数：<xsl:value-of select="Travel/weather/ssd"></xsl:value-of>,<xsl:value-of select="Travel/weather/ssd_s"></xsl:value-of><br/>
+                            紫外线指数：<xsl:value-of select="Travel/weather/zwx"></xsl:value-of>,<xsl:value-of select="Travel/weather/zwx_1"></xsl:value-of><br/>
+                            空调指数：<xsl:value-of select="Travel/weather/ktk"></xsl:value-of>,<xsl:value-of select="Travel/weather/ktk_s"></xsl:value-of><br/>
+                            污染指数：<xsl:value-of select="Travel/weather/pollution"></xsl:value-of>,<xsl:value-of select="Travel/weather/pollution_s"></xsl:value-of><br/>
+                            洗车指数：<xsl:value-of select="Travel/weather/xcz"></xsl:value-of>,<xsl:value-of select="Travel/weather/xcz_s"></xsl:value-of><br/>
+                            穿衣指数：<xsl:value-of select="Travel/weather/chy"></xsl:value-of>,<xsl:value-of select="Travel/weather/chy_shuoming"></xsl:value-of><br/>
+                            感冒指数：<xsl:value-of select="Travel/weather/gm"></xsl:value-of>,<xsl:value-of select="Travel/weather/gm_s"></xsl:value-of><br/>
+                            运动指数：<xsl:value-of select="Travel/weather/yd"></xsl:value-of>，<xsl:value-of select="Travel/weather/yd_1"></xsl:value-of><br/>
+                            </h4>
                         </li>
                         <li class="bg3">
                             <h2>餐厅</h2>
                             <xsl:for-each select="Travel/listRestaurant">
-                                名称： <xsl:value-of select="name"></xsl:value-of>
-                                地址：<xsl:value-of select="address"></xsl:value-of>
-                                电话：<xsl:value-of select="telephone"></xsl:value-of>
+                                <h3>名称： <xsl:value-of select="name"></xsl:value-of></h3><br/>
+                                地址：<xsl:value-of select="address"></xsl:value-of><br/>
+                                电话：<xsl:value-of select="telephone"></xsl:value-of><br/>
                             </xsl:for-each>
                             <h2>银行</h2>
                             <xsl:for-each select="Travel/listBank">
-                                名称： <xsl:value-of select="name"></xsl:value-of>
-                                地址：<xsl:value-of select="address"></xsl:value-of>
-                                电话：<xsl:value-of select="telephone"></xsl:value-of>
+                                <h3>名称： <xsl:value-of select="name"></xsl:value-of></h3><br/>
+                                地址：<xsl:value-of select="address"></xsl:value-of><br/>
+                                电话：<xsl:value-of select="telephone"></xsl:value-of><br/>
                             </xsl:for-each>
                         </li>
                         <li class="bg2">
                             <h2>酒店</h2>
                             <xsl:for-each select="Travel/listHotel">
-                                名称： <xsl:value-of select="name"></xsl:value-of>
-                                地址：<xsl:value-of select="address"></xsl:value-of>
-                                星级：<xsl:value-of select="className"></xsl:value-of>
-                                简介：<xsl:value-of select="intro"></xsl:value-of>
-                                满意度：<xsl:value-of select="satisfaction"></xsl:value-of>
-                                酒店图片：
-                                <xsl:element name="img">
-                                    <xsl:attribute name="src">
-                                        <xsl:value-of select="largePic"></xsl:value-of>
-                                    </xsl:attribute>
-                                </xsl:element>
+                                <h3>名称： <xsl:value-of select="name"></xsl:value-of></h3><br/>
+                                <h4>地址：<xsl:value-of select="address"></xsl:value-of><br/>
+                                星级：<xsl:value-of select="className"></xsl:value-of><br/>
+                                简介：<xsl:value-of select="intro"></xsl:value-of><br/>
+                                满意度：<xsl:value-of select="satisfaction"></xsl:value-of><br/>
                                 <xsl:element name="a">
                                     <xsl:attribute name="href">
                                         <xsl:value-of select="url"></xsl:value-of>
                                     </xsl:attribute>
                                     访问主页
-                                </xsl:element>
+                                </xsl:element></h4>
+                                <xsl:element name="img">
+                                    <xsl:attribute name="src">
+                                        <xsl:value-of select="largePic"></xsl:value-of>
+                                    </xsl:attribute>
+                                </xsl:element><br/>
                             </xsl:for-each>
                         </li>
                     </ul>

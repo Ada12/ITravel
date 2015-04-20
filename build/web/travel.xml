@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="gb2312" standalone="yes"?>
 <Travel>
-    <travelTitle>开封府</travelTitle>
-    <travelCity>开封</travelCity>
+    <travelTitle>芜湖方特（直通车）</travelTitle>
+    <travelCity>芜湖</travelCity>
     <weather>
-        <city>开封</city>
-        <status1>晴</status1>
-        <status2>晴</status2>
-        <figure1>qing</figure1>
-        <figure2>qing</figure2>
-        <direction1>无持续风向</direction1>
-        <direction2>无持续风向</direction2>
-        <power1>≤3</power1>
+        <city>芜湖</city>
+        <status1>小雨</status1>
+        <status2>多云</status2>
+        <figure1>xiaoyu</figure1>
+        <figure2>duoyun</figure2>
+        <direction1>北风</direction1>
+        <direction2>东风</direction2>
+        <power1>3-4</power1>
         <power2>≤3</power2>
-        <temperature1>19</temperature1>
-        <temperature2>10</temperature2>
-        <ssd>6</ssd>
-        <tgd1>19</tgd1>
-        <tgd2>19</tgd2>
-        <zwx>3</zwx>
-        <ktk>6</ktk>
+        <temperature1>17</temperature1>
+        <temperature2>9</temperature2>
+        <ssd>5</ssd>
+        <tgd1>18</tgd1>
+        <tgd2>18</tgd2>
+        <zwx>1</zwx>
+        <ktk>7</ktk>
         <pollution>3</pollution>
+        <xcz>5</xcz>
         <zho/>
         <diy/>
         <fas/>
@@ -29,518 +30,633 @@
         <fas_shuoming>暂无</fas_shuoming>
         <chy_shuoming>套装、夹衣、风衣、夹克衫、西服套装、马甲衬衫配长裤</chy_shuoming>
         <pollution_l>轻度</pollution_l>
-        <zwx_l>中等</zwx_l>
-        <ssd_l>温暖舒适</ssd_l>
+        <zwx_l>最弱</zwx_l>
+        <ssd_l>略凉</ssd_l>
         <fas_l>暂无</fas_l>
         <zho_l>暂无</zho_l>
         <chy_l>夹衣类</chy_l>
-        <ktk_l>适宜开启(制热)</ktk_l>
-        <xcz_l>暂无</xcz_l>
+        <ktk_l>建议开启(制热)</ktk_l>
+        <xcz_l>不适宜</xcz_l>
         <diy_l>暂无</diy_l>
         <pollution_s>对空气污染物扩散无明显影响</pollution_s>
-        <zwx_s>紫外线中等</zwx_s>
-        <ssd_s>天气状况良好时，多到户外活动，并可适当增加户外活动时间。</ssd_s>
-        <ktk_s>适宜开启空调</ktk_s>
-        <xcz_s>暂无</xcz_s>
-        <gm>1</gm>
-        <gm_l>低发期</gm_l>
-        <gm_s>天气舒适，不易发生感冒；</gm_s>
-        <yd>1</yd>
-        <yd_l>非常适宜</yd_l>
-        <yd_s>人们感觉舒适，非常适宜户外运动；</yd_s>
+        <zwx_s>紫外线最弱</zwx_s>
+        <ssd_s>感觉有些凉，但是凉意微薄，不影响户外活动的开展。</ssd_s>
+        <ktk_s>建议开启空调</ktk_s>
+        <xcz_s>洗车后当日有降水、大风或沙尘天气，不适宜洗车</xcz_s>
+        <gm>2</gm>
+        <gm_l>易发期</gm_l>
+        <gm_s>天气很凉，季节转换的气候，慎重增加衣服；较易引起感冒；</gm_s>
+        <yd>5</yd>
+        <yd_l>不适宜</yd_l>
+        <yd_s>虽然晴空万里，但是天气较凉，多数人不适宜户外运动；</yd_s>
         <savedate_weather>2015-04-20</savedate_weather>
         <savedate_life>2015-04-20</savedate_life>
         <savedate_zhishu>2015-04-20</savedate_zhishu>
-        <udatetime>2015-04-19 08:16:00</udatetime>
+        <udatetime>2015-04-20 17:03:00</udatetime>
     </weather>
     <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2013/05/31/6/201353110211795233.jpg</imgurl>
-        <referral>开封府，为北宋时期天下首府，距今已有一千多年的历史，威名驰誉天下。它位于七朝古都开封市碧波荡漾的包公湖畔，占地60余亩、建筑面积1.4万平方米。曾有三位皇帝担任开封府尹，先后有寇准、包拯、欧阳修、范仲淹、苏轼、司马光、沈括等都在此任职。</referral>
-        <title>游玩景点开封府|理由1开封府为北宋时期天下首府，威名驰誉天下，包龙图扶正祛邪、刚直不阿、美名传于古今。理由2开封府气势恢弘，巍峨壮观，与位于包公西湖的包公祠相互呼应，同碧波荡漾的三池湖水相映衬，形成了&amp;ldquo;东府西祠&amp;rdquo;，楼阁碧水的壮丽景观。理由3开封府除了能够看到大批珍贵史料，轶事和陈展外，还能够看到&amp;ldquo;开衙仪式&amp;rdquo;、&amp;ldquo;包公断案&amp;rdquo;、&amp;ldquo;演武场迎宾表演&amp;rdquo;、&amp;ldquo;喷火变脸&amp;rdquo;等丰富多彩的表演活动，真切地体会到&amp;ldquo;游开封府，品味大宋文化；拜包龙图，领略人间正气&amp;rdquo;。</title>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/23/2014012316012101963.jpg</imgurl>
+        <referral>官方推荐全套体验之旅：★★★★★</referral>
+        <title>|理由1芜湖方特欢乐世界是中国目前规模最大的第四代主题公园理由2公园可与西方最先进的主题公园相媲美，被誉为&amp;ldquo;东方梦幻乐园&amp;rdquo;、&amp;ldquo;亚洲科幻神奇&amp;rdquo;理由3方特欢乐世界是一个科技和幻想为主题的乐园，用高新科技打造的主题公园给游客全新的体验</title>
     </listScenery>
     <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2013/05/31/6/201353110211655792.jpg</imgurl>
-        <referral>他们执法严明，清正廉洁，不畏权贵，行政有方。呈现了公生明,清慎勤的道德正气，形成了以廉正刚毅、除暴安良、为官一任造福一方为鲜明特色的开封府衙文化。开封府也因此而深入民心，名垂青史，成为四海闻名的中国古代官衙。</referral>
-        <title>游玩景点开封府</title>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/22/2014012216443284009.jpg</imgurl>
+        <referral>卡通城堡&amp;rarr;魔法城堡&amp;rarr;生命之光&amp;rarr;未来警察&amp;rarr;秦陵历险&amp;rarr;极速飞车&amp;rarr;古文明之光&amp;rarr;盘丝洞&amp;rarr;水漫金山&amp;rarr;猴王&amp;rarr;水世界</referral>
+        <title>芜湖方特梦幻王国景点介绍</title>
     </listScenery>
     <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2013/05/31/6/201353110211776245.jpg</imgurl>
-        <referral>在开封府，您不仅能看到丰富的文史资料、脍炙人口的故事传奇，还能欣赏到《开衙迎宾》、《铡美案》、《铡赵王》、《榜前捉婿》精彩的大型实景剧目。来吧朋友！来开封府您会体会到游开封府品位大宋文化，拜包龙图领略人间正气的真切含义。</referral>
-        <title>游玩景点开封府</title>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/23/2014012316172760972.jpg</imgurl>
+        <referral>★★★★★ 最佳旅行时间： 四季皆宜</referral>
+        <title>游玩景点 方特游玩第一站：欢乐无限卡通城堡</title>
     </listScenery>
     <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2013/05/31/6/201353113011063643.jpg</imgurl>
-        <referral>开封的饮食文化历史悠久,是中国十大菜系中豫菜的发祥地。开封菜也以独特的汴京风味成为豫菜的代表之一。开封的诸多特色风味令全国各地的美食爱好者趋之若鹜,其中最吸引人的有鲤鱼焙面、桶子鸡、套四宝等。</referral>
-        <title>游玩景点开封美食</title>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/23/2014012316203299936.jpg</imgurl>
+        <referral>★★★★★穿衣指数：夏短袖，冬棉袄，外加长袖T恤+外套（春天薄款，秋天厚款），但如果湿冷的冬天到来前，一定要注意防寒。</referral>
+        <title>游玩景点 方特游玩第二站：惊心动魄魔法城堡</title>
     </listScenery>
     <listScenery>
-        <imgurl>http://upload.17u.com/uploadfile/2013/05/31/6/201353113011037544.jpg</imgurl>
-        <referral>到了晚上，著名的鼓楼夜市更是游人如织、食客满座。如今，开封为了发扬这一民间饮食文化，又在鼓楼新天地打造了更具宋文化品位、环境更加优雅的鼓楼食坊。每到华灯初上，沸腾的开封夜市香飘夜空，叫卖声、欢笑声交织成一幅美丽的夜市图画。</referral>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/23/2014012316223027519.jpg</imgurl>
+        <referral>★★★★★ 消费水平：不管是门票、餐饮、还是住宿，在同程网预订，都可以节省一大笔钱。</referral>
+        <title>游玩景点 方特游玩第三站：知识趣味生命之光</title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/23/2014012316271197593.jpg</imgurl>
+        <referral>芜湖华强文化科技产业园方特梦幻王国，坐落于安徽省芜湖市城东新区，占地70万平方米，总投资18亿元人民币，是继方特欢乐世界之后深圳华强文化科技集团在芜兴建的又一个现代综合性主题公园。方特梦幻王国、方特欢乐世界，将如长三角文化旅游版图上璀璨的双子星座，交相辉映，各抒魅力，炫丽迷人，带您踏入东方梦幻乐园、体验世界科幻神奇。 方特梦幻王国采用高科技演绎特色主题，将动漫卡通、电影特技等国际时尚娱乐元素和中国传统文化符号精妙融合，创造充满幻想和创意的神奇天地。公园由魔法城堡、水漫金山、生命之光、猴王、古文明之光、秦陵历险、未来警察、盘丝洞、卡通城堡、欢乐天地、方特乐园等10多个项目区组成，包含主题项目、游乐项目、休闲及景观项目200余项&amp;hellip;&amp;hellip;精彩纷呈，带您畅游云霄、体验极限欢愉。</referral>
+        <title>游玩景点 方特游玩第四站：超炫超酷未来警察</title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/23/2014012316283458788.jpg</imgurl>
+        <referral>首先进入大门，是一条童话造型的商业街，不远处就是方特卡通城堡了，来到儿童游乐区玩了果虫滑车、转转杯、自控飞机等幼儿级别的游戏，当来到勇敢者转盘时，工作人员要求儿童必须由成人陪同，我原本以为类似旋转小飞机那种幼儿级别的项目，于是想都没想就跟着上去了，开动后，我发现肠子都悔清了，它先是平转，慢慢变得竖过来了，感觉就和过山车差不多，心脏不好的我，只好闭着眼、咬着牙、手紧紧抓着扶手，最终回到了平转并停了下来，感觉再多转个一两圈我可能就要被抬下来了。下来后直冒虚汗。</referral>
+        <title>游玩景点 方特游玩第五站：魅影重重之秦陵历险</title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/23/2014012316295691389.jpg</imgurl>
+        <referral>入口的卡通城堡到第一目的地魔法城堡 步行大约需要7分钟左右 我建议如果没有老人就选择跑去 大概就只需要3分钟了 因为招牌项目去迟了会因排队而耽误很多时间 魔法城堡很一期的恐龙危机属于一个类型 但要刺激很多 中间有很多悬崖俯冲之类的尖叫刺激感（身体不好的老人不要坐）而且画面很唯美。让魔法城堡告诉你，神马叫身未动而心已远，坐的车没有动，但是4D环境给你的感觉就像&amp;hellip;&amp;hellip;嗯，就像经历惊险的逃难。带着4D眼镜坐在车上，忽然急速行进到悬崖边，就像要掉下去一样，然后就真的掉下去了。仅用4D效果就让你体验到过山车的感觉有木有？从高空坠下悬崖的感觉有木有？真是太逼真让我时不时摘下眼镜看看是不是真掉下去了。推荐给喜欢刺激的朋友，推荐给喜欢4D电影的朋友，推荐给喜欢坐过山车的朋友，去体验一下不同寻常的过山车之旅。 城堡对面有嘟比汉堡，正宗美式快餐厅，香辣鸡腿堡、奥尔良烤鸡腿堡、香酥鸡汉堡、美式热狗、烤鸡翅、鸡米花&amp;hellip;&amp;hellip;每一样都能让人十指并用、胃口大开！带朋友和家人一起来享用，套餐也挺实惠的！</referral>
+        <title>游玩景点 方特游玩第六站：惊险刺激的极速飞车</title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/23/2014012316304119102.jpg</imgurl>
+        <referral>魔法城堡的旁边就是生命之光，这个在网上的推荐率并不很高，但是我推荐，首先它基本不需要排队，而且4D的屏幕是全亚洲最大的（据说）不过确实有六层楼那么高 观看的环境也很不错 标准的五星级电影院规格 能容纳将近2000人 说的是生命的起源 从细胞的诞生开始一直到现代 赵忠祥配的音 但是这部科普片一点也不枯燥乏味 趣味性很强 尤其喜欢其中的一只小兔鼠 去的朋友有机会一定要拍下来啊 生命之光老少皆宜 一定不要错过哦！</referral>
+        <title>游玩景点 方特游玩第七站：璀璨浩瀚的古文明之光车</title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/23/2014012316341781063.jpg</imgurl>
+        <referral></referral>
+        <title>游玩景点 方特游玩第八站：神话传奇之盘丝洞</title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/23/2014012316354450149.jpg</imgurl>
+        <referral>再往前30米的距离就是未来警察，高科技灾难体验项目&amp;mdash;&amp;mdash;未来警察，以同名电影为故事背景，采用超大多屏立体电影、真人现场表演、巨型机械模型和大型游览车等表现技术，烘托出宏大震撼、亦真亦幻的激战场面，让您身临其境地体验一场未来世界里高智能机器人和人类之间进行的战争玩到现在已经很饿了，虽然中间吃了点东西，但是美味在后面呢，在未来警察旁边有万国美食和梦幻餐厅。在这里尽享中西美食，万国美食大型餐厅准备了中式套餐、水果拼盘、特色意粉、鲜香糕点、滑爽面食&amp;hellip;&amp;hellip;一次尝遍各地美食。梦幻餐厅是大型半自助式餐厅，百种美味佳肴任君挑选。方便快捷的服务、干净舒适的环境、美味可口的佳肴&amp;hellip;&amp;hellip;</referral>
+        <title>游玩景点 方特游玩第九站：场面恢宏的水漫金山</title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/23/2014012316390658091.jpg</imgurl>
+        <referral>古墓惊魂是网上推荐度比较高的项目，所以我忍着要排一个多小时队的痛苦坚持了下来 结果很失望 可能是希望太大了吧 这个不是4D 很像小时候玩的鬼屋 12个人坐在一个小船上沿着轨道在黑乎乎的场景里被吓来吓去。现场实景、立体电影、现场特技等高科技游乐技术营造的千年秦陵古墓幽深黑暗，多自由度游览车行驶在蜿蜒曲折的轨道上凶险异常，您将感受到的是获取宝藏的欣喜，还是无休无止的恐惧？欢迎来到大型室内游历项目&amp;mdash;&amp;mdash;古墓惊魂，体验疯狂探险之旅！</referral>
+        <title>游玩景点 方特游玩第十站：寓意深刻的《猴王》</title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/23/2014012316420297851.jpg</imgurl>
+        <referral>古墓惊魂对面就是极速飞车，是火流星的小型版集合战斗机特技动作，模拟飞行员身心体验，极速飞车归属于"游艺之王"&amp;mdash;&amp;mdash;过山车家族；上下翻滚、螺旋穿梭，极速俯冲&amp;hellip;&amp;hellip;似鹰击长空，若剑指苍穹，令观者欢欣惊叹，给坐者失重、离心状态下的惊险之乐。 如果天气状况良好可以选择游玩 小朋友们可以在旁边玩豪华转马！</referral>
+        <title>游玩景点 方特游玩第十一站:孩子的乐园-水世界</title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/23/2014012316484569994.jpg</imgurl>
+        <referral>对面是失落帝国，讲述孙悟空逃脱的故事，看浮雕活动说话，看立体大战效果，还是不错的，有时间可以去体验一下。没有特定的舞台，游客可以融入到表演中。感觉有点像玩过的幻想游戏里的一些冒险类小游戏。</referral>
+        <title>游玩景点 芜湖梦幻王国夜场</title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/23/2014012316432135565.jpg</imgurl>
+        <referral>按顺序下来就到盘丝洞了，用新型4D剧场表现中国古典名著《西游记》。整蛊搞怪的众小妖纷纷现身，花样繁多的法术直逼眼前。有没有觉得上一句话很熟？哈哈，它就是导游图上的，不过效果确实如此，而且不是很惊险，老少皆宜。关于这个项目有个小小的插曲，屏幕中有个恶心的小虫飞到面前打了个喷嚏，然后就有水滴喷出来，虽然知道那不是小虫子的鼻涕，但还是赶紧把脸擦干净、再擦干净。</referral>
+        <title></title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/23/2014012316501811069.jpg</imgurl>
+        <referral>水漫金山是大家普遍评价很高的项目 在室内 也是半小时循环开放 非4D 是真实场景 容纳120人的大船 还有真人表演小青、白娘子和法海，尤其水漫金山的场面还是比较壮观的，下了船后大家一定要争取站在前三排哦，有惊喜，呵呵~~到时候你们会懂的。漫天的大水从头顶飞过时，心里就只剩新奇这么一个概念了。刚进去坐大船缓缓行进在江南的夜里，两旁红灯笼高高挂，真人表演和屏幕效果融合，窗口的屏幕上是平和的生活场景，真人表演的小青穿插在各个建筑之间找姐姐。最后看吊威亚的白娘子和法海大战，各种特技效果如真实一般。最后白娘子一句话颇有魄力：再不放我官人，小心你的金山寺。然后大水就来了，然后就在头顶飞过去了，然后我们就在水幕下面了，然后就只剩惊奇了，然后走出来还意犹未尽。</referral>
+        <title>游玩景点 方特游玩第一站:惊险刺激火流星</title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/23/2014012313523183677.jpg</imgurl>
+        <referral>首先，它时一部大型的舞台情景剧，相信大众很少会有人有机会去单独购票欣赏话剧、舞剧之类，猴王正好可以弥补空白。其次，猴王的寓意很好，不管对小孩还是成人都是一种包含着激励的感动而且印象深刻！《猴王》，通过一个年轻公猴充满坎坷的经历，生动而深刻地阐释了成长的主题。全剧融多种艺术形式于一体，节奏明快，色彩绚丽，魔幻般地创造了一种新颖奇特的娱乐视野。最后，这部剧的演员都很专业，功底深厚，非一般杂技团出身，舞美效果也很棒，回忆了下，定格的唯美画面不下20个 掌声热烈 不多说了 一会儿传些图片大家欣赏下吧！</referral>
+        <title>游玩景点 方特游玩第二站：4D体验海螺湾</title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/23/2014012313554588389.jpg</imgurl>
+        <referral>最后的一般都是最精彩的水世界。孩子换上泳衣进去后就出不来了，一般带着孩子来的话，这个要放到最后，因为在前面的话会浪费很多时间孩子都不愿意出来，所以排到最后是比较好的。</referral>
+        <title>游玩景点 方特游玩第三站：欢乐无限的儿童王国</title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/23/2014012313570203211.jpg</imgurl>
+        <referral>芜湖方特梦幻王国会不定期的举行夜场，在13年7月份到8月份举行过夜场，夜幕下梦幻公园全新体验。仲夏时分，戴上面具，婉转于轻吧之间，享受华丽都市气氛；夜色中，性感水上比基尼秀，狂欢于火辣与清凉的之间；啤酒狂欢大赛，有趣互动游戏；国际一流表演团队为您倾情出演劲爆时尚舞蹈秀，小丑嘉年华让您彻底放松下来。还有烧烤、龙虾各类小吃让您在美食中放松玩乐。绚丽焰火，狂欢在方特夜场，在璀璨灯光下，走进方特夜场，有静候多时的兔女郎、小恶魔为您倾情服务，感受不一样的贵宾待遇。在仲夏夜中体验刺激项目，大摆锤、海盗船&amp;hellip;&amp;hellip;在夜幕中尖叫放松，水世界里与比基尼少女一同享受清凉水刺激。喷泉乐队与您共同感受炫酷音乐，达到视听高潮。最后，焰火绚丽绽放，在璀璨中挥舞荧光棒，与朋友狂欢！舞蹈！尽情释放自己，浴火重生，迸发青春激情。</referral>
+        <title>游玩景点 方特游玩第四站：幸福温暖的西部传奇</title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/23/2014012313584444469.jpg</imgurl>
+        <referral>&amp;nbsp;奇幻之旅：★★★★★</referral>
+        <title>游玩景点 方特游玩第五站：疯狂逃命之恐龙危机</title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/23/2014012314001036925.jpg</imgurl>
+        <referral>魔法城堡&amp;rarr;生命之光&amp;rarr;未来警察&amp;rarr;古文明之光&amp;rarr;猴王&amp;rarr;盘丝洞&amp;rarr;秦陵历险&amp;rarr;水漫金山</referral>
+        <title>游玩景点 方特游玩第六站：另类刺激的维苏威火山</title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/23/2014012314015748171.jpg</imgurl>
+        <referral>&amp;nbsp;欢乐之旅：★★★★★</referral>
+        <title>游玩景点 方特游玩第七站：悟空逃脱之失落帝国</title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/23/2014012314033164107.jpg</imgurl>
+        <referral>方特乐园&amp;rarr;卡通城堡&amp;rarr;水世界&amp;rarr;转转杯&amp;rarr;果虫滑车&amp;rarr;音乐快车&amp;rarr;自控飞机&amp;rarr;嘟比历险&amp;rarr;豪华转马&amp;rarr;猴王</referral>
+        <title>游玩景点方特游玩第八站：体验冲浪刺激神秘河谷</title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/23/2014012314045228776.jpg</imgurl>
+        <referral>&amp;nbsp;浪漫之旅：★★★★★</referral>
+        <title>游玩景点方特游玩第九站：太空遨游之太空世界</title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/23/2014012314064318440.jpg</imgurl>
+        <referral>大摆锤&amp;rarr;海盗船&amp;rarr;波浪翻滚&amp;rarr;勇敢者转盘&amp;rarr;魔法城堡&amp;rarr;探空飞梭&amp;rarr;极速飞车&amp;rarr;秦陵历险</referral>
+        <title></title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/23/2014012314075874998.jpg</imgurl>
+        <referral>官方推荐全套体验之旅：★★★★★</referral>
+        <title></title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://upload.17u.com/uploadfile/2014/01/23/2/201401231100325287561.jpg</imgurl>
+        <referral>火流星&amp;rarr;海螺湾&amp;rarr;儿童王国&amp;rarr;西部传奇&amp;rarr;恐龙危机&amp;rarr;维苏威火山&amp;rarr;失落帝国&amp;rarr;神秘河谷&amp;rarr;太空世界</referral>
+        <title></title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://upload.17u.com/uploadfile/2014/01/23/2/20140123104552539622.jpg</imgurl>
+        <referral>★★★★★ 最佳旅行时间：四季皆宜</referral>
+        <title></title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/23/2014012317075272467.jpg</imgurl>
+        <referral>★★★★★穿衣指数：夏短袖，冬棉袄，外加长袖T恤+外套（春天薄款，秋天厚款），但如果湿冷的冬天到来前，一定要注意防寒。</referral>
+        <title></title>
+    </listScenery>
+    <listScenery>
+        <imgurl>http://img.17u.com/jqadminpic/uploadpic/old/2014/1/23/2014012314195210425.jpg</imgurl>
+        <referral>★★★★★ 消费水平：不管是门票、餐饮、还是住宿，在同程网预订，都可以节省一大笔钱。</referral>
         <title></title>
     </listScenery>
     <listRestaurant>
-        <name>汴京饭店</name>
+        <name>天都商务酒店</name>
         <location>
-            <lat>34.806157</lat>
-            <lng>114.366411</lng>
+            <lat>31.399925</lat>
+            <lng>118.38391</lng>
         </location>
-        <address>东大街109号（与解放路右司关口段交汇处）</address>
-        <telephone>(0371)2882222</telephone>
-        <uid>d6c5d9917531fff131169b91</uid>
+        <address>芜湖市鸠江区</address>
+        <uid>430c411ff33c24c0b020a817</uid>
     </listRestaurant>
     <listRestaurant>
-        <name>晓宇火锅旗舰店</name>
+        <name>天下布衣饭店</name>
         <location>
-            <lat>34.80057</lat>
-            <lng>114.356241</lng>
+            <lat>31.417392</lat>
+            <lng>118.372139</lng>
         </location>
-        <address>中山路与省府前街交叉口向西100路南</address>
-        <telephone>18237852020</telephone>
-        <uid>a7d709e83723bc47da2f28c6</uid>
+        <address>鸠江区开发区长江路波尔卡国际花园门面房5号楼(老二航局斜对面)</address>
+        <telephone>(0553)5965117</telephone>
+        <uid>9c88a0e0696e1aec1fe999da</uid>
     </listRestaurant>
     <listRestaurant>
-        <name>锦江之星</name>
+        <name>吉祥馄饨</name>
         <location>
-            <lat>34.806542</lat>
-            <lng>114.35963</lng>
+            <lat>31.415204</lat>
+            <lng>118.376783</lng>
         </location>
-        <address>开封市大商千盛百货邻距龙亭景区大门150米，西大街99号</address>
-        <uid>e3d2c0f25527f85ef503b8d0</uid>
+        <address>波尔卡花园49-S02</address>
+        <uid>a865af77dc7084c12811d11c</uid>
     </listRestaurant>
     <listRestaurant>
-        <name>开封市鸿宾巴蜀石锅鱼饭店</name>
+        <name>滁州饭店</name>
         <location>
-            <lat>34.801852</lat>
-            <lng>114.351641</lng>
+            <lat>31.39994</lat>
+            <lng>118.38306</lng>
         </location>
-        <address>新河大小西门对面金明大道与金耀路交叉口金明广场以北天马广场以南</address>
-        <telephone>(0371)2378886,18303858585</telephone>
-        <uid>e073688e5c9e1634b45f1e6e</uid>
+        <address>安徽省芜湖市鸠江区</address>
+        <telephone>13955365183</telephone>
+        <uid>ec96a8cc51d1a9130bccddc5</uid>
     </listRestaurant>
     <listRestaurant>
-        <name>新天地温泉宾馆</name>
+        <name>蓝领特色饭庄</name>
         <location>
-            <lat>34.798932</lat>
-            <lng>114.360297</lng>
+            <lat>31.400233</lat>
+            <lng>118.38867</lng>
         </location>
-        <address>鼓楼区鼓楼新天地15号楼3楼</address>
-        <uid>56f2f696b9057d990aa8d431</uid>
+        <address>芜湖鸠江区银湖创业街39号</address>
+        <telephone>15178569856</telephone>
+        <uid>b6cdf0e51bc5ca71c26c145b</uid>
     </listRestaurant>
     <listRestaurant>
-        <name>又一新饭店</name>
+        <name>合肥小四饭店</name>
         <location>
-            <lat>34.80074</lat>
-            <lng>114.359556</lng>
+            <lat>31.399956</lat>
+            <lng>118.38298</lng>
         </location>
-        <address>鼓楼区寺后街23号（毗邻鼓楼新天地）</address>
-        <telephone>(0371)5956677</telephone>
-        <uid>2c69ee53f22507f5990050cd</uid>
+        <address>安徽省芜湖市鸠江区</address>
+        <telephone>13635532329</telephone>
+        <uid>4ad24f81903f2723d8ecede7</uid>
     </listRestaurant>
     <listRestaurant>
-        <name>黄家包子(解放路店)</name>
+        <name>天涯烤吧</name>
         <location>
-            <lat>34.804037</lat>
-            <lng>114.367467</lng>
+            <lat>31.400087</lat>
+            <lng>118.38503</lng>
         </location>
-        <address>开封鼓楼区解放路北土街段99号(近刘少奇纪念馆)</address>
-        <uid>1c06bba29c25d8ee306212ae</uid>
+        <address>芜湖市鸠江区</address>
+        <telephone>18356227892</telephone>
+        <uid>fe5ee196e0508a8d725e8010</uid>
     </listRestaurant>
     <listRestaurant>
-        <name>马豫兴</name>
+        <name>东伟排档</name>
         <location>
-            <lat>34.80646</lat>
-            <lng>114.351246</lng>
+            <lat>31.400087</lat>
+            <lng>118.38503</lng>
         </location>
-        <address>省府西街(近眼病医院)</address>
-        <uid>0bfce6163d0eaf1232870a3c</uid>
+        <address>芜湖市鸠江区</address>
+        <telephone>18226746147</telephone>
+        <uid>ea666fe03caadb2f2cb17e3a</uid>
     </listRestaurant>
     <listRestaurant>
-        <name>肯德基(龙亭餐厅)-洗手间</name>
+        <name>马奇家饭店</name>
         <location>
-            <lat>34.806335</lat>
-            <lng>114.358993</lng>
+            <lat>31.415327</lat>
+            <lng>118.382062</lng>
         </location>
-        <address>开封市开封市市辖区</address>
-        <uid>712198f3693838c22d4733ae</uid>
+        <address>鸠江区银湖路(中国农业银行对面)</address>
+        <telephone>13865539812</telephone>
+        <uid>bc9838e3914e9299f03cbaff</uid>
     </listRestaurant>
     <listRestaurant>
-        <name>开封贝&#26962;柏亚商务酒店</name>
+        <name>杨铭宇黄焖鸡米饭</name>
         <location>
-            <lat>34.796175</lat>
-            <lng>114.362085</lng>
+            <lat>31.400133</lat>
+            <lng>118.388069</lng>
         </location>
-        <address>开封市自由路55号（马道街与自由路交叉口向东200米路北）</address>
-        <uid>1f95d4487356a1dc21026217</uid>
+        <address>银湖创业街061</address>
+        <uid>5b01812641763e0e1f389496</uid>
     </listRestaurant>
     <listBank>
-        <name>河南汴京农村商业银行大南门储蓄所</name>
+        <name>徽商银行ATM</name>
         <location>
-            <lat>34.800955</lat>
-            <lng>114.351521</lng>
+            <lat>31.399031</lat>
+            <lng>118.383991</lng>
         </location>
-        <address>开封市开封市市辖区</address>
-        <uid>8061efffcbb7e93a8f55ecbb</uid>
+        <address>芜湖市鸠江区</address>
+        <uid>cce6911ecfffb452157643d1</uid>
     </listBank>
     <listBank>
-        <name>河南汴京农村商业银行atm</name>
+        <name>中国邮政储蓄银行ATM</name>
         <location>
-            <lat>34.80097</lat>
-            <lng>114.351112</lng>
+            <lat>31.399039</lat>
+            <lng>118.384051</lng>
         </location>
-        <address>开封市市辖区</address>
-        <uid>365d7a1e183b04ee15a1908a</uid>
+        <address>芜湖市鸠江区</address>
+        <uid>1361856f5dbe86615e17c3fa</uid>
     </listBank>
     <listBank>
-        <name>中国信合ATM(大南门分社)</name>
+        <name>中国光大银行(芜湖澳然天成社区支行)</name>
         <location>
-            <lat>34.80097</lat>
-            <lng>114.351109</lng>
+            <lat>31.399401</lat>
+            <lng>118.387091</lng>
         </location>
-        <address>省府西街82号 附近</address>
-        <uid>210365043fc8b8836849f3fa</uid>
+        <address>安徽省芜湖市鸠江区</address>
+        <uid>a65be9bf2908100d8505bfed</uid>
     </listBank>
     <listBank>
-        <name>农村信用合作联社大南门分社</name>
+        <name>中国光大银行ATM</name>
         <location>
-            <lat>34.800933</lat>
-            <lng>114.351093</lng>
+            <lat>31.399424</lat>
+            <lng>118.387141</lng>
         </location>
-        <address>开封市市辖区</address>
-        <uid>606ab0d022d0d4540f3ddab9</uid>
+        <address>安徽省芜湖市鸠江区</address>
+        <uid>9f60f76174798ab015a190ad</uid>
     </listBank>
     <listBank>
-        <name>中国建设银行(开封迎宾路支行)</name>
+        <name>中国信合(湾里信用社)</name>
         <location>
-            <lat>34.800733</lat>
-            <lng>114.350385</lng>
+            <lat>31.400518</lat>
+            <lng>118.388959</lng>
         </location>
-        <address>开封市市辖区</address>
-        <uid>f5930022c315763a047ce855</uid>
+        <address>齐落山路附近</address>
+        <uid>9ac9079b68239ff26e4760b5</uid>
     </listBank>
     <listBank>
-        <name>中国银行ATM</name>
+        <name>中国信合(长江路信用社)</name>
         <location>
-            <lat>34.800696</lat>
-            <lng>114.350365</lng>
+            <lat>31.403569</lat>
+            <lng>118.371136</lng>
         </location>
-        <address>开封市市辖区</address>
-        <uid>8eb48fa1ec010cd8f32d83d9</uid>
+        <address>长江北路石城小区附近</address>
+        <uid>f06e47b8db0a05ed6240a99f</uid>
     </listBank>
     <listBank>
-        <name>中国农业银行(淮河支行)</name>
+        <name>扬子农村商业银行湾里支行</name>
         <location>
-            <lat>34.801333</lat>
-            <lng>114.349817</lng>
+            <lat>31.40031</lat>
+            <lng>118.38906</lng>
         </location>
-        <address>河南省开封市鼓楼区西司门街22号</address>
-        <telephone>(0371)5662837</telephone>
-        <uid>09185c567a3d965df11937f5</uid>
+        <address>齐落山路莘苑学生公寓1幢01-04</address>
+        <telephone>(0553)5762010</telephone>
+        <uid>5ca9decf4cc739e971455b54</uid>
     </listBank>
     <listBank>
-        <name>中国农业银行ATM</name>
+        <name>扬子农村商业银行(石城分理处)</name>
         <location>
-            <lat>34.801355</lat>
-            <lng>114.349768</lng>
+            <lat>31.403955</lat>
+            <lng>118.371038</lng>
         </location>
-        <address>开封市市辖区</address>
-        <uid>0525414fbc9588819ee321f1</uid>
+        <address>石城湖安置小区A059</address>
+        <telephone>0553-5850169</telephone>
+        <uid>9092b1bd089cc4bfd72ce2c6</uid>
     </listBank>
     <listBank>
-        <name>中国银行(省府西街支行)</name>
+        <name>芜湖扬子农村商业银行ATM(湾里支行)</name>
         <location>
-            <lat>34.801748</lat>
-            <lng>114.34942</lng>
+            <lat>31.400318</lat>
+            <lng>118.389109</lng>
         </location>
-        <address>河南省开封市鼓楼区西司门街22号</address>
-        <uid>a7c56ee0bacbdcb3a3acc4f5</uid>
+        <address>芜湖市齐落山路莘苑学生公寓1幢01-04</address>
+        <uid>f909c76485dfd7f516a19067</uid>
     </listBank>
     <listBank>
-        <name>中国银行atm</name>
+        <name>交通银行(离行式齐落山路店)</name>
         <location>
-            <lat>34.80174</lat>
-            <lng>114.34934</lng>
+            <lat>31.400464</lat>
+            <lng>118.389359</lng>
         </location>
-        <address>开封市市辖区</address>
-        <uid>97384f71fa92ef1979b55cb3</uid>
+        <address>鸠江区齐落山路银湖小区(近离行式齐落山路)</address>
+        <uid>942314de11c2dcf2990050c2</uid>
     </listBank>
     <listHotel>
-        <address>开封新区郑开大道东1号</address>
-        <cityID>154</cityID>
-        <className>五星级</className>
-        <dpNum>151</dpNum>
-        <hotelID>6479</hotelID>
-        <intro>开封开元名都大酒店位于郑开大道东段，至省会郑州仅需半小时车程，距新郑机场50分钟路程，驱车前往开封市内各旅游景点均不超过15分钟，地段优越，交通便利。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/10/a6fa5dc570ed498f9145d21ee04a6d18_400x300_01.jpg</largePic>
-        <lat>34.806852</lat>
-        <lon>114.304901</lon>
-        <name>开封开元名都大酒店</name>
-        <satisfaction>99%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-6479.html</url>
-    </listHotel>
-    <listHotel>
-        <address>自由路西段25号</address>
-        <cityID>154</cityID>
-        <className>经济型</className>
-        <dpNum>225</dpNum>
-        <hotelID>65655</hotelID>
-        <intro>昆仑乐居连锁酒店（开封鼓楼店）是一家以客房为主，兼具中小型会议功能的快捷宾馆，拥有各类普通、豪华客房和古朴典雅的中小会议室。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/9/010d3161ecc447689554f1a7ceada326_400x300_01.jpg</largePic>
-        <lat>34.796509</lat>
-        <lon>114.360958</lon>
-        <name>昆仑乐居连锁酒店（开封鼓楼店）</name>
-        <satisfaction>96%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-65655.html</url>
-    </listHotel>
-    <listHotel>
-        <address>黄河路与大梁路交叉口往北两公里路东</address>
-        <cityID>154</cityID>
-        <className>舒适型</className>
-        <dpNum>42</dpNum>
-        <hotelID>294522</hotelID>
-        <intro>开封中州雅致酒店位于黄河路中段城市花园，毗邻大梁路、东京大道，周边围绕清明上河园、龙亭、中国翰园碑林、万岁山森林公园、小宋城等旅游胜地，方便前往开封火车站、连霍高速入口，地理位置优...</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/10/16/6/9/X/fec2283a3080425da5db6a4eddad0946_400x300_01.jpg</largePic>
-        <lat>34.822798</lat>
-        <lon>114.330278</lon>
-        <name>开封中州雅致酒店</name>
-        <satisfaction>90%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-294522.html</url>
-    </listHotel>
-    <listHotel>
-        <address>寺后街23号</address>
-        <cityID>154</cityID>
-        <className>经济型</className>
-        <dpNum>53</dpNum>
-        <hotelID>130384</hotelID>
-        <intro>汉庭酒店（开封鼓楼店）地理位置优越，交通便利，紧挨着开封著名小吃街“鼓楼夜市”，西邻开封第一楼，距马道街步行街、书店街仅200米路程，距鼓楼地下商业街仅一步之遥，距开封著名景点大相国....</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/8/aed895ac0e8042cda765af91c7b0f5b2_400x300_01.jpg</largePic>
-        <lat>34.800385</lat>
-        <lon>114.359482</lon>
-        <name>汉庭酒店（开封鼓楼店）</name>
-        <satisfaction>92%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-130384.html</url>
-    </listHotel>
-    <listHotel>
-        <address>大梁路9号</address>
-        <cityID>154</cityID>
-        <className>五星级</className>
-        <dpNum>76</dpNum>
-        <hotelID>6735</hotelID>
-        <intro>开封中州国际饭店位于开封市金明区主干道大梁路中段路南，毗临市政府，离开封各大旅游景点车程均在10分钟的车程，交通十分便利。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/10/0ad62d0f10734f50bee47027f5df90bd_400x300_01.jpg</largePic>
-        <lat>34.806802</lat>
-        <lon>114.317019</lon>
-        <name>开封中州国际饭店</name>
-        <satisfaction>93%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-6735.html</url>
-    </listHotel>
-    <listHotel>
-        <address>大庆路2号</address>
-        <cityID>154</cityID>
-        <className>四星级</className>
-        <dpNum>17</dpNum>
-        <hotelID>280967</hotelID>
-        <intro>酒店建于2005年，2006年开始试营业，2009年金源酒店荣膺“国家四星级旅游酒店”称号。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/9/27/6/9/O/1b920382d3484638a39621c62be833e9_400x300_01.jpg</largePic>
-        <lat>34.786112</lat>
-        <lon>114.336377</lon>
-        <name>河南金源大酒店</name>
-        <satisfaction>94%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-280967.html</url>
-    </listHotel>
-    <listHotel>
-        <address>解放大道中段(学院门向南100米路东)</address>
-        <cityID>154</cityID>
-        <className>舒适型</className>
-        <dpNum>19</dpNum>
-        <hotelID>400396</hotelID>
-        <intro> 开封最佳西方财富大酒店是全球最大的酒店连锁集团&#8212;美国最佳西方国际集团在开封的首家国际品牌温泉酒店，按四星级标准建造，座落于开封市解放大道中段，地处开封市商业...</intro>
-        <largePic>http://pic2.40017.cn/hotel/2015/1/9/8/17/B/fdddf4df045d462a8ba887f0eb5ba72a_400x300_01.jpg</largePic>
-        <lat>34.797803</lat>
-        <lon>114.366724</lon>
-        <name>开封最佳西方财富大酒店</name>
+        <address>中山路1号</address>
+        <cityID>50</cityID>
+        <className>豪华型</className>
+        <dpNum>167</dpNum>
+        <hotelID>13641</hotelID>
+        <intro>芜湖新百金陵大酒店（原芜湖新百金鹰国际酒店）位于芜湖繁华的中山路步行街，雄踞城市CBD正中央，毗邻芜湖政务、文化核心区域，出行极为便利。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/12/19/15/13/L/d548f7c5a2334291b1686447e7c5382a_400x300_01.jpg</largePic>
+        <lat>31.331065</lat>
+        <lon>118.374362</lon>
+        <name>芜湖新百金陵大酒店（原芜湖新百金鹰国际酒店）</name>
         <satisfaction>95%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-400396.html</url>
+        <url>http://www.ly.com/HotelInfo-13641.html</url>
     </listHotel>
     <listHotel>
-        <address>大梁路与黄河路交叉口向南200米路西</address>
-        <cityID>154</cityID>
-        <className>经济型</className>
-        <dpNum>52</dpNum>
-        <hotelID>130416</hotelID>
-        <intro>开封元景假日酒店是客房按四星级标准建造的一家设计型生活时尚精品酒店，酒店位于市中心新旧城区结合处，地处黄金地带，地理位置优越，交通便利。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/6/e59624e3e3c84967b68974c2d8e0196c_400x300_01.jpg</largePic>
-        <lat>34.805262</lat>
-        <lon>114.328287</lon>
-        <name>开封元景假日酒店</name>
-        <satisfaction>92%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-130416.html</url>
-    </listHotel>
-    <listHotel>
-        <address>金明大道与宋城路交叉口向北200米路西</address>
-        <cityID>154</cityID>
-        <className>舒适型</className>
-        <dpNum>1</dpNum>
-        <hotelID>437943</hotelID>
-        <intro>开封亿百合主题酒店位于金明大道与宋城路交叉口，出行、交通便利。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2015/2/13/14/24/H/676af050584a4eafaf7de6009e0b0fcf_400x300_01.jpg</largePic>
-        <lat>34.794456</lat>
-        <lon>114.308421</lon>
-        <name>开封亿百合主题酒店</name>
-        <satisfaction>100%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-437943.html</url>
-    </listHotel>
-    <listHotel>
-        <address>龙亭西路7号七盛角1号楼</address>
-        <cityID>154</cityID>
-        <className>经济型</className>
-        <dpNum>5</dpNum>
-        <hotelID>276618</hotelID>
-        <intro>开封红梅苑主题酒店位于七盛角的繁华黄金地带，邻近清明上河园、中国翰园，地理位置优越，旅游交通十分便利。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/10/2/12/0/S/ef9566f295474992a422069d17defb6f_400x300_01.jpg</largePic>
-        <lat>34.811977</lat>
-        <lon>114.348691</lon>
-        <name>开封红梅苑主题酒店</name>
-        <satisfaction>100%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-276618.html</url>
-    </listHotel>
-    <listHotel>
-        <address>寺后街鼓楼新天地17号</address>
-        <cityID>154</cityID>
-        <className>经济型</className>
-        <dpNum>120</dpNum>
-        <hotelID>43791</hotelID>
-        <intro>99快捷宾馆（开封鼓楼店）座落在素有‘七朝古都，北方水城’之称的开封市；市内六家直属连锁宾馆，地理位置优越，交通便利，各店在10分钟内均可到至今保存最为完整建筑宏伟明清古建筑群陕山甘会...</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/11/a5914b56b3f74b19a6399386d102a25f_400x300_01.jpg</largePic>
-        <lat>34.800622</lat>
-        <lon>114.359764</lon>
-        <name>99快捷宾馆（开封鼓楼店）</name>
-        <satisfaction>81%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-43791.html</url>
-    </listHotel>
-    <listHotel>
-        <address>板桥街88号(大梁门向东500米西门教堂后50米)</address>
-        <cityID>154</cityID>
+        <address>赭山中路15,17号</address>
+        <cityID>50</cityID>
         <className>高档型</className>
-        <dpNum>17</dpNum>
-        <hotelID>272320</hotelID>
-        <intro>速8酒店开封清明上河园西门大街店位于开封东西主干道西门大街中段，地理位置优越，周边景点众多。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2015/3/9/18/6/G/429d84f9ab594d38a85c9a77a5c295fe_400x300_01.jpg</largePic>
-        <lat>34.805246</lat>
-        <lon>114.345123</lon>
-        <name>速8酒店（开封清明上河园店）</name>
+        <dpNum>156</dpNum>
+        <hotelID>85174</hotelID>
+        <intro>芜湖豪盛戴斯酒店地处芜湖中心商务区联盛商业广场，毗邻中山路步行街、芜湖政务文化中心。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/9/21ed6fbb110f42069ad77f4cb2666f3f_400x300_01.jpg</largePic>
+        <lat>31.348131</lat>
+        <lon>118.395338</lon>
+        <name>芜湖豪盛戴斯酒店</name>
         <satisfaction>100%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-272320.html</url>
+        <url>http://www.ly.com/HotelInfo-85174.html</url>
     </listHotel>
     <listHotel>
-        <address>龙庭西路七盛角商业街5号楼</address>
-        <cityID>154</cityID>
-        <className>其他</className>
+        <address>观澜路1号(毗邻长江、天主教堂对面、吉和广场旁)</address>
+        <cityID>50</cityID>
+        <className>高档型</className>
         <dpNum>5</dpNum>
-        <hotelID>421033</hotelID>
-        <intro>开封阳光纳里客栈位于开封龙亭区龙庭西路七盛角商业街，近清明上河园，紧邻龙亭公园，周边环境优美，地段优越。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2015/1/23/22/53/A/2d1c2e9d50a243b8af7fdc8f1f9d49fb_400x300_01.jpg</largePic>
-        <lat>34.81255</lat>
-        <lon>114.350616</lon>
-        <name>开封阳光纳里客栈</name>
+        <hotelID>424976</hotelID>
+        <intro>芜湖和众观景酒店位于镜湖区观澜路，邻近天主教堂、长江，景色壮丽。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2015/1/26/20/22/S/67732168f6a246b1a596142995ecac56_400x300_01.jpg</largePic>
+        <lat>31.335219</lat>
+        <lon>118.366922</lon>
+        <name>芜湖和众观景酒店</name>
         <satisfaction>100%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-421033.html</url>
+        <url>http://www.ly.com/HotelInfo-424976.html</url>
     </listHotel>
     <listHotel>
-        <address>黄河路北段(电视塔对面)清明上河园附近</address>
-        <cityID>154</cityID>
+        <address>中山路步行街171号新百大厦北楼(三泰商业广场)</address>
+        <cityID>50</cityID>
         <className>经济型</className>
-        <dpNum>22</dpNum>
-        <hotelID>90158</hotelID>
-        <intro>速8酒店（开封黄河路店）位于开封市金明区黄河大街与大梁路交叉口向北500米路东，西邻电视塔、距开封市老城墙大梁门不足1000米，毗邻开封市两大夜市，距一日穿越千年的著名景点＂清明上河园”开...</intro>
-        <largePic>http://pic2.40017.cn/hotel/2015/1/23/16/50/I/531edeaa6c9e4c8aac8e7fed52d61575_400x300_01.jpg</largePic>
-        <lat>34.813934</lat>
-        <lon>114.329221</lon>
-        <name>速8酒店（开封黄河路店）</name>
-        <satisfaction>95%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-90158.html</url>
-    </listHotel>
-    <listHotel>
-        <address>内环东路与曹门南街交叉口</address>
-        <cityID>154</cityID>
-        <className>经济型</className>
-        <dpNum>52</dpNum>
-        <hotelID>130229</hotelID>
-        <intro>7天连锁酒店（开封石桥口店）位于河南古城开封市顺河区东大街奥德赛大厦（石桥口十字路口），为开封东郊地标性建筑，毗邻汴京公园、铁塔公园、清明上河园、龙亭公园、禹王台、宋都御街、翰园碑....</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/8/47d4e700a0734e08bf846e053c22d828_400x300_01.jpg</largePic>
-        <lat>34.805584</lat>
-        <lon>114.374354</lon>
-        <name>7天连锁酒店（开封石桥口店）</name>
-        <satisfaction>96%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-130229.html</url>
-    </listHotel>
-    <listHotel>
-        <address>郑开大道</address>
-        <cityID>154</cityID>
-        <className>经济型</className>
-        <dpNum>6</dpNum>
-        <hotelID>454759</hotelID>
-        <intro>开封星程锦庭酒店是中国领先的中档酒店品牌&#8212;&#8212;星程酒店成员，围绕“更多服务、更多空间” 两项服务承诺，星程倾力打造“宽敞高雅空间、优质床品卫浴、完备设施服务、i-hotel聪明酒店”四....</intro>
-        <largePic>http://pic2.40017.cn/hotel/2015/2/15/17/33/R/d62566b225b74e6ebbeb60c7a96c99c7_400x300_01.jpg</largePic>
-        <lat>34.808426</lat>
-        <lon>114.296409</lon>
-        <name>开封星程锦庭酒店</name>
+        <dpNum>26</dpNum>
+        <hotelID>363056</hotelID>
+        <intro>莫泰168（芜湖中山路步行街店）位于芜湖市第一经济商圈-中山路步行街核心地段。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/12/4/1/54/A/65fb5e84e4f04adea4e235b419b0676b_400x300_01.jpg</largePic>
+        <lat>31.331804</lat>
+        <lon>118.374927</lon>
+        <name>莫泰168（芜湖中山路步行街店）</name>
         <satisfaction>100%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-454759.html</url>
+        <url>http://www.ly.com/HotelInfo-363056.html</url>
     </listHotel>
     <listHotel>
-        <address>开封晋安路开元华庭南门向西50米</address>
-        <cityID>154</cityID>
-        <className>经济型</className>
-        <dpNum>14</dpNum>
-        <hotelID>209588</hotelID>
-        <intro>开封旺角春天酒店是一家以星级标准建造的精品风格酒店，酒店聘请香港知名设计师精心设计，装饰风格精美典雅，温馨时尚。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/5/d4203b2708824a8cb0cb99dd45f8e2fa_400x300_01.jpg</largePic>
-        <lat>34.802699</lat>
-        <lon>114.293029</lon>
-        <name>开封旺角春天酒店</name>
-        <satisfaction>100%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-209588.html</url>
+        <address>花津中路新时代商业街</address>
+        <cityID>50</cityID>
+        <className>高档型</className>
+        <dpNum>41</dpNum>
+        <hotelID>312425</hotelID>
+        <intro>芜湖威尼斯假日酒店地处芜湖市核心商圈新时代商业街中心地段，交通十分便利。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/11/4/12/23/Z/b55b59d7f16446d58e9759e8795d03f3_400x300_01.jpg</largePic>
+        <lat>31.320661</lat>
+        <lon>118.378843</lon>
+        <name>芜湖威尼斯假日酒店</name>
+        <satisfaction>98%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-312425.html</url>
     </listHotel>
     <listHotel>
-        <address>大梁路99号(西邻小宋城,十四中学、建行干校、二十五中)</address>
-        <cityID>154</cityID>
-        <className>三星级</className>
-        <dpNum>19</dpNum>
-        <hotelID>304573</hotelID>
-        <intro>航天大酒店地理位置优越，东连八朝古城大梁门，西接小宋城、金明广场，南邻市委市政府行政区，北倚电视塔文化园区。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/10/23/21/19/X/e862ea6d43ec427795e2c1cc3eb4e64d_400x300_01.jpg</largePic>
-        <lat>34.808156</lat>
-        <lon>114.325102</lon>
-        <name>开封航天大酒店</name>
-        <satisfaction>79%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-304573.html</url>
-    </listHotel>
-    <listHotel>
-        <address>汴京大道89号八层楼</address>
-        <cityID>154</cityID>
-        <className>经济型</className>
-        <dpNum>29</dpNum>
-        <hotelID>180477</hotelID>
-        <intro>7天连锁酒店（开封鼓楼广场学院门店）毗邻汴京公园、古城墙、禹王台、宋都御街、清明上河园、翰园碑林、铁塔、龙亭、相国寺、开封府等诸多名胜景点，让您轻松享受宋都历史文化。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/8/5/e38e9e2177cd47e589c1eb342652a457_400x300_01.jpg</largePic>
-        <lat>34.799572</lat>
-        <lon>114.376233</lon>
-        <name>7天连锁酒店（开封鼓楼广场学院门店）</name>
+        <address>安徽省芜湖市镜湖路1号</address>
+        <cityID>50</cityID>
+        <className>高档型</className>
+        <dpNum>159</dpNum>
+        <hotelID>15772</hotelID>
+        <intro>芜湖花园湖景西格国际酒店位于芜湖市镜湖路，镜湖之畔，中山路步行街旁，距芜湖市火车站、汽车站约15分钟车程。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/10/ece130e545334d768af61bd00f2f9255_400x300_01.jpg</largePic>
+        <lat>31.332756</lat>
+        <lon>118.376865</lon>
+        <name>芜湖花园湖景西格国际酒店</name>
         <satisfaction>97%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-180477.html</url>
+        <url>http://www.ly.com/HotelInfo-15772.html</url>
     </listHotel>
     <listHotel>
-        <address>大梁路201号</address>
-        <cityID>154</cityID>
+        <address>长江中路15号</address>
+        <cityID>50</cityID>
+        <className>豪华型</className>
+        <dpNum>67</dpNum>
+        <hotelID>122406</hotelID>
+        <intro>芜湖世茂希尔顿逸林酒店位于“江城”芜湖长江江畔，临江而立，毗邻市中心&#8212;中山路步行商业圈、美食街商圈。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/11/9e987935747249ce924c0f7363cb7e07_400x300_01.jpg</largePic>
+        <lat>31.333337</lat>
+        <lon>118.368939</lon>
+        <name>芜湖世茂希尔顿逸林酒店</name>
+        <satisfaction>94%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-122406.html</url>
+    </listHotel>
+    <listHotel>
+        <address>中山北路77号</address>
+        <cityID>50</cityID>
+        <className>五星级</className>
+        <dpNum>89</dpNum>
+        <hotelID>13588</hotelID>
+        <intro>芜湖侨鸿皇冠假日酒店紧邻凤凰美食街、商业步行街以及沃尔玛超市，到芜湖经济开发区、国际会展中心、方特欢乐世界等非常便利。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/10/86afb045104f448b81ded5a738bf7d16_400x300_01.jpg</largePic>
+        <lat>31.343715</lat>
+        <lon>118.375202</lon>
+        <name>芜湖侨鸿皇冠假日酒店</name>
+        <satisfaction>96%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-13588.html</url>
+    </listHotel>
+    <listHotel>
+        <address>北京中路69号</address>
+        <cityID>50</cityID>
+        <className>豪华型</className>
+        <dpNum>20</dpNum>
+        <hotelID>364252</hotelID>
+        <intro>独具徽派建筑文化的芜湖万达嘉华酒店位于城市中心万达广场繁华商圈，精妙绝伦的“芜湖胜景图”；沿用徽州马头墙、小青瓦元素的中餐厅构思精巧，铁画装饰随处可寻；客房内古朴的家具配以时尚家居...</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/12/4/22/40/U/c70dd6f57a5c441fbd6fe8500e92186c_400x300_01.jpg</largePic>
+        <lat>31.340412</lat>
+        <lon>118.405365</lon>
+        <name>芜湖万达嘉华酒店</name>
+        <satisfaction>95%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-364252.html</url>
+    </listHotel>
+    <listHotel>
+        <address>大工山路38号</address>
+        <cityID>50</cityID>
+        <className>豪华型</className>
+        <dpNum>116</dpNum>
+        <hotelID>29968</hotelID>
+        <intro>芜湖中央城大酒店是由安徽安兴杰成房地产开发公司投资，按国际五星级标准设计建造，集住宿、餐饮、会议、娱乐为一体的商务酒店。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/10/3ebae481e3dc4366aa8cd378852ff43f_400x300_01.jpg</largePic>
+        <lat>31.298507</lat>
+        <lon>118.383429</lon>
+        <name>芜湖中央城大酒店</name>
+        <satisfaction>97%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-29968.html</url>
+    </listHotel>
+    <listHotel>
+        <address>九华北路128号</address>
+        <cityID>50</cityID>
+        <className>高档型</className>
+        <dpNum>1</dpNum>
+        <hotelID>283615</hotelID>
+        <intro>芜湖君莱酒店位于鸠江区、九华北路，地处经济开发区，周围道路畅达，出行方便。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/12/18/12/35/K/58bbd932340a49ea954a88033966c611_400x300_01.jpg</largePic>
+        <lat>31.455329</lat>
+        <lon>118.413286</lon>
+        <name>芜湖君莱酒店</name>
+        <satisfaction>100%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-283615.html</url>
+    </listHotel>
+    <listHotel>
+        <address>凤凰美食街12号</address>
+        <cityID>50</cityID>
+        <className>经济型</className>
+        <dpNum>26</dpNum>
+        <hotelID>351652</hotelID>
+        <intro>锦江之星（芜湖凤凰美食街店）位于镜湖区凤凰美食街12号（侨鸿国际购物中心对面），毗邻安徽师范大学、皖南医学院、芜湖市第二人民医院和繁华的绿色商业步行街，火车站、汽车站仅2公里，距方特....</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/11/30/6/0/I/7823c8ac98ec4686a6c3597f4762cf4f_400x300_01.jpg</largePic>
+        <lat>31.344017</lat>
+        <lon>118.376224</lon>
+        <name>锦江之星（芜湖凤凰美食街店）</name>
+        <satisfaction>100%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-351652.html</url>
+    </listHotel>
+    <listHotel>
+        <address>文化路39号</address>
+        <cityID>50</cityID>
+        <className>四星级</className>
+        <dpNum>180</dpNum>
+        <hotelID>1264</hotelID>
+        <intro>芜湖海螺国际大酒店地处历史悠久的文化古城&#8212;&#8212;江城“芜湖”。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/10/890a7d5ef2e942c2b21777f94671984d_400x300_01.jpg</largePic>
+        <lat>31.34491</lat>
+        <lon>118.390705</lon>
+        <name>芜湖海螺国际大酒店（商旅楼）</name>
+        <satisfaction>95%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-1264.html</url>
+    </listHotel>
+    <listHotel>
+        <address>文化路30号</address>
+        <cityID>50</cityID>
+        <className>豪华型</className>
+        <dpNum>51</dpNum>
+        <hotelID>175086</hotelID>
+        <intro>芜湖天泰国际酒店位于芜湖市两站广场，毗邻汽车站、火车站，距芜宣高速出入口仅10分钟车程，交通便利。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/5/df47f49a032440339a1d2d78ef2eb7ff_400x300_01.jpg</largePic>
+        <lat>31.35076</lat>
+        <lon>118.395783</lon>
+        <name>芜湖天泰国际酒店</name>
+        <satisfaction>100%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-175086.html</url>
+    </listHotel>
+    <listHotel>
+        <address>万达广场4号楼1号</address>
+        <cityID>50</cityID>
         <className>舒适型</className>
-        <dpNum>24</dpNum>
-        <hotelID>307717</hotelID>
-        <intro>开封东京国贸商务酒店是一家装修时尚、经典雅致，融合古典风韵与现代风格的时尚商务酒店。</intro>
-        <largePic>http://pic2.40017.cn/hotel/2014/10/27/15/13/D/faa858574bef4b60828eb0a5af0613f6_400x300_01.jpg</largePic>
-        <lat>34.8081</lat>
-        <lon>114.315119</lon>
-        <name>开封东京国贸商务酒店</name>
-        <satisfaction>83%</satisfaction>
-        <url>http://www.ly.com/HotelInfo-307717.html</url>
+        <dpNum>37</dpNum>
+        <hotelID>322008</hotelID>
+        <intro>锦江都城（芜湖镜湖店）位于芜湖万达广场内，紧邻芜湖市行政服务中心。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/11/7/13/43/T/6213b6533b444868894ce77182325507_400x300_01.jpg</largePic>
+        <lat>31.344183</lat>
+        <lon>118.406767</lon>
+        <name>锦江都城（芜湖镜湖店）</name>
+        <satisfaction>97%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-322008.html</url>
+    </listHotel>
+    <listHotel>
+        <address>鸠江区齐落山路19号(联大旁)</address>
+        <cityID>50</cityID>
+        <className>经济型</className>
+        <dpNum>30</dpNum>
+        <hotelID>305032</hotelID>
+        <intro>本酒店与2014年1月已对内部改造升级。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/10/24/0/20/D/507a7482f9a5404c8877942fe77968a6_400x300_01.jpg</largePic>
+        <lat>31.400072</lat>
+        <lon>118.381486</lon>
+        <name>速8酒店(芜湖银湖北路方特店)</name>
+        <satisfaction>97%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-305032.html</url>
+    </listHotel>
+    <listHotel>
+        <address>安徽省芜湖市镜湖区九华中路138号(九华中路与赭山西路交叉口向北50米)</address>
+        <cityID>50</cityID>
+        <className>经济型</className>
+        <dpNum>297</dpNum>
+        <hotelID>10016</hotelID>
+        <intro>锦江之星（芜湖火车站九华中路店）位于安徽省芜湖市九华中路138号（九华中路与赭山中路交叉口往北50米，赭山公园斜对面）。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/14/8/5/F/dda1a3eb7bc04238b2d64ab311fd18f2_400x300_01.jpg</largePic>
+        <lat>31.351818</lat>
+        <lon>118.387575</lon>
+        <name>锦江之星（芜湖火车站九华中路店）</name>
+        <satisfaction>93%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-10016.html</url>
+    </listHotel>
+    <listHotel>
+        <address>九华中路166号</address>
+        <cityID>50</cityID>
+        <className>经济型</className>
+        <dpNum>280</dpNum>
+        <hotelID>33727</hotelID>
+        <intro>芜湖米兰风尚假日酒店地处芜湖九华中路（赭山公园东大门斜对面），与芜湖著名景点赭山公园相对，毗邻芜湖火车站、汽车站，交通便利，距市中心仅几分钟车程。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/9/7ebc032e2c2b43aeb4da4b63ba7efb91_400x300_01.jpg</largePic>
+        <lat>31.348941</lat>
+        <lon>118.387004</lon>
+        <name>芜湖米兰风尚假日酒店</name>
+        <satisfaction>90%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-33727.html</url>
+    </listHotel>
+    <listHotel>
+        <address>九华北路(205国道)凤鸣湖旁,金湾小区对面</address>
+        <cityID>50</cityID>
+        <className>舒适型</className>
+        <dpNum>69</dpNum>
+        <hotelID>60188</hotelID>
+        <intro>芜湖巴厘岛假日酒店位于鸠江区凤鸣湖旁，距方特欢乐世界仅五分钟车程。</intro>
+        <largePic>http://pic2.40017.cn/hotel/2014/8/9/41332113199d4507a31fbb79e49c6e26_400x300_01.jpg</largePic>
+        <lat>31.404274</lat>
+        <lon>118.404003</lon>
+        <name>芜湖巴厘岛假日酒店</name>
+        <satisfaction>100%</satisfaction>
+        <url>http://www.ly.com/HotelInfo-60188.html</url>
     </listHotel>
 </Travel>

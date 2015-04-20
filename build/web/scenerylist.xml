@@ -2,114 +2,114 @@
 <SceneryObjectList>
     <SceneryLists>
         <SceneryList>
-            <title>开封府</title>
+            <title>芜湖方特（直通车）</title>
+            <grade></grade>
+            <price_min>190</price_min>
+            <comm_cnt>2666</comm_cnt>
+            <city_id>50</city_id>
+            <address>安徽省芜湖市银湖北路</address>
+            <sid>19310</sid>
+            <url>http://www.ly.com/scenery/BookSceneryTicket_19310.html</url>
+            <imgurl>http://upload.17u.com/uploadfile/scenerypic_common/160_120/2014/02/26/2/20140226112805583953.jpg</imgurl>
+        </SceneryList>
+        <SceneryList>
+            <title>丫山花海石林风景区</title>
             <grade>AAAA</grade>
-            <price_min>52</price_min>
-            <comm_cnt>2371</comm_cnt>
-            <city_id>154</city_id>
-            <address>河南省开封市包公东湖北岸</address>
-            <sid>18178</sid>
-            <url>http://www.ly.com/scenery/BookSceneryTicket_18178.html</url>
-            <imgurl>http://upload.17u.com/uploadfile/scenerypic_common/160_120/2014/04/14/2/201404141008368711528.jpg</imgurl>
+            <price_min>80</price_min>
+            <comm_cnt>1461</comm_cnt>
+            <city_id>50</city_id>
+            <address>安徽省芜湖市南陵县何湾镇丫山风景区</address>
+            <sid>24414</sid>
+            <url>http://www.ly.com/scenery/BookSceneryTicket_24414.html</url>
+            <imgurl>http://upload.17u.com/uploadfile/scenerypic_common/160_120/2015/03/04/2/201503041148113494069.jpg</imgurl>
         </SceneryList>
         <SceneryList>
-            <title>大宋武侠城</title>
-            <grade></grade>
-            <price_min>35</price_min>
-            <comm_cnt>529</comm_cnt>
-            <city_id>154</city_id>
-            <address>河南省开封市开封市区</address>
-            <sid>27843</sid>
-            <url>http://www.ly.com/scenery/BookSceneryTicket_27843.html</url>
-            <imgurl>http://upload.17u.com/uploadfile/scenerypic_common/160_120/2014/10/20/2/201410201027367379956.jpg</imgurl>
-        </SceneryList>
-        <SceneryList>
-            <title>中国翰园</title>
+            <title>芜湖方特欢乐世界</title>
             <grade>AAAA</grade>
-            <price_min>30</price_min>
-            <comm_cnt>488</comm_cnt>
-            <city_id>154</city_id>
-            <address>河南省开封市龙亭北路15号</address>
-            <sid>8796</sid>
-            <url>http://www.ly.com/scenery/BookSceneryTicket_8796.html</url>
-            <imgurl>http://upload.17u.com/uploadfile/scenerypic_common/160_120/2014/01/17/2/201401171014553477442.jpg</imgurl>
+            <price_min>215</price_min>
+            <comm_cnt>419</comm_cnt>
+            <city_id>50</city_id>
+            <address>安徽省芜湖市鸠江区银湖北路80号方特欢乐世界经营管理有限公司</address>
+            <sid>29704</sid>
+            <url>http://www.ly.com/scenery/BookSceneryTicket_29704.html</url>
+            <imgurl>http://upload.17u.com/uploadfile/scenerypic_common/160_120/2014/05/24/2/201405241425131843272.jpg</imgurl>
         </SceneryList>
         <SceneryList>
-            <title>铁塔公园</title>
+            <title>芜湖方特梦幻王国</title>
+            <grade>AAAA</grade>
+            <price_min>215</price_min>
+            <comm_cnt>733</comm_cnt>
+            <city_id>50</city_id>
+            <address>安徽省芜湖市鸠江区赤铸山东路华强文化科技产业园</address>
+            <sid>28773</sid>
+            <url>http://www.ly.com/scenery/BookSceneryTicket_28773.html</url>
+            <imgurl>http://upload.17u.com/uploadfile/scenerypic_common/160_120/2014/07/22/2/201407221451197676887.jpg</imgurl>
+        </SceneryList>
+        <SceneryList>
+            <title>马仁奇峰森林</title>
+            <grade>AAAA</grade>
+            <price_min>60</price_min>
+            <comm_cnt>2274</comm_cnt>
+            <city_id>50</city_id>
+            <address>安徽省芜湖市</address>
+            <sid>5808</sid>
+            <url>http://www.ly.com/scenery/BookSceneryTicket_5808.html</url>
+            <imgurl>http://upload.17u.com/uploadfile/scenerypic_common/160_120/2014/04/14/2/20140414165235949597.jpg</imgurl>
+        </SceneryList>
+        <SceneryList>
+            <title>芜湖3D魔幻游戏馆</title>
             <grade></grade>
-            <price_min>43</price_min>
-            <comm_cnt>9</comm_cnt>
-            <city_id>154</city_id>
-            <address>河南省开封市北门大街210号铁塔公园</address>
-            <sid>8223</sid>
-            <url>http://www.ly.com/scenery/BookSceneryTicket_8223.html</url>
-            <imgurl>http://upload.17u.com/uploadfile/scenerypic_common/160_120/2014/09/26/2/201409261312007693659.jpg</imgurl>
+            <price_min>19.9</price_min>
+            <comm_cnt>86</comm_cnt>
+            <city_id>50</city_id>
+            <address>安徽芜湖市镜湖区步行街苏宁广场10楼</address>
+            <sid>182925</sid>
+            <url>http://www.ly.com/scenery/BookSceneryTicket_182925.html</url>
+            <imgurl>http://upload.17u.com/uploadfile/scenerypic_common/160_120/2014/09/01/2/201409011630458998026.jpg</imgurl>
         </SceneryList>
         <SceneryList>
-            <title>精忠岳庙</title>
-            <grade></grade>
-            <price_min>23</price_min>
-            <comm_cnt>72</comm_cnt>
-            <city_id>154</city_id>
-            <address>河南开封市朱仙镇岳庙大街</address>
-            <sid>30584</sid>
-            <url>http://www.ly.com/scenery/BookSceneryTicket_30584.html</url>
-            <imgurl>http://upload.17u.com/uploadfile/scenerypic_common/160_120/2014/04/22/2/201404221620471178481.jpg</imgurl>
-        </SceneryList>
-        <SceneryList>
-            <title>开封天波杨府</title>
+            <title>乘神舟游长江</title>
             <grade></grade>
             <price_min>55</price_min>
-            <comm_cnt>20</comm_cnt>
-            <city_id>154</city_id>
-            <address>河南省开封市龙亭区龙亭北路14号</address>
-            <sid>45577</sid>
-            <url>http://www.ly.com/scenery/BookSceneryTicket_45577.html</url>
-            <imgurl>http://upload.17u.com/uploadfile/scenerypic_common/160_120/2013/09/06/204/201309061033345486873.jpg</imgurl>
+            <comm_cnt>35</comm_cnt>
+            <city_id>50</city_id>
+            <address>安徽省芜湖市新市口长江游船码头（世贸百货对面）</address>
+            <sid>31197</sid>
+            <url>http://www.ly.com/scenery/BookSceneryTicket_31197.html</url>
+            <imgurl>http://upload.17u.com/uploadfile/scenerypic_common/160_120/2014/05/28/2/201405280940331951800.JPG</imgurl>
         </SceneryList>
         <SceneryList>
-            <title>开封龙亭</title>
+            <title>大浦乡村世界</title>
             <grade></grade>
-            <price_min>75</price_min>
-            <comm_cnt>57</comm_cnt>
-            <city_id>154</city_id>
-            <address>河南省开封市龙亭区龙亭南路</address>
-            <sid>1648</sid>
-            <url>http://www.ly.com/scenery/BookSceneryTicket_1648.html</url>
-            <imgurl>http://upload.17u.com/uploadfile/scenerypic_common/160_120/2013/09/06/204/201309061009404411452.jpg</imgurl>
+            <price_min>40</price_min>
+            <comm_cnt>1453</comm_cnt>
+            <city_id>50</city_id>
+            <address>芜湖市南陵县大浦试验区（G50高速芜湖南出口左转9公里处）</address>
+            <sid>28321</sid>
+            <url>http://www.ly.com/scenery/BookSceneryTicket_28321.html</url>
+            <imgurl>http://upload.17u.com/uploadfile/scenerypic_common/160_120/2014/09/09/2/201409091627147635930.jpg</imgurl>
         </SceneryList>
         <SceneryList>
-            <title>千回大宋</title>
+            <title>柏庄儿童王国</title>
             <grade></grade>
-            <price_min>125</price_min>
-            <comm_cnt>58</comm_cnt>
-            <city_id>154</city_id>
-            <address>河南省开封市大梁路西段202号东京艺术中心</address>
-            <sid>180382</sid>
-            <url>http://www.ly.com/scenery/BookSceneryTicket_180382.html</url>
-            <imgurl>http://upload.17u.com/uploadfile/scenerypic_common/160_120/2014/05/08/2/201405081453329324149.jpg</imgurl>
+            <price_min>35</price_min>
+            <comm_cnt>95</comm_cnt>
+            <city_id>50</city_id>
+            <address>安徽省芜湖市弋江区九华南路与大工山路交叉口柏庄时代广场影院楼一楼</address>
+            <sid>46087</sid>
+            <url>http://www.ly.com/scenery/BookSceneryTicket_46087.html</url>
+            <imgurl>http://upload.17u.com/uploadfile/scenerypic_common/160_120/2013/12/10/2/201312101053587487628.jpg</imgurl>
         </SceneryList>
         <SceneryList>
-            <title>铁塔公园（夜间铁塔光影秀项目）</title>
+            <title>世纪星真冰滑冰场</title>
             <grade></grade>
-            <price_min>48</price_min>
-            <comm_cnt>131</comm_cnt>
-            <city_id>154</city_id>
-            <address>河南省开封市北门大街210号铁塔公园内</address>
-            <sid>179197</sid>
-            <url>http://www.ly.com/scenery/BookSceneryTicket_179197.html</url>
-            <imgurl>http://upload.17u.com/uploadfile/scenerypic_common/160_120/2014/03/17/2/201403171420344111397.jpg</imgurl>
-        </SceneryList>
-        <SceneryList>
-            <title>大宋御河</title>
-            <grade></grade>
-            <price_min>27</price_min>
-            <comm_cnt>16</comm_cnt>
-            <city_id>154</city_id>
-            <address>河南省开封市包公湖北路包公祠码头</address>
-            <sid>182192</sid>
-            <url>http://www.ly.com/scenery/BookSceneryTicket_182192.html</url>
-            <imgurl>http://upload.17u.com/uploadfile/scenerypic_common/160_120/2014/07/18/2/201407181247384453656.jpg</imgurl>
+            <price_min>45</price_min>
+            <comm_cnt>23</comm_cnt>
+            <city_id>50</city_id>
+            <address>安徽省芜湖市镜湖区赭山中路17号联盛广场四楼</address>
+            <sid>45342</sid>
+            <url>http://www.ly.com/scenery/BookSceneryTicket_45342.html</url>
+            <imgurl>http://upload.17u.com/uploadfile/scenerypic_common/160_120/2014/12/25/2/201412251650482297302.jpg</imgurl>
         </SceneryList>
     </SceneryLists>
 </SceneryObjectList>
