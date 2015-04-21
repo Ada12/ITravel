@@ -22,6 +22,7 @@
                 <title>景点详情</title>
             </head>
             <body>
+                <a href="http://localhost:8080/ITravel/BackServlet" style="font-size:25px; margin-left: 295px;">重新搜索</a>
                 <div id="tab">
                     <input type="radio" checked="checked" name="tab" id="label01" />
                     <input type="radio" name="tab" id="label02" />
@@ -40,8 +41,7 @@
                             <br/>
                             <h3>景点名称：<xsl:value-of select="Travel/travelTitle"></xsl:value-of></h3><br/>
                             <xsl:for-each select="Travel/listScenery">
-                                <h4>
-                                    <strong>主题： <xsl:value-of select="title"></xsl:value-of></strong>
+                                <h4>主题： <xsl:value-of select="title"></xsl:value-of>
                                     <br/>
                                 简介：<xsl:value-of select="referral"></xsl:value-of><br/><br/>
                                 <xsl:element name="img">
@@ -83,7 +83,7 @@
                                 电话：<xsl:value-of select="telephone"></xsl:value-of><br/>
                             </xsl:for-each>
                         </li>
-                        <li class="bg2">
+                        <li class="bg4">
                             <h2>酒店</h2>
                             <xsl:for-each select="Travel/listHotel">
                                 <h3>名称： <xsl:value-of select="name"></xsl:value-of></h3><br/>

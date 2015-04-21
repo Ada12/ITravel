@@ -1,3 +1,7 @@
+body{
+     background-color: #FFFFCC;
+}
+
 /* 每个checked，只有一个内容块被设置为显示*/
 #label01:checked ~ #content li:nth-child(1) {
   display:block;
@@ -58,11 +62,11 @@
 }
 
 .bg3 {
-  background:#CC99FF;
+  background:#00CC99;
 }
 
 .bg4 {
-  background:#FFCC00;
+  background:#FFCC66;
 }
 
 #tab {

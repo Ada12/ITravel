@@ -29,7 +29,9 @@
                     <div class='container-fluid'>
                         <div class='row-fluid'>
                             <div class='span12'>
+                                
                                 <form class="form-signin" style="margin-right: 1px;" action="SearchScenery" method="POST">
+                                    <a href="http://localhost:8080/ITravel/BackServlet" style="font-size:25px">重新搜索</a>
                                     <input class="form-control" placeholder="景点名称" name="sceneryName" type="text"/>
                                     <input class="btn btn-lg btn-primary btn-block" type="submit" value="搜索" name="submit"/>
                                 </form>                       
@@ -59,8 +61,6 @@
                                                             最低票价：<xsl:value-of select="price_min"></xsl:value-of>
                                                             <br/>
                                                             点评数：<xsl:value-of select="comm_cnt"></xsl:value-of>
-                                                            <br/>
-                                                            城市：<xsl:value-of select="city_id"></xsl:value-of>
                                                             <br/>
                                                             地址：<xsl:value-of select="address"></xsl:value-of>
                                                             <br/>
