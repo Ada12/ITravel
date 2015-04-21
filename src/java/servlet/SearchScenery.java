@@ -47,6 +47,7 @@ public class SearchScenery extends HttpServlet {
      */
     
     public String changeCoding(String scenery){
+        scenery = scenery.trim();
         String t = scenery.substring(2, scenery.length()-1);
         String[] t1 = t.split(";&#");
         String[] rr = new String[t1.length];
@@ -79,7 +80,12 @@ public class SearchScenery extends HttpServlet {
             throws ServletException, IOException {
         response.setContentType("text/html;charset=UTF-8");
         String scenery = request.getParameter("sceneryName");
-        String sceneryName = changeCoding(scenery);
+        String sceneryName = "";
+        if(scenery.indexOf("&#") != -1){
+            sceneryName = changeCoding(scenery);
+        }else{
+            sceneryName = scenery;
+        }
         HttpSession session = request.getSession();
         String cityName = (String) session.getAttribute("cityName");
         try {

@@ -22,7 +22,7 @@
                 <title>景点详情</title>
             </head>
             <body>
-                <a href="http://localhost:8080/ITravel/BackServlet" style="font-size:25px; margin-left: 295px;">重新搜索</a>
+                <a href="http://localhost:8080/ITravel/SceneryListServlet" style="font-size:25px; margin-left: 295px;">所有景点</a>
                 <div id="tab">
                     <input type="radio" checked="checked" name="tab" id="label01" />
                     <input type="radio" name="tab" id="label02" />
@@ -54,19 +54,20 @@
                         <li class="bg2">
                             <h2>天气</h2>
                             <h4>
-                            状况：<xsl:value-of select="Travel/weather/status1"></xsl:value-of><br/>
-                            风向：<xsl:value-of select="Travel/weather/direction"></xsl:value-of><br/>
-                            风力：<xsl:value-of select="Travel/weather/power1"></xsl:value-of><br/>
-                            最高温度：<xsl:value-of select="Travel/weather/temperature1"></xsl:value-of><br/>
-                            最低温度：<xsl:value-of select="Travel/weather/temperature2"></xsl:value-of><br/>
-                            体感指数：<xsl:value-of select="Travel/weather/ssd"></xsl:value-of>,<xsl:value-of select="Travel/weather/ssd_s"></xsl:value-of><br/>
-                            紫外线指数：<xsl:value-of select="Travel/weather/zwx"></xsl:value-of>,<xsl:value-of select="Travel/weather/zwx_1"></xsl:value-of><br/>
-                            空调指数：<xsl:value-of select="Travel/weather/ktk"></xsl:value-of>,<xsl:value-of select="Travel/weather/ktk_s"></xsl:value-of><br/>
-                            污染指数：<xsl:value-of select="Travel/weather/pollution"></xsl:value-of>,<xsl:value-of select="Travel/weather/pollution_s"></xsl:value-of><br/>
-                            洗车指数：<xsl:value-of select="Travel/weather/xcz"></xsl:value-of>,<xsl:value-of select="Travel/weather/xcz_s"></xsl:value-of><br/>
-                            穿衣指数：<xsl:value-of select="Travel/weather/chy"></xsl:value-of>,<xsl:value-of select="Travel/weather/chy_shuoming"></xsl:value-of><br/>
-                            感冒指数：<xsl:value-of select="Travel/weather/gm"></xsl:value-of>,<xsl:value-of select="Travel/weather/gm_s"></xsl:value-of><br/>
-                            运动指数：<xsl:value-of select="Travel/weather/yd"></xsl:value-of>，<xsl:value-of select="Travel/weather/yd_1"></xsl:value-of><br/>
+                            状况：<xsl:value-of select="Travel/weather/status1"></xsl:value-of><br/><br/>
+                            风向：<xsl:value-of select="Travel/weather/direction"></xsl:value-of><br/><br/>
+                            风力：<xsl:value-of select="Travel/weather/power1"></xsl:value-of><br/><br/>
+                            最高温度：<xsl:value-of select="Travel/weather/temperature1"></xsl:value-of><br/><br/>
+                            最低温度：<xsl:value-of select="Travel/weather/temperature2"></xsl:value-of><br/><br/>
+                            体感指数：<xsl:value-of select="Travel/weather/ssd"></xsl:value-of>,<xsl:value-of select="Travel/weather/ssd_s"></xsl:value-of><br/><br/>
+                            紫外线指数：<xsl:value-of select="Travel/weather/zwx"></xsl:value-of>,<xsl:value-of select="Travel/weather/zwx_1"></xsl:value-of><br/><br/>
+                            空调指数：<xsl:value-of select="Travel/weather/ktk"></xsl:value-of>,<xsl:value-of select="Travel/weather/ktk_s"></xsl:value-of><br/><br/>
+                            污染指数：<xsl:value-of select="Travel/weather/pollution"></xsl:value-of>,<xsl:value-of select="Travel/weather/pollution_s"></xsl:value-of><br/><br/>
+                            洗车指数：<xsl:value-of select="Travel/weather/xcz"></xsl:value-of>,<xsl:value-of select="Travel/weather/xcz_s"></xsl:value-of><br/><br/>
+                            穿衣指数：<xsl:value-of select="Travel/weather/chy"></xsl:value-of>,<xsl:value-of select="Travel/weather/chy_shuoming"></xsl:value-of><br/><br/>
+                            感冒指数：<xsl:value-of select="Travel/weather/gm"></xsl:value-of>,<xsl:value-of select="Travel/weather/gm_s"></xsl:value-of><br/><br/>
+                            运动指数：<xsl:value-of select="Travel/weather/yd"></xsl:value-of><xsl:value-of select="Travel/weather/yd_1"></xsl:value-of><br/><br/>
+                            <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
                             </h4>
                         </li>
                         <li class="bg3">
